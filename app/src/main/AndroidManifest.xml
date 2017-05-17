@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sahftech.panduansholatkhusyuk">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/psk_icon"
+        android:label="Panduan Sholat Khusyuk"
+        android:roundIcon="@drawable/psk_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SplashScreen"
+            android:screenOrientation="portrait"
+
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".panduansholatkhusyuk.Psk_1"
+            android:label="Panduan Sholat Khusyuk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduansholatkhusyuk.Psk_2"
+            android:label="Panduan Sholat Khusyuk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduansholatkhusyuk.Psk_3"
+            android:label="Panduan Sholat Khusyuk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduansholatkhusyuk.Psk_4"
+            android:label="Panduan Sholat Khusyuk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduansholatkhusyuk.Psk_5"
+            android:label="Panduan Sholat Khusyuk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduansholatkhusyuk.Psk_6"
+            android:label="Panduan Sholat Khusyuk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduansholatkhusyuk.Psk_7"
+            android:label="Panduan Sholat Khusyuk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduansholatkhusyuk.Psk_8"
+            android:label="Panduan Sholat Khusyuk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduansholatkhusyuk.Psk_9"
+            android:label="Panduan Sholat Khusyuk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduansholatkhusyuk.Psk_10"
+            android:label="Panduan Sholat Khusyuk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_1"
+            android:label="Sunnah Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_2"
+            android:label="Sunnah Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_3"
+            android:label="Sunnah Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_4"
+            android:label="Sunnah Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_5"
+            android:label="Sunnah Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_6"
+            android:label="Sunnah Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_7"
+            android:label="Sunnah Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_8"
+            android:label="Sunnah Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_9"
+            android:label="Sunnah Dalam Sholat"
+
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_10"
+            android:label="Sunnah Dalam Sholat"
+
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_11"
+            android:label="Sunnah Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_12"
+            android:label="Sunnah Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sunnahsholat.Sunnah_13"
+            android:label="Sunnah Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".larangan.Larangan_1"
+            android:label="Larangan Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".larangan.Larangan_2"
+            android:label="Larangan Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".larangan.Larangan_3"
+            android:label="Larangan Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".larangan.Larangan_4"
+            android:label="Larangan Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".larangan.Larangan_5"
+            android:label="Larangan Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".larangan.Larangan_6"
+            android:label="Larangan Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".larangan.Larangan_7"
+            android:label="Larangan Dalam Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tasbih_Digital"
+            android:label="Tasbih Digital"
+            android:screenOrientation="portrait" />
+        <activity android:name=".panduanlain.PanduanLain" />
+        <activity
+            android:name=".panduanlain.ALLAHMenjawabAlFatihah"
+            android:label="ALLAH Menjawab Al Fatihah Kita"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.AncamanBagiYangTidakSholat"
+            android:label="Ancaman Bagi Yang Tidak Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.CaraBerwudhu"
+            android:label="Cara Berwudhu Sesuai Sunnah Rasulullah"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.CaraMandiWajib"
+            android:label="Cara Mandi Wajib"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.CaraSholatBerjamaah"
+            android:label="Cara Sholat Berjamaah"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.DefinisidanPengertianSholatKhusyu"
+            android:label="Definisi Sholat Khusyuk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.DoaMasukKeluarMasjid"
+            android:label="Doa Masuk Keluar Masjid"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.DoaSetelahIqomah"
+            android:label="Doa Setelah Iqomah"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.DoaSetelahSholat"
+            android:label="Doa Setelah Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.DoaQunut"
+            android:label="Doa Qunut"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.DoaSetelahAdzan"
+            android:label="Doa Setelah Adzan"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.HPBerbunyiKetikaSholat"
+            android:label="HP Berbunyi Ketika Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.KesehatanGerakanSholat"
+            android:label="Kesehatan Gerakan Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.MakmumMasbuk"
+            android:label="Makmum Masbuk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.ManfaatDanKeutamaanSholatTarawih"
+            android:label="Manfaat Dan Keutamaan Sholat Tarawih"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.MenahanKentutKetikaSholat"
+            android:label="Menahan Kentut Ketika Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.RukunRukunSholat"
+            android:label="Rukun Rukun Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatAwWabin"
+            android:label="Sholat AwWabin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatDhuha"
+            android:label="Sholat Dhuha"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatGaib"
+            android:label="Sholat Gaib"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatGerhana"
+            android:label="Sholat Gerhana"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatHajat"
+            android:label="Sholat Hajat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatIdulAdhaDanIdulFitri"
+            android:label="Sholat Idul Adha dan Idul Fitri"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatIstikharah"
+            android:label="Sholat Istikharah"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatIstisqa"
+            android:label="Sholat Istisqa"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatJamaDanQashar"
+            android:label="Sholat Jama dan Qashar" />
+        <activity
+            android:name=".panduanlain.SholatJenazah"
+            android:label="Sholat Jenazah"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatJumat"
+            android:label="Sholat Jumat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatMuthlaq"
+            android:label="Sholat Muthlaq"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatSafar"
+            android:label="Sholat Safar"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatSunnahRawatib"
+            android:label="Sholat Sunnah Rawatib"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatTahajud"
+            android:label="Sholat Tahajud"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatTahiyatulMasjid"
+            android:label="Sholat Tahiyatul Masjid"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatTarawih"
+            android:label="Sholat Tarawih"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatTasbih"
+            android:label="Sholat Tasbih"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SujudSahwi"
+            android:label="Sujud Sahwi"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SyaratMuadzin"
+            android:label="Syarat Muadzin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SyaratSahSholat"
+            android:label="Syarat Sah Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SyaratWajibSholat"
+            android:label="Syarat Wajib Sholat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".panduanlain.SholatWitir"
+            android:label="Sholat Witir"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Credit"
+            android:label="Credit"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".About"
+            android:label="About"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PetunjukTasdig"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Pengganti Sholat Jumat"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Orang yang tidak shalat Jumat karena udzur, sakit atau safar, atau sebab lainnya, dia wajib melaksanakan shalat zuhur."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Dalil hal ini adalah keterangan sahabat Ibnu Mas’ud radhiyallahu ‘anhu :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:src="@drawable/sumberlain1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Siapa yang mendapatkan satu rakaat (bersama imam Jumat) maka dia mendapatkan Jumatan. Dan siapa yang tidak mendapatkan rakaat imam maka dia harus shalat zuhur.” (HR. Abdurrazaq dalam Mushannaf 5477)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Dalam riwayat lain, dari jalur Hubairah bin Yarim, Ibnu Mas’ud mengatakan,"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:src="@drawable/sumberlain2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“Siapa yang ketinggalan rakaat terakhir (shalat Jumat) dia harus shalat empat rakaat.” (HR. Abdurrazaq dalam Mushannaf 5479)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Kemudian dalam riwayat Abdullah bin Ma’dan dari neneknya, beliau menceritakan bahwa Abdullah bin Mas’ud pernah memberikan nasehat kepada kami (para wanita),"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:src="@drawable/sumberlain3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Apabila kalian pada hari Jumat ikut shalat bersama imam (Jumatan) maka shalatlah sebagaimana shalatnya imam (2 rakaat). Dan jika kalian shalat di rumah, shalatlah empat rakaat.” (HR. Ibn Abi Syaibah 5154 dan Abdurrazaq dalam Mushanaf 5273)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="At-Turmudzi mengatakan : "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:src="@drawable/sumberlain4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Demikianlah yang dipraktekkan kebanyakan para ulama di kalangan sahabat Nabi shallallahu ‘alaihi wa sallam dan yang lainnya. Mereka mengatakan, ‘Siapa yang menjumpai satu rakaat shalat Jumat maka dia tambahkan satu rakaat lagi. Dan siapa yang menjumpai jamaah Jumatan telah duduk (tasyahud) maka dia harus shalat 4 rakaat.’ (Jami’ at-Turmudzi, 2:402)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingTop="15dp"
+            android:text="Seperti itulah sikap para sahabat. Sebagai mukmin yang baik, selayaknya kita hanya mengikuti dan tidak mengambil pendapat tanpa dasar yang jelas."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatJumatPengganti"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat Jumat Pengganti"
+            android:textColor="@color/colorAccent"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

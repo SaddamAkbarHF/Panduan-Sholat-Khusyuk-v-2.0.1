@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="15dp"
+            android:text="Cara Berwudhu Sesuai"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="30dp"
+            android:text="Sunnah Rasulullah"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Bersuci dari hadats merupakan syarat sah shalat. Allah Subhanahu wa Ta&apos;aala tidak akan menerima shalat seseorang yang berhadats sampai ia berwudhu&apos;, karena Rasulullah Shallallahu ‘alaihi wa sallam bersabda: Allah tidak menerima shalat salah seorang kamu jika berhadats sampai ia berwudhu&apos;. (HR. Bukhari dan Muslim)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Seseorang yang ingin mengerjakan shalat haruslah berwudhu&apos; terlebih dahulu, karena Allah Subhanahu wa Ta&apos;aala berfirman: Hai orang yang beriman, jika kamu ingin menegakkan shalat maka basuhlah wajahmu dan tanganmu sampai dengan siku, sapulah kepalamu dan basuhlah kakimu sampai dengan kedua mata kaki, jika kamu junub (hadats besar) maka mandilah... (QS. al-Maidah/5: 6)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Adapun tata cara berwudhu yang dilakukan oleh Rasulullah Shallallahu ‘alaihi wa sallam telah diajarkan oleh &apos;Utsman bin &apos;Affan radhiyallahu ‘anhu dalam hadits yang diriwayatkan oleh &apos;Imran bekas budak &apos;Utsman, bahwasanya &apos;Utsman bin &apos;Affan meminta untuk dibawakan air wudhu&apos;, lalu ia membasuh tangannya tiga kali, kemudian beliau berkumur-kumur dan memasukkan air ke dalam lubang hidung dan mengeluarkannya kembali tiga kali, kemudian beliau membasuh wajahnya tiga kali, kemudian ia membasuh tangan kanannya sampai dengan siku tiga kali, kemudian tangan kiri seperti itu juga, kemudian dia menyapu kepalanya, kemudian ia membasuh kaki kanannya sampai dengan kedua mata kaki, kemudian kaki kirinya seperti itu juga, lalu ia berkata: Aku telah melihat Rasulullah Shallallahu ‘alaihi wa sallam berwudhu&apos; seperti wudhu&apos;ku ini, lantas Rasulullah Shallallahu ‘alaihi wa sallam bersabda: Barangsiapa yang berwudhu seperti wudhu&apos;ku ini (maksudnya wudhu&apos; Nabi Shallallahu ‘alaihi wa sallam) lalu ia bangkit mengerjakan shalat dua raka&apos;at dan tidak berbicara dalam hatinya (dalam urusan dunia), maka Allah Subhanahu wa Ta&apos;aala  akan mengampuni dosa-dosanya yang telah berlalu. (HR. Bukhari-Muslim)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Dalam ayat di atas, Allah Subhanahu wa Ta&apos;aala menjelaskan tata cara berwudhu&apos; secara global, dan Rasulullah Shallallahu ‘alaihi wa sallam telah menjelaskannya secara terperinci, baik melalui perkataan ataupun perbuatan, yaitu:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text=" 1. Niat"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Rasulullah Shallallahu ‘alaihi wa sallam bersabda: Hanya saja amalan itu tergantung kepada niat, dan seseorang mendapatkan pahala dari apa yang diniatkannya. (Bukhari Muslim)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Niat adalah keinginan dan tekad untuk melakukan sesuatu. Maka niat itu letaknya di hati dan tidak dilafazkan di mulut. Apa yang dilakukan oleh sebagian orang sebelum berwudhu dimana ia berkata: Sengaja aku berwudhu untuk menghilangkan hadats kecil untuk mengerjakan shalat lillahi Ta&apos;ala, merupakan perbuatan yang tidak ada dalilnya dan tidak pernah diajarkan oleh Rasulullah Shallallahu ‘alaihi wa sallam. Oleh karena itu, tidak disyariatkan kepada kita untuk melafazkan niat seperti hal di atas, karena niat itu cukup tekad dan keinginan yang ada di dalam hati."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="2. Membaca Basmalah"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Rasulullah Shallallahu ‘alaihi wa sallam bersabda: Tidak ada shalat bagi orang yang tidak berwudhu&apos; dan tidak ada wudhu&apos; bagi orang yang tidak menyebut nama Allah Subhanahu wa Ta&apos;aala. (Hadits ini derajatnya hasan diriwayatkan oleh Abu Dawud dan Ibnu Majah)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="3. Membasuh Kedua Tangan"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Membasuhnya dengan cara menuangkan air ke atas kedua tangan, berdasarkan hadits &apos;Utsman bin &apos;Affan radhiyallahu ‘anhu: Lalu beliau membasuh kedua tangannya tiga kali (Bukhari Muslim), adapun hadits dari Abu Hurairah radhiyallahu ‘anhu, ia berkata: Rasulullah Shallallahu ‘alaihi wa sallam bersabda: Apabila seorang kamu bangun tidur hendaklah membasuh kedua tangannya sebelum memasukkannya ke dalam bejana, karena dia tidak tahu dimanakah letak tangannya sewaktu malam hari. (HR. Bukhari Muslim). Cara membasuh tangan dalam permasalahan ini ialah dimulai dari ujung jari sampai ke pergelangan tangan sebanyak tiga kali."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="4. Berkumur-kumur Dan Memasukkan Air Ke Dalam Lubang Hidung"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Rasulullah Shallallahu ‘alaihi wa sallam bersabda: Jika kamu berwudhu&apos; maka berkumur-kumurlah. (Hadits Shohih, riwayat Abu Dawud). Rasulullah Shallallahu ‘alaihi wa sallam bersabda: Jika salah seorang kamu berwudhu&apos; maka hendaklah dia memasukkan air ke dalam hidungnya kemudian dia keluarkan kembali. (HR. Abu Dawud). Adapun berkumur-kumur dilakukan tiga kali."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="5. Membasuh Wajah"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Allah Subhanahu wa Ta&apos;aala berfirman: maka basuhlah wajahmu. (QS. al-Maidah/5, ayat 6). Dalam hadits yang diriwayatkan dari &apos;Utsman radhiyallahu ‘anhu: Lalu ia membasuh wajahnya tiga kali. Batas wajah secara horizontal adalah mulai dari pangkal telinga kiri sampai ke pangkal telinga kanan, sedangkan secara vertikal adalah mulai dari dagu sampai ke kening/jidat tempat tumbuh rambut (berdasarkan tempat tumbuhnya rambut pada kepala manusia kebanyakan)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="6. Membasuh Tangan Sampai Dengan Siku"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Allah Subhanahu wa Ta&apos;aala berfirman: Basuhlah tanganmu sampai dengan siku. (QS. al-Maidah/5, ayat 6) kemudian ia membasuh tangan kanannya sampai dengan siku tiga kali, kemudian tangan kiri seperti itu juga. Membasuh tangan dilakukan mulai dari ujung jari sampai dengan siku, dimana siku termasuk bagian yang ikut dibasuh. Kalau ada bagian dari areal ini tidak terkena air, seperti siku, atau kuku yang memakai kutek yang menghalangi air sampai ke dasar kuku, maka wudhu&apos;nya tidaklah sah. Membasuh tangan sampai dengan siku dilakukan 3x bagian yang kanan terlebih dahulu, setelah itu baru bagian kiri."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="7. Menyapu Kepala"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Allah Subhanahu wa Ta&apos;aala berfirman: Sapulah kepalamu (QS. al-Maidah/5, ayat 6), dan dalam hadits &apos;Utsman radhiyallahu ‘anhu: kemudian dia menyapu kepalanya. Kepala adalah bagian atas dari badan selain wajah. Telinga termasuk bagian dari kepala bukan bagian dari wajah. Maka telinga disapu bersamaan dengan saat menyapu kepala. Menyapu kepala haruslah menyeluruh, tidak hanya sebagian ataupun mencukupkan diri dengan tiga helai rambut. Perbuatan seperti ini tidak ada dalilnya dari Rasulullah Shallallahu ‘alaihi wa sallam. Adapun yang dicontohkan oleh Rasulullah Shallallahu ‘alaihi wa sallam adalah menyapu secara keseluruhan kepalanya dan langsung menyapu telinga tanpa mengambil air kembali untuk menyapu kedua telinga. Rinciannya seperti yang diterangkan oleh Abdullah bin Zaid radhiyallahu ‘anhu: beliau Shallallahu ‘alaihi wa sallam memulai dari depan kepalanya (jidat) kemudian menyapukan kedua tangannya ke belakang kepala sampai ke tengkuk, lantas disapukan kembali ke depan tempat beliau memulai sapuan tadi. (HR. Abu Dawud). Adapun cara menyapu telinga: Beliau Shallallahu ‘alaihi wa sallam memasukan kedua jari telunjuknya ke dalam lubang telinga dan menyapu punggung telinga dengan kedua ibu jarinya, sementara jari telunjuk menyapu yang bagian dalam telinga (HR. Abu Daud dari hadits Amr bin Syu&apos;ab dari bapaknya, dari kakeknya). Penyapuan kepala hanya sekali saja, menurut riwayat yang diriwayatkan oleh Ali bin Abu Tholib yang dikeluarkan oleh Abu Dawud, Tirmidzi dan an-Nasa&apos;i."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="8. Membasuh Kaki Sampai Dengan Kedua Mata Kaki"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Allah Subhanahu wa Ta&apos;aala berfirman: Basuhlah kakimu sampai dengan kedua mata kaki (QS. al-Maidah/5, ayat 6). Dalam hadits &apos;Utsman radhiyallahu ‘anhu, kemudian ia membasuh kaki kanannya sampai dengan kedua mata kaki, kemudian kaki kirinya seperti itu juga. Batas kaki mulai dari ujung jari sampai dengan kedua mata kaki. Setiap orang yang berwudhu&apos; hendaklah betul-betul memperhatikan anggota wudhu&apos; yang terbasahi oleh air khususnya bagian tumit, karena Rasulullah Shallallahu ‘alaihi wa sallam mengingatkan kita dengan ancaman neraka, sebagaimana sabda beliau Shallallahu ‘alaihi wa sallam: Celakalah bagi (pemilik) tumit-tumit yang tidak terkena air wudhu untuk masuk api neraka (HR. Bukhari Muslim). Rasulullah Shallallahu ‘alaihi wa sallam melihat seseorang masuk mesjid namun di kakinya terdapat bagian yang tidak tersentuh oleh air sebesar kuku, lalu beliau Shallallahu ‘alaihi wa sallam menyuruhnya untuk mengulangi wudhu&apos;nya dengan sempurna (Hadits riwayat Abu Dawud dan Tirmidzi dari Anas bin Malik)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="9. Berdoa"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Setelah berwudhu dianjurkan bagi kita untuk berdoa. Diriwayatkan dari Umar bin Khattab radhiyallahu ‘anhu bahwasanya Rasulullah Shallallahu ‘alaihi wa sallam bersabda: Tidak seorangpun dari kalian yang berwudhu, lalu ia menyempurnakan wudhu&apos;nya, kemudian ia mengatakan : "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="(Asyhadu allaa ilaaha illallahu wahdahu laa syariikalahu, wa asyahadu anna muhammadan &apos;abduhu wa rasuuluhu. Allahuma ij&apos;alnii minattawwabiina, waj-&apos;alnii minalmutathohhiriina.) Kecuali dibukakan baginya pintu-pintu surga dan dipersilahkan masuk dari pintu manapun yang disukainya. (HR. Muslim dan Tirmidzi)."
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Beberapa kekeliruan dalam berwudhu :"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="1. Berwudhu dengan tergesa-gesa tanpa memperhatikan apakah semua anggota wudhu sudah dibasahi oleh air atau tidak."
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="2. Membaca doa khusus setiap membasuh anggota wudhu, seperti Ya Allah ampunilah dosa wajahku pada saat membasuh wajah, ya Allah ampunilah dosa tanganku saat membasuh tangan dan seterusnya, hal ini tidak pernah diajarkan oleh Rasulullah Shallallahu ‘alaihi wa sallam."
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingTop="15dp"
+            android:text="3. Boros dalam pemakaian air. Perbuatan ini menyelisihi ajaran dan kebiasaan Nabi Shallallahu ‘alaihi wa sallam dalam berwudhu&apos;, dimana dalam hadits yang diriwayatkan oleh Imam Ahmad dan dishahihkan oleh Ibnu Khuzaimah dari Abdullah bin Zaid bahwa: Nabi Shallallahu ‘alaihi wa sallam diberi air wudhu sebanyak dua pertiga mud, dan beliau menggosok lengannya dengan air itu. (Satu mud sama dengan 750 ml)."
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSumberArtikelCaraBerwudhu"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Cara Berwudhu"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:textColor="@color/colorAccent"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

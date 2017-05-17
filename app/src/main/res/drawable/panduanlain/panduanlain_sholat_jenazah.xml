@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_green_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="Sholat Jenazah"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Rukun, syarat, panduan tatacara sholat jenazah atau sholat mayit dibawah ini adalah sudah kami ringkas, dan kami lengkapi dengan beberapa dalil hadits dari Nabi SAW, rukun Shalat Jenazah  terdiri dari 8 rukun dan Hukum menjalankannya adalah Fardhu Kifayah artinya jika tidak ada yang menjalankan, semua akan berdosa. Shalat ini gak memakai ruku’, sujud, i’tidal dan tahiyyat, hanya dengan 4 takbir dan 2 salam, yang dilakukan dalam keadaan berdiri. "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Berikut ini adalah rukun sholat jenazah :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="1. Niat"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Shalat jenazah sebagaimana shalat dan ibadah lainnya tidak dianggap sah jika tidak diniatkan. Dan niatnya adalah untuk melakukan ibadah kepada Allah SWT. Seperti firman-Nya :Padahal mereka tidak disuruh kecuali supaya menyembah Allah dengan memurnikan keta’atan kepada-Nya dalam agama yang lurus, dan supaya mereka mendirikan shalat dan menunaikan zakat; dan yang demikian itulah agama yang lurus.(QS. Al-Bayyinah : 5)."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Rasulullah SAW pun telah bersabda dalam haditsnya yang masyhur :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Dari Ibnu Umar ra bahwa Rasulullah SAW bersabda,“Sesungguhnya setiap amal itu tergantung niatnya. Setiap orang mendapatkan sesuai niatnya.”(HR. Muttafaq Alaihi)."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Niat itu adanya di dalam hati dan intinya adalah tekad serta menyengaja di dalam hati bahwa kita akan melakukan sholat tertentu saat ini."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="2. Berdiri Bila Mampu"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Shalat jenazah tidak sah bila dilakukan dengan duduk atau di atas kendaraan (hewan tunggangan) selama seseorang mampu untuk berdiri dan tidak memiliki udzur apapun."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="3. Takbir 4 kali"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Aturan ini didapat dari hadits Jabir yang menceritakan bagaimana bentuk shalat Nabi ketika menyolatkan jenazah."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Dari Jabi ra bahwa Rasulullah SAW menyolatkan jenazah Raja Najasyi (shalat ghaib) dan beliau takbir 4 kali. (HR. Bukhari : 1245, Muslim 952 dan Ahmad 3:355)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Najasyi dikabarkan masuk Islam setelah sebelumnya menjadi seorang pemeluk nasrani yang taat. Namun begitu mendengar berita kerasulan Muhammad SAW, beliau akhirnya menyatakan diri masuk Islam."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="4. Membaca Surat Al-Fatihah"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="5. Membaca Shalawat kepada Rasulullah SAW"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Seperti bacaan sholat pada umumnya ketika tahiyyat."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="6. Doa Untuk Jenazah"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Dalilnya adalah sabda Rasulullah SAW :Bila kalian menyalati jenazah, maka murnikanlah doa untuknya. (HR. Abu Daud : 3199 dan Ibnu Majah : 1947)."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Diantara lafaznya yang dicontohkan oleh Rasulullah SAW antara lain :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Allahummaghfir lahu warhamhu, wa’aafihi wa’fu ‘anhu, wa akrim nuzulahu, wa wassi’ madkhalahu, waghsilhu bil-ma’i watstsalji wal-baradi."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Ada juga yang hanya menuliskan:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Allahummaghfir lahu warhamhu, wa’aafihi wa’fu ‘anhu."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="7. Doa Setelah Takbir Keempat"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Misalnya doa yang berbunyi :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Allahumma Laa Tahrimna Ajrahu wa laa taftinnaa ba’dahu waghfirlana wa lahu"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="8. Salam"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Berikut ini adalah Tata Cara, Urutan dan Do&apos;a Sholat Jenazah :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="1. Lafazh Niat Shalat Jenazah :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Ushalli ‘alaa haadzal mayyiti fardlal kifaayatin makmuuman/imaaman lillaahi ta’aalaa.."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Artinya: Aku niat shalat atas jenazah ini, fardhu kifayah sebagai makmum/imam lillaahi ta’aalaa.."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="2. Setelah Takbir pertama membaca: Surat Al Fatihah."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="3. Setelah Takbir kedua membaca Shalawat kepada Nabi SAW : Allahumma Shalli ‘Alaa Muhammad..."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="4. Setelah Takbir ketiga membaca:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/jenazah1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Ya Allah! Ampunilah dia (mayat) berilah rahmat kepadanya, selamatkanlah dia (dari beberapa hal yang tidak disukai), maafkanlah dia dan tempatkanlah di tempat yang mulia (Surga), luaskan kuburannya, mandikan dia dengan air salju dan air es. Bersihkan dia dari segala kesalahan, sebagaimana Engkau membersihkan baju yang putih dari kotoran, berilah rumah yang lebih baik dari rumahnya (di dunia), berilah keluarga (atau istri di Surga) yang lebih baik daripada keluarganya (di dunia), istri (atau suami) yang lebih baik daripada istrinya (atau suaminya), dan masukkan dia ke Surga, jagalah dia dari siksa kubur dan Neraka.”"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="atau bisa secara ringkas :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Allahummagh firlahu warhamhu wa’aafihi wa’fu anhu.."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Artinya: Ya Allah, ampunilah dia, berilah rahmat, sejahtera dan maafkanlah dia"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="5. Setelah takbir keempat membaca:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Allahumma la tahrim naa ajrahu walaa taftinnaa ba’dahu waghfirlanaa walahu.."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic|bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Artinya: Ya Allah janganlah kami tidak Engkau beri pahalanya, dan janganlah Engkau beri fitnah kepada kami sesudahnya, dan berilah ampunan kepada kami dan kepadanya"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="6. Salam"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Catatan: Jika jenazah wanita, lafazh ‘hu’ diganti ‘ha’."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic|bold"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatJenazah"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat Jenazah"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

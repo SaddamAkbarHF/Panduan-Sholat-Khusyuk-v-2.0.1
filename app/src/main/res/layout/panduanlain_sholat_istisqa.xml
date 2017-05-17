@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="Sholat Istisqa"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Istisqa secara bahasa adalah meminta turun hujan. Secara istilah yaitu meminta kepada Allah Subhanahu Wa Ta’ala agar menurunkan hujan dengan cara tertentu ketika dibutuhkan hamba-Nya."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Hukum shalat Istisqa adalah sunnah muakkadah bagi yang terkena musibah kelangkaan air untuk minum dan kebutuhan lainnya. Dan dianjurkan bagi kaum Muslimin lainnya yang masih mendapatkan air, sebagai bentuk ukhuwah dan tolong menolong dalam kebaikan dan ketakwaan."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Dalil Shalat Istisqa"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Allah Subhanahu Wa Ta’ala berfirman :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/istisqa1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Maka aku katakan kepada mereka: “Mohonlah ampun kepada Tuhanmu, –sesungguhnya Dia adalah Maha Pengampun–,niscaya Dia akan mengirimkan hujan kepadamu dengan lebat, dan membanyakkan harta dan anak-anakmu, dan mengadakan untukmu kebun-kebun dan mengadakan (pula di dalamnya) untukmu sungai-sungai” (QS. Nuh: 10-12)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Hadits Rasulullah Shalallahu ‘Alaihi Wa Sallam:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/istisqa2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : Ibnu Abbas Radhiyallaahu ‘anhu berkata: Nabi Shallallaahu ‘alaihi wa Sallam keluar dengan rendah diri, berpakaian sederhana, khusyu’, tenang, berdoa kepada Allah, lalu beliau shalat dua rakaat seperti pada shalat hari raya, beliau tidak berkhutbah seperti pada shalat hari raya, beliau tidak berkhutbah seperti khutbahmu ini. Riwayat Imam Lima dan dinilai shahih oleh Tirmidzi, Abu Awanah, dan Ibnu Hibban."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/istisqa3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Dari Anas bin Malik RA menyebutkan bahwa ada seorang lelaki pada hari Jum’at masuk dari pintu menuju mimbar. Sedang Rasulullah SAW berkhutbah. Dia menemui rasul SAW sambil berdiri dan berkata: wahai Rasulullah SAW telah musnah binatang ternak dan sumber mata air sudah tidak mengalir. Mohonlah pada Allah agar menurunkan air untuk kami. Berkata Anas: Maka Rasulullah SAW mengangkat kedua tangan ke langit dan berdoa: Ya Allah turunkan bagi kami hujan 3x. Berkata Anas RA Demi Allah pada saat kami tidak melihat di langit mendung, gumpalan awan atau apapun. Dan sebelumnya di antara rumah kami dan gunung tidak ada penghalang untuk melihatnya”. Berkata Anas RA, “Maka muncullah di belakangnya mendung seperti lingkaran. Dan ketika sampai di tengah, menyebar dan turunlah hujan.” Anas RA berkata: “Maka kami tidak melihat matahari selama enam hari”. Kemudian muncul lagi lelaki tersebut dari arah pintu yang sama pada Jum’at sesudahnya dan Rasul SAW sedang khutbah. Dia menghadap Rasul saw sambil berdiri dan berkata: “Wahai Rasulullah SAW harta-harta hancur dan sungai-sungai penuh, berdoalah kepada Allah agar menghentikannya. Maka Rasulullah SAW mengangkat tangan dan  berdoa Ya Allah berilah hujan sekeliling kami bukan  adzab bagi kami, jatuh pada tanah, gunung-gunung, pegunungan, bukit-bukit, danau- danau dan tempat tumbuh pepohonan” (HR. Bukhari)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Macam-Macam Istisqo"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Istisqo memiliki tiga macam, yaitu:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:paddingTop="15dp"
+            android:text="1. Istisqo yang paling ringan, yaitu doa tanpa shalat dan tidak juga setelah shalat di masjid atau selain masjid, sendiri atau jamaah. Dan sebaiknya dilakukan oleh orang-orang yang shalih."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:paddingTop="15dp"
+            android:text="2. Istisqo pertengahan, yaitu doa setelah shalat Jum’at atau shalat lainnya, ketika khutbah Jum’at atau khutbah yang lain."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:paddingTop="15dp"
+            android:text="3. Istisqo yang paling utama adalah Istisqo dengan di dahului shalat dua rakaat dan dua khutbah. Dilakukan oleh muslim, baik musafir atau muqim, penduduk kampung atau kota."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Waktu Istisqo"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Jika hanya doa, maka dapat dilakukan kapan saja, dan lebih baik jika dilakukan saat khutbah Jum’at. Jika doa dan shalat maka dapat dilakukan kapan saja, tetapi jangan dilakukan pada waktu yang dimakruhkan shalat. Waktu yang utama adalah pada waktu Dhuha sampai Zhuhur sebagaimana shalat Id."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Tempat Shalat Istisqo"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Shalat Istisqo  dapat dilakukan di masjid atau di luar masjid"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Adab sebelum shalat Istisqo"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="1. Memperbanyak  istighfar dan taubat di hari-hari sebelumnya"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="2. Menghindari perbuatan zhalim dan mengembalikan hak-hak orang yang terzhalimi"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="3. Didahului dengan berpuasa tiga hari"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="4. Hari pelaksanaan dianjurkan puasa."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="5. Memperbanyak sedekah."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="6. Sebelum pelaksanaan, disunnahkan melakukan thaharah seperti, mandi, bersiwak, menjauhkan perhiasan dan wangi-wangian, memakai baju yang sederhana."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="7. Berangkat ke tempat dalam keadaan tawadhu, khusyu’, berharap pada Allah."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Tata Cara Pelaksanaan Shalat Istisqo"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="1. Shalat dua rakaat, sebagaimana shalat ‘Ied, rakaat pertama takbir tujuh kali dan kedua lima kali. Ibnu Abbas berkata:” lakukan pada Istisqo seperti pada waktu ‘Ied”."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="2. Rakaat pertama disunnahkan membaca surat Al-A’la dan rakaat kedua surat Al-Ghasiyah"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="3. Setelah shalat, diteruskan dengan khutbah dua kali."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="4. Berdoa menghadap kiblat dan mengangkat dua tangan."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="5.Dianjurkan doa Istisqo dibacakan oleh Ahli Bait dan orang shalih"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="6. Bertawasul dengan amal shalih"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="7. Khusus untuk kaum lelaki disunnahkan memindahkan dan membalikkan selendang atau sorbannya."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="8. Dianjurkan imam keluar bersama masyarakat."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="9. Dianjurkan membawa binatang ternak."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Doa Istisqo :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/istisqa4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Segala puji bagi Allah Rabbul ‘alamin yang Maha Pengasih lagi Maha Penyayang, yang merajai hari pembalasan, tidak ada Tuhan selain Allah yang melakukan apa yang Ia kehendaki, ya Allah Engkaulah Allah tidak ada Tuhan selain Engkau, Engkau Mahakaya dan kami orang-orang fakir, turunkanlah pada kami hujan, dan jadikan apa yang Engkau turunkan sebagai kekuatan dan bekal hingga suatu batas yang lama."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/istisqa5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Ya Allah, turunkan bagi kami hujan 3x, Ya Allah, turunkan bagi kami hujan   yang menyuburkan, menyejahterakan, bermanfaat, mengalir dari atas ke bawah merata, dan terus-menerus kebaikannya bagi negeri dan penghuninya. Ya Allah pada pegunungan, sawah ladang dan danau-danau. Ya Allah kami beristighfar kepada-Mu, sesungguhnya Engkau penerima ampun, turunkan kepada hujan dari langit yang terus menerus memberikan kebaikan. Ya Allah turunkanlah hujan dan jangan jadikan kami termasuk orang-orang yang putus asa. Ya Allah negeri dan penduduknya mengalami kesulitan, kesengsaraan, kesempitan dan kami tidak mengadu kecuali kepada-Mu. Ya Allah tumbuhkanlah bagi kami tanaman, suburkanlah susu-sus ternak kami, turunkanlah hujan dari keberkahan langit dan tumbuhkanlah tanaman dari keberkahan bumi. Ya Allah angkatlah dari kami kesusahan, kelaparan, dan terbukanya aurat, singkapkan dari kami musibah dan tidak ada yang dapat menyingkapkannya kecuali Engkau"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/istisqa6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Ya Allah turunkanlah hujan dan tolonglah kami atas musuh. Ya Allah Engkau telah memerintahkan kami untuk berdoa, dan berjanji untuk mengabulkan. Dan kami telah berdoa sebagaimana engkau perintahkan, maka kabulkanlah sebagaimana Engkau telah janjikan. Ya Allah berikanlah anugerah ampunan-Mu atas kesalahan kami, dan kabulkan hujan untuk kami dan kelapangan rezeki."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Doa Ketika Hujan Telah Turun"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/istisqa7" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingTop="15dp"
+            android:text="Ya Allah jadikan hujan yang menyejahterakan dan bermanfaat. Ya Allah turunkan di sekeliling kami bukan adzab bagi kami. Dan jamaah mengucapkan:” Hujan turun dengan karunia dan rahmat Allah."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatIstisqa"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat Istisqa"
+            android:textColor="@color/colorAccent"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

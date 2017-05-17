@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="16dp"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TasDig (Tasbih Digital) adalah media sarana alternatif bertasbih pada smartphone android dengan lafal : 1. Subhanallah, 2. Alhamdulillah, 3. Allahuakbar dengan pengingat nada di setiap jeda pada masing-masing lafal (33x). TasDig bisa digunakan tanpa melihat dikarenakan TasDig memberikan efek getar (vibrate) dan pengingat (reminder) nada pada setiap jeda."
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TasDig (Tasbih Digital) dapat digunakan dengan menyentuh gambar simbol tangan pada menu awal. Gambar Simbol seperti gambar dibawah ini : "
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingTop="20dp"
+            android:src="@drawable/menu_tasdig" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="atau bisa digunakan pada menu &apos;Bacaan Setelah Sholat&apos;"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="20dp"
+            android:text="Selalu gunakan TasDig by SAMTECH mobile Labs untuk Mengingat sang Khalik."
+            android:textSize="17dp"
+            android:typeface="monospace" />
+    </LinearLayout>
+
+</ScrollView>

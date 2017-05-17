@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/nav_profile"
+            android:title="About" />
+        
+        <item
+            android:id="@+id/nav_petunjuk_tasdig"
+            android:icon="@drawable/nav_petunjuk_tasdig"
+            android:title="Petunjuk TasDig" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_credit"
+                android:icon="@drawable/ic_menu_info"
+                android:title="Credit" />
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/nav_facebook"
+                android:title="my Facebook" />
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/nav_twitter"
+                android:title="my Twitter" />
+            <item
+                android:id="@+id/nav_sendemail"
+                android:icon="@drawable/nav_gmail"
+                android:title="Kritik/Saran via Email" />
+        </menu>
+    </item>
+
+</menu>

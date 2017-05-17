@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Doa Setelah Sholat 5 Waktu"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Berikut adalah bacaan do’a dan dzikir yang dibaca setelah sholat fardhu / 5 waktu  (yaitu setelah salam)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="25dp"
+            android:text="Putar Doa Setelah Sholat Fardhu Untuk Membantu Belajar Menghafal Bacaan Setelah Sholat Dipandu Dengan Lafal:"
+            android:textColor="@color/colorAccent"
+            android:textSize="12dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="3dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp">
+
+            <Button
+                android:id="@+id/bDoaSetelahSholatPlay"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/selector_play"
+                android:text="Play"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:textColor="@android:color/white"
+                android:textSize="14dp" />
+
+            <Button
+                android:id="@+id/bDoaSetelahSholatStop"
+                android:layout_width="100dp"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="40dp"
+                android:background="@drawable/selector_stop"
+                android:text="STOP"
+                android:textColor="@android:color/white"
+                android:textSize="14dp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:text="Suara Doa Setelah Sholat : Sa&apos;ad Al Ghomidi"
+            android:textColor="@color/colorAccent"
+            android:textSize="11dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Bismilahir Rahmanir Rahiim"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="(1) Membaca:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/bacaansetelahsholat1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- ASTAGHFIRULLOOH  (3x)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="(artinya: Aku mohon ampun kepada Allah)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/bacaansetelahsholat2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- ALLOHUMMA ANTAS-SALAAM, WA MINKAS-SALAAM, TABAAROKTA YAA DZAL-JALAALI WAL-IKROOM"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(artinya: Ya Allah, Engkaulah Maha Sejahtera, dan dari-Mu kesejahteraan, Mahasuci Engkau, wahai Rabb Pemilik Keagungan dan Kemuliaan)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(2) Membaca:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="25dp"
+            android:src="@drawable/bacaansetelahsholat3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- LAA ILAAHA ILLALLOOH  WAKHDAHU LAA SYARIIKA-LAH, LAHUL-MULKU  WA-LAHUL HAMDU, WA-HUWA ‘ALAA KULLI SYAY-IN  QODIIR"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="(artinya: Tidak ada ilah yang berhak diibadahi dengan benar melainkan hanya Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya segala kerajaan dan bagi-Nya segala pujian, dan Dia Maha Kuasa atas segala sesuatu)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/bacaansetelahsholat4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="-  ALLOOHUMMA LAA MAANI’A  LIMAA A’THOYTA,  WALAA MU’TIYA   LIMAA MANA’TA,  WALAA YANFA’U  DZAL-JADDI MINKAL-JADDU"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="(Ya Allah, tidak ada yang mencegah apa yang Engkau beri dan tidak ada yang memberi apa yang Engkau cegah. Tidak berguna kekayaan dan kemuliaan itu bagi pemiliknya dari (siksa) Mu)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="(3) Membaca:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/bacaansetelahsholat5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- LAA ILAAHA ILLALLOOH  WAKHDAHU LAA SYARIIKA-LAH, LAHUL-MULKU  WA-LAHUL HAMDU, WA-HUWA ‘ALAA KULLI SYAY-IN QODIIR"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="(artinya: Tidak ada ilah yang berhak diibadahi dengan benar melainkan hanya Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya segala kerajaan dan bagi-Nya segala pujian, dan Dia Maha Kuasa atas segala sesuatu) "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/bacaansetelahsholat6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- LAA HAWLA WALAA QUW WATA ILLAA BILLAAH. LAA ILAAHA ILLALLOOHU, WA-LAA NA’BUDU ILLAA IYYAAH, LAHUN-NI’MATU WALAHUL-FADH-LU WALAHUS-TSANAA’UL HASAN, LAA ILAAHA ILLALLOOHU MUKHLISHIINNA LAHUD-DIINA WA-LAW KARIHAL KAAFIRUUN"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="(artinya: Tidak ada daya dan kekuatan kecuali (dengan pertolongan) Allah.  Tidak ada ilah yang berhak diibadahi dengan benar melainkan hanya Allah.  Kami tidak beribadah kecuali kepada-Nya. Bagi-Nya nikmat, anugerah dan pujian yang baik. Tidak ada ilah yang berhak diibadahi dengan benar melainkan hanya Allah, dengan memurnikan ibadah hanya kepada-Nya, meskipun orang-orang kafir tidak menyukainya)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="(4) Membaca :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Ayat Kursi (ALLOOHU LAA ILAAHA ILLAA HUWAL- HAYYUL QOYYUM... dst)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="(5) Membaca:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="- Surat  AL-IKHLAS  (QUL HUWALLOOHU AHAD... dst), "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- Surat AL-FALAQ (QUL A’UUDZUBIROBBIL FALAQ... dst), "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="20dp"
+            android:text="- Surat  AN-NAAS (QUL  A’UUDZUBIROBBIN-NAAS... dst) "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="#Setelah membaca doa sholat setalah tersebut dilanjutkan dengan Tasbih seperti dibawah ini :"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="(6) Membaca:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/bacaansetelahsholat9" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- SUBHAANALLOOH (33x)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text=" (artinya: Maha Suci Allah)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/bacaansetelahsholat10" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- ALHAMDULILLAAH  (33x)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="(artinya: Segala puji bagi Allah)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/bacaansetelahsholat11" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- ALLAHUAKBAR  (33x)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="(artinya: Allah Maha Besar)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bTasDigFromBacaanSetelahSholat"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:text="TasDig (Tasbih Digital) bisa langsung click disini"
+            android:textColor="@android:color/white"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="15dp"
+            android:text="ATAU"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingTop="15dp"
+            android:text="Temukan Simbol Gambar Seperti dibawah ini pada Menu Awal Panduan Sholat Khusyu&apos;"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_gravity="center"
+            android:src="@drawable/menu_tasdig" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(7) Khusus Untuk Shubuh dan Maghrib Ditambah Dzikir Ini:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/bacaansetelahsholat7" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="- LAA ILAAHA ILLALLOOH  WAKHDAHU LAA SYARIIKA-LAH,  LAHUL-MULKU  WA-LAHUL HAMDU,  YUHYII WA YUMIITU WA-HUWA ‘ALAA KULLI SYAY-IN  QODIIR (10x)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(artinya: Tidak ada ilah yang berhak diibadahi dengan benar melainkan hanya Allah Yang Maha Esa, tidak ada sekutu bagi-Nya.   Bagi-Nya segala kerajaan dan bagi-Nya segala pujian. Dialah yang menghidupkan dan yang mematikan, dan  Dia Maha Kuasa atas segala sesuatu)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="(8) Selesai Sholat Shubuh Membaca:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/bacaansetelahsholat13" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="ALLOOHUMMA INNII AS-ALUKA ‘ILMAN NAAFI’AN WA RIZQON THOYYIBAN WA ‘AMALAN MUTAQOBBALAN"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(artinya: Ya Allah, sesungguhnya aku mohon kepada-Mu ilmu yang bermanfaat, rizki yang halal, dan amal yang diterima)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="70dp"
+            android:text="Keterangan Dalil:"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(1)  Hadits Riwayat Muslim No.591, Ahmad V/275, 279, Abu Dawud No.1513, an-Nasa-i III/68, Ibnu Khuzaimah No.737, ad-Darimi I/311  dan  Ibnu Majah No.928."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(2)  HR. Al-Bukhari No.844 dan Muslim No.593, Abu Dawud No.1505, Ahmad IV/245, 247, 250, 254, 255, Ibnu Khuzaimah No.742 dan  an-Nasa-i  III/59, 60"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(3)  Hadits Riwayat Muslim No.594, Ahmad IV/4, 5,  Abu Dawud No. 1506, 1507, An-Nasa-i  III/59, Ibnu Khuzaimah  No.740, 741"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(4)  Hadits Riwayat Ahmad IV/227, at-Tirmidzi No.3474"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(5)  Hadits Riwayat Abu Dawud No.1522, an-Nasa-i III/53, Ahmad V/245 dan al-Hakim (I/273 dan III/273)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(6)  Hadits Riwayat Muslim No. 597, Ahmad II/371, 483, Ibnu Khuzaimah No.750, dan al-Baihaqi II/187"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(7)  Hadits Riwayat Abu Dawud No.1523, an-Nasa-I III/68, Ibnu Khuzaimah No. 755 dan Hakim I/253. Lihat shohih at-Tirmidzi No.II/8"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="(8)  Hadits Riwayat an-Nasa-i  dalam ‘Amalul Yaum wal Lailah No.100 dan Ibnus Sunni No.124, dishohihkan oleh Al-Bani"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingTop="15dp"
+            android:text="(9)  Hadits Riwayat Ibnu Majah No.925, Shohih Ibni Majah I/152 No.753 dan Ibnus Sunni alam ‘Amalul Yaum wal Lailah"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:text="Suara Doa Setelah Sholat : Sa&apos;ad Al Ghomidi"
+            android:textColor="@color/colorAccent"
+            android:textSize="11dp"
+            android:typeface="monospace" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+        <Button
+            android:id="@+id/bSumberArtikelDoaSetelahSholat"
+            android:layout_width="fill_parent"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Doa Setelah Sholat 5 Waktu"
+            android:textColor="@color/colorAccent"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

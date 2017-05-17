@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="Sholat Witir"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Shalat Witir adalah shalat sunnah yang bilangan rakaatnya ganjil. Mengenai bilangan rakaatnya, paling sedikit adalah satu rakaat dan paling banyak adalah sebelas rakaat. Jumlah sebelas rakaat itu telah cukup dan inilah yang dilakukan oleh Rasulullah SAW. Sebagaimana dinyatakan oleh A’isyah ra “Tidaklah pernah Nabi SAW shalat malam (witir) melebihi sebelas rakaat“."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Walaupun hukum shalat Witir adalah sunnah, namun sangat di anjurkan untuk dikerjakan. Sebagaimana Sabda Nabi Muhammad SAW yang artinya :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="“Hai para pencita-cita Al-Qur’an, kerjakanlah shalat Witir. Sebab Allah itu tunggal (Esa). Dia suka kepada bilangan witir (ganjil).”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Adapun waktu shalat Witir adalah sesudah shalat Isya’ sampai terbit fajar. Cara mengerjakannya adalah dua rakaat satu salam, kemudian terakhir satu rakaat dengan satu salam dan bila dikerjakan tiga rakaat, maka tidak usah tasyahud awal supaya tidak menyerupai shalat Maghrib."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Sebagaimana sabda Nabi Muhammad SAW yang diriwayatkan oleh Imam Ahmad yang artinya :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="“Telah berkata ‘Aisyah : adalah Rasulullah SAW pernah shalat Witir tiga rakaat yang ia tidak selingi apa-apa (tasyahud) diantaranya“. (HR. Ahmad)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Sedangkan apabila shalat tarawih pada bulan Ramadhan sampai pada tanggal 15 Ramadhan sampai seterusnya, maka pada rakaat Witir yang terakhir yaitu ketika bangun dari ruku’, di sunnatkan membaca do’a qunut."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Bacaan niat shalat Witir dua rakaat :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Ushalli sunnatal witri rak’ataini lillahi ta’aalaa. "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Aku niat shalat sunnah Witir dua rakaat karena Allah Ta’ala."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Bacaan niat shalat Witir satu rakaat :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Ushalli sunnatal witri rak’atan lillahi ta’aalaa."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Aku niat shalat sunnah Witir satu rakaat karena Allah Ta’ala."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Bacaan niat shalat Witir tiga rakaat :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Ushalli sunnatal witri tsalatsa raka’aatin lillahi ta’aalaa."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Aku niat shalat sunnah Witir tiga rakaat karena Allah Ta’ala."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Doa setelah shalat Witir :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/witir1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="doa setelah shalat witir Tata Cara Shalat WitirAllaahumma Innaa Nas’aluka Imaanan Daa-Iman, Wa Nas’aluka Qalban Khaasyan, Wa Nas’aluka “Ilman Naafi’an, Wa Nas’aluka Yaqiinan Shaadiqan, Wa Nas’aluka ‘Amalan Shaalihan, Wa Nas’aluka Diinan Qayyiman, Wa Nas’aluka Khairan Katshran, Wa Nas’alukal ‘Afwa Wal ‘Aafiyah, Wa Nas’aluka Tamaamal Aafiyah, Wanas’alukasys Yukra Alal Aafiyah, Wa Nas’alukal Grilnaa ‘Aninnaas. Allaahumma Rabbanaa Taqabbal Minnaa Shalaatanaa Wa-Shiyaamanaa Wa Qiyaamanaa Watakhasy-Syu’anaa Wa Tadharru’anaa Wa Ta’abbudanaa Wa Tammim Taqshiiranaa, Yaa Allaahu Yaa Allaahu Ya Allaahu Yaa Arhamar Raahimi Washallallaahu ‘Alaa Khairi Khalqihi Muhammadin Wa ‘Alaa Aalihi Wa Shahbihi Ajma’iina Wal Hamdu Lillaahirabbil ‘Aalamiin."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Wahai Allah! Sesungguhnya kami memohon kepada-Mu iman yang tetap, kami memohon kepada-Mu hati yang khusyu’, kami memohon kepada-Mu ilmu yang bermanfaat, kami memohon kepada-Mu keyakinan yang benar, kami memohon kepada-Mu amal yang shaleh, kami memohon kepada-Mu agama yang lurus, kami memohon kepada-Mu kebaikan yang banyak, kami memohon kepada-Mu ampunan dan afiat, kami memohon kepada-Mu kesehatan yang sempurna, kami memohon kepada-Mu syukur atas kesehatan, dan kami memohon kepada-Mu terkaya dari semua manusia. Wahai Allah, Tuhan kami! Terimalah dari kami shalat kami, puasa kami, shalat malam kami, kekhusyu’an kami, kerendahan hati kami, ibadah kami, Sempurnakanlah kelalaian (kekurangan) kami, wahai Allah, wahai Allah, wahai Allah, wahai Zat Yang Paling Penyayang di antara para penyayang, Semoga rahmat Allah tercurahkan kepada sebaik-baik makhluk-Nya, Muhammad, keluarga dan sahabatnya semua, dan segala puji milik Allah, Tuhan semesta alam”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatWitir"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat Witir"
+            android:textColor="@color/colorAccent"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

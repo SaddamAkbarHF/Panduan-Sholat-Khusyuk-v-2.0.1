@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_green_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingTop="15dp"
+            android:text="Sholat Tasbih"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Hai orang-orang yang beriman, berdzikirlah (dengan menyebut nama) ALLAH, dzikir yang sebanyak-banyak nya dan bertasbihlah kepada-NYA diwaktu pagi dan petang : QS Al-ahzab 41-42"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Dari Ibnu Abbas, Bahwa Rosullah kepada Abbas bin Abdul Mutholib, Hai abbas hai paman ku, Maukah engkau aku kasih..? Maukah engkau aku beri hadiah..? Maukah engkau aku ajari sepuluh sifat (pekerti) Jika engakau melakukan nya ALLAH mengampuni dosamu : Dosa yang awal dan yang akhir, dosa yang lama dan dosa baru, dosa yang tidak sengaja dan yang disengaja, dosa yang kecil dan besar, dosa yang rahasia dan yang terang-terangan, sepuluh macam (dosa) Engkau sholat empat raka’at, Pada setiap raka’at engkau membaca Al Fatihah dan satu surat Al Qur’an, Jika engkau telah selesai membaca (surat) pada awal raka’at, sementara engkau masih berdiri, engkau membaca :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Subhaanallah, Walhamdulillah, Walaa ilaaha illallahu wallahu akbar sebanyak 15 kali. Kemudian ruku’ maka engkau ucapkan (dzikir) itu sebanyak 10 kali. Kemudian engkau angkat kepalamu dari ruku’ lalu ucapkan (dzikir) itu sebanyak 10 kali. Kemudian engkau turun sujud ketika sujud ucapkan (dzikir) itu sebanyak 10 kali. Kemudian engakau angkat kepalamu dari sujud ucapkan (dzikir) itu sebanyak 10 kali kemudian engkau bersujud, lalu ucapkan (dzikir) itu sebanyak 10 kali. kemudian engkau angkat kepalamu, maka engkau ucapkan (dzikir) itu sebanyak 10 kali, Maka itulah 75 (dzikir) pada setiap satu raka’at."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Engkau lakukan itu dalam empat raka’at, Jika engkau mampu melakukan sholat itu setiap hari sekali, Maka lakukan lah, Jika engkau tidak melakukan nya, Maka lakukan lah setiap bulan sekali, Jika tidak, Maka lakukan lah setiap tahun sekali, Jika engkau tidak melakukan nya, Maka lakukan lah sekali dalam Umur mu."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="1. Pengertian Sholat Sunnat Tasbih."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Sholat sunnat tasbih adalah sholat sunnat empat raka’at yang di dalam nya ada baca’an tasbih sebanyak 300x yang setiap raka’atnya ada baca’an tasbisbihsebanyak 75x, yang dikerjakan paling tidak minimal sekali seumur hidup, tetapi kalau mampuboleh mengerjakan nya setahun sekali, sebulan sekali, seminggu sekali, dan atau setiap malam, yang setiap malam itulah yang terbaik bila mampu."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Hikmah sholat tasbih itu adalah menjadikan dosa diampuni oleh ALLAH, baik yang telah lewat maupun yang baru saja terjadi, dan bahkan dapat memberatkan timbangan amal baik nanti di hadapan ALLAH."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Rasulullah saw. Bersabda :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Yang artinya : Dua kalimat yang ringan diucapkan tetapi sangat memberatkan timbangan dan sangat disukai ALLAH adalah “Subhaanallahi wa Bihamdihi, Subhaanallahil Adhiim”"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="3. Tata Cara Mengerjakan Sholat Sunnat tasbih :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Sholat tasbih yang empat raka’at itu bila dikerjakan pada siang hari hari hendaklah dijadikan satu kali salam, tetapi bila dikerjakan pada malam hari hendaklah dijadikan dua kali salam, yakni setiap dua raka’at satu salam."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Ada pun mengerjakannya sama seperti mengerjakan shalat sunnat yang lain, baik gerakan nya maupun baca’an nya hanya saja lafadz niat nya yang berbeda dan ada tambahan baca’an tasbih dalam setiap gerakan dan baca’an tertentu."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="a. Berdiri tegak menghadap qiblat, lalu niat dalam hati, yang bunyi lafadznya seperti ini :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="“USHOLLII SUNNATAS TASBIIHI RaK’ATAINI LILLAAHI TA’AALAA”"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Aku niat mengerjakan sholat sunnat tasbih dua raka’at karena ALLAH"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="b. Membaca Tasbih Sebanyak 15 Kali Sesudah membaca ayat atau Surat La-Qur’an Baca’an Tasbih itu adalah :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="“SUBHAANALLAAH, WALHAMDULILLAAH, WALLAA ILAAHA ILLALLAHU WALLAAHU AKBAR WALAA HAULA WALAA QUUWATA ILLAA BILLAAHIL ‘ALIIYIL ‘ADHIIM”"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Maha suci ALLAH, segala puji itu milik ALLAH, serta tidak ada tuhan yang patut disembah kecuali hanya ALLAH dan ALLAH maha besar, tidak ada daya dan kekuatan kecuali dengan izin ALLAH yang maha tinggi lagi maha agung."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="c. Membaca tasbih seperti di atas 10 kali dalam ruku’ setelah membaca baca’an tasbih ruku’"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="d. Membaca tasbih seperti di atas 10 kali dalam I’tidal, setelah membaca baca’an tahmid I’tidal."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="e. Membaca tasbih seperti di atas 10 kali dalam sujud pertama, setelah membaca baca’an tasbih sujud."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="f. Membaca tasbih seperti di atas 10 kali dalam duduk antara dua sujud, setelah membaca baca’an do’a duduk antara dua sujud."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="g. Membaca tasbih seperti di atas 10 kali dalam sujud ke dua, setelah membaca baca’an tasbih sujud."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="h. Membaca tasbih seperti di atas 10 kali dalam duduk istirohah yakni duduk setelah kedua sebelum berdiri. (duduk sebentar)"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="15dp"
+            android:text="BACA’AN (DZIKIR) SETELAH"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SHOLAT TASBIH"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="30dp"
+            android:text="● Astarfirullohal ‘Adhiim Alladzii laa ilaaha illaahaailla huuwal hayul qoyyum wa’at atuubu ilaiih = 3 kali"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="● Surat Alfatihah = 1 kali"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="● Surat Al Ikhlash = 7/21/33 kali"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="● Subhanalloh Ya Rochman, Subhanalloh Ya Rochim = 7/21/33 kali"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="● Subhanalloh Ya Fattah, Subhanalloh Ya Rozzaq = 7/21/33 kali"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="● Laahawla wala Quwwata Illaa Billahil ‘aliyyil ‘adhiim’ = 1 kali"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="● Alloohumma sholli ‘alaa saiyidinaa Muhammad wa ‘alaa aali saiyidina Muhammad, Kamaa shollaita ‘alaa saiyidina ibroohiim wa baarik ‘alaa saiyidina Muhammad wa ‘alaa aali saiyidina Muhammad, kamaa baarokta ‘alaa saiyidina ibroohiim wa ‘alaa aali saiyidina ibriihiim fil ‘aalamiina innaka hamiidun majiid (33x)"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="● Allah Allah Ya Salam, Allah Allah Ya Lathif = 7/21/33 kali"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="● Surat Alfatihah = 1 kali"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="● Berdoa : ..."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:text="● Surat Alfatihah = 1 kali"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatTasbih"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat Tasbih"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

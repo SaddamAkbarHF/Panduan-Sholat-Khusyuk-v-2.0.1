@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_green_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="Sholat Tahiyatul Masjid"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:textStyle="bold"
+            android:text="‎Pengertian Shalat Tahiyatul Masjid :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Secara bahasa tahiyatul masjid berarti menghormati masjid. Sedangkan ‎shalat tahiyatul masjid adalah shalat dua rakaat yang dilaksanakan sesaat setelah ‎kita memasuki masjid. ‎"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="‎Hukumnya : "
+            android:textStyle="bold"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Hukum melaksanakannya adalah sunah, sebagaimana hadis Rasulullah ‎SAW :‎"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="25dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:textStyle="italic"
+            android:text="“Dari Abu Qatadah, Rasulullah SAW bersabda : apabila salah seorang ‎di antara kamu masuk ke masjid maka janganlah duduk sebelum shalat (tahiyat ‎masjid) dua rakaat.” (HR. Bukhari dan Muslim)‎"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:textStyle="bold"
+            android:text="‎Tata Cara Pelaksanaannya :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Tata cara pelaksanaan shalat tahiyatul masjid adalah sebagai berikut :‎"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="7dp"
+            android:text="• Jumlah rakaatnya hanya 2 rakaat.‎"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="7dp"
+            android:text="• Dilaksanakan secara munfarid (sendirian).‎"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="25dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="7dp"
+            android:text="• Waktunya setiap saat memasuki masjid, baik untuk melaksanakan shalat ‎fardu maupun ketika akan beri’tikaf.‎"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Panduan praktek shalat tahiyatul masjid :"
+            android:textStyle="bold"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="‎1.‎ Berniat shalat Tahiyatul Masjid"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="20dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Bacaan niatnya apabila diucapkan adalah :‎"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/tahiyatulmasjid1" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="20dp"
+            android:text="‎“Saya berniat shalat tahiyat masjid dua rakaat karena Allah Ta’ala.”‎"
+            android:textStyle="italic"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="‎2.‎ Takbiratul ihram"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="‎3.‎ Shalat dua rakaat seperti biasa.‎"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="‎4.‎ Salam.‎"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatTahiyatulMasjid"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat Tahiyatul Masjid"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

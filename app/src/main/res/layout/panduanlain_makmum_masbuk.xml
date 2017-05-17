@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="Makmum Masbuk"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Makmum masbuq atau masbuk adalah makmum yang terlambat sholat berjamaah setelah satu rakaat atau lebih telah dijalani."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Tata cara sholat makmum masbuk :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="1. Jika makmum terlambat datang ke masjid dan imam sudah dalam posisi rukuk, sujud, atau julus (duduk tasyahud), maka ia harus melakukan takbiratul ihram (dengan berdiri) untuk mulai sholat, lalu mengucapkan takbir (Allahu Akbar) lagi untuk kemudian mengikuti posisi imam."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jika imam masih membaca surat Al-Fatihah atau surat pendek, maka hanya takbiratul ihram saja."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="2. Setelah imam selesai melakukan salam dan mengakhiri sholat, ia tidak boleh melakukan salam, tetapi langsung berdiri untuk menambah rakaat yang telah terlewat."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="a. Bila ia baru bisa mengikuti 2 rakaat terakhir sholat dzuhur, ashar, dan isya, maka ia harus menambah 2 rakaat (tanpa duduk tasyahud) setelah imam melakukan salam."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="b. Bila ia baru bisa mengikuti satu rakaat terakhir sholat dzuhur, ashar, dan isya, maka ketika imam melakukan salam ia harus berdiri dan sholat satu rakaat (dengan Al-Fatihah dan membaca surat pendek), duduk tasyahud, berdiri lagi untuk rakaat kedua (dengan Al-Fatihah dan membaca surat pendek), lalu diteruskan berdiri lagi untuk rakaat ketiga (hanya Al-Fatihah)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="c. Jika ia baru bisa mengikuti satu rakaat terakhir sholat maghrib, ia harus berdiri setelah imam melakukan salam, sholat satu rakaat, lalu duduk untuk membaca tasyahud, kemudian berdiri lagi untuk melakukan rakaat ke-3, setelah itu duduk untuk tasyahud akhir dan melakukan salam."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="3. Bila makmum bergabung sholat jamaah ketika posisi rukuk, maka ia dianggap telah mengikuti rakaat tersebut. Jika ia bergabung ketika imam sudah berdiri dari rukuk atau ketika sujud, ia dianggap telah terlambat mengikuti rakaat tersebut dan harus melakukannya lagi."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Pertanyaan yang mungkin muncul mengenai tata cara sholat makmum masbuk :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bBagaimanaDuduknyaMakmumMasbukKetikaImamTasyahudAkhir"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Bagaimana Duduknya Makmum Masbuk Ketika Imam Tasyahud Akhir?"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="14dp" />
+
+        <Button
+            android:id="@+id/bBagaimanaPosisiMakmumMasbukJikaJamaah2Orang"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="40dp"
+            android:layout_marginTop="20dp"
+            android:text="Bagaimana Posisi Makmum Masbuk Jika Jama&apos;ah 2 Orang?"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="14dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSumberArtikelMakmumMasbuk"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Makmum Masbuk"
+            android:textColor="@color/colorAccent"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

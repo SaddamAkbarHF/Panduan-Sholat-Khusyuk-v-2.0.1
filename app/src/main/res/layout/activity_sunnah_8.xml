@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="7. Duduk Iftiraasy (Duduk Di Atas Kaki Kiri Sebagai Alas Dan Menegakkan Kaki Kanan) Pada Tasyahhud Awal Dan Di Antara Dua Sujud"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Berdasarkan hadits riwayat ‘A`isyah bahwa Nabi shallallahu ‘alaihi wa sallam menjadikan alas kaki kirinya dan menegakkan kaki kanannya. (HR. Muslim)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Asy-Syaikh Muhammad bin ‘Abdul Wahhab berkata, “Lalu duduk iftirasy untuk bertasyahhud, meletakkan kedua tangan di atas paha dengan jari-jari tangan kiri dibentangkan dan rapat menghadap Kiblat, sedangkan pada tangan kanannya maka anak jari dan jari manis dikepal, serta jari tengah dilingkarkan dengan ibu jari, lalu bertasyahhud dengan sirr, sementara telunjuk memberi isyarat tauhid."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:text="Halaman 8"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevSunnah8"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Prev"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp" />
+
+            <Button
+                android:id="@+id/bHome"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="HOME"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:onClick="clickhome"/>
+            <Button
+                android:id="@+id/bNextSunnah8"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Next"
+                android:textSize="16dp"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Penjelasan Sunnah-sunnah Shalat"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Ketahuilah bahwa sunnah-sunnah shalat itu ada dua macam :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="1. Sunnah - Sunnah Perkataan"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="2. Sunnah - Sunnah Perbuatan"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Sunnah-sunnah ini tidak wajib dilakukan oleh orang yang shalat, tetapi jika ia melakukan semuanya atau sebagiannya maka ia akan mendapatkan pahala, sedangkan orang yang meninggalkan semuanya atau sebagiannya maka tidak ada dosa baginya, sebagaimana pembicaraan tentang sunnah-sunnah yang lain (selain sunnah shalat). Namun seharusnya bagi seorang mukmin untuk melakukannya sambil mengingat sabda Al-Mushthafa shallallahu ‘alaihi wa sallam,
+“Wajib atas kalian berpegang teguh dengan sunnahku dan sunnah Al-Khulafaa` Ar-Raasyidiin yang mendapat petunjuk. Gigitlah sunnah itu dengan gigi geraham kalian.” (HR. At-Tirmidziy dari Al-’Irbadh bin Sariyah radhiyallahu ‘anhu)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Sunnah-sunnah dalam Shalat itu sebagai berikut :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="1. Doa Istiftaah"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Dinamakan do’a Istiftaah karena shalat dibuka dengannya."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Berikut ini adalah arti dari doa istiftaah:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="“Maha Suci Engkau Ya Allah dan Maha Terpuji, Maha Berkah Nama-Mu, Maha Tinggi Kemuliaan-Mu, dan tiada Ilah yang berhak diibadahi selain Engkau.”
+Makna Subhaanakallaahumma, “Saya mensucikan-Mu dengan pensucian yang layak bagi Kemuliaan-Mu, Ya Allah.”
+Wabihamdika, ada yang mengatakan maknanya, “Saya mengumpulkan tasbih dan pujian bagi-Mu.”
+Watabaarakasmuka, maknanya, “Berkah dapat tercapai dengan menyebut-Mu.”
+Wata’aalaa jadduka, maknanya, “Maha Mulia Keagungan-Mu.”
+Wa laa ilaaha ghairuka, maknanya, “Tidak ada sesembahan (yang berhak diibadahi) di bumi maupun di langit selain-Mu.”
+Boleh membaca do’a istiftaah dengan do’a yang mana saja yang diriwayatkan dari Nabi shallallahu ‘alaihi wa sallam. Mustahab (termasuk sunnah) jika seorang muslim melakukan doa istiftaah kadang dengan do’a yang ini, kadang dengan do’a yang itu, agar dia tergolong orang yang melakukan sunnah keseluruhannya (dalam masalah ini).
+Diantara do’a-do’a istiftaah yang tersebut dalam riwayat adalah
+“Ya Allah, jauhkanlah antara aku dengan kesalahan-kesalahanku sebagaimana Engkau telah menjauhkan antara timur dengan barat. Ya Allah, bersihkanlah aku dari kesalahan-kesalahanku sebagaimana baju yang putih dibersihkan dari kotoran. Ya Allah, cucilah kesalahan-kesalahanku dengan air, es dan embun.”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="3dp"
+            android:text="Halaman 2"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevSunnah2"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Prev"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp" />
+
+            <Button
+                android:id="@+id/bHome"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="HOME"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:onClick="clickhome"/>
+
+            <Button
+                android:id="@+id/bNextSunnah2"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_weight="1"
+                android:text="Next"
+                android:textSize="16dp"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

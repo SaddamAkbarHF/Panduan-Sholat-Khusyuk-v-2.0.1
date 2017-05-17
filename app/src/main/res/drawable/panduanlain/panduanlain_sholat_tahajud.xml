@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_green_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="Sholat Tahajud"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Shalat Tahajud merupakan salah satu shalat sunnah yang selalu didirikan oleh Rasulullah. Shalat tahajud memiliki banyak manfaat bagi umat Islam yang selalu mendirikan Shalat Tahajud."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Sholat Tahajud adalah sholat malam (sholatullail). Bila kita dapat senantiasa melaksanakan sholat ini, niscaya kita akan selalu dekat dengan Alloh Swt. dan dimudahkan segala keinginan dan hidup kita."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Rasulullah SAW bersabda :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="“Sesungguhnya pada waktu malam ada satu saat ( waktu. ). Seandainya seorang Muslim meminta suatu kebaikan didunia maupun diakhirat kepada Allah SWT, niscaya Allah SWT akan memberinya. Dan itu berlaku setiap malam.” ( HR Muslim )"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Di Hadits yang lain, Rasulullah SAW bersabda :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="“Pada tiap malam Tuhan kami Tabaraka wa Ta’ala turun ( ke langit dunia ) ketika tinggal sepertiga malam yang akhir. Ia berfirman : “ Barang siapa yang menyeru-Ku, akan Aku perkenankan seruannya. Barang siapa yang meminta kepada-Ku, Aku perkenankan permintaanya. Dan barang siapa meminta ampunan kepada-Ku, Aku ampuni dia.” ( HR Bukhari dan Muslim )"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Waktu Pelaksanaan Sholat Tahajud"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Sholat Tahajud harus dilaksanakan setelah tidur. Meskipun waktu pelaksanaanya ditetapkan sejak waktu isya’ hingga shubuh, waktu yang afdhal (waktu utama) untuk melaksanakannya adalah;"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="1. Sangat utama : 1/3 malam pertama ( Ba’da Isya – 22.00 )"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="2. Lebih utama : 1/3 malam kedua ( pukul 22.00 – 01.00 )"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Paling utama : 1/3 malam terakhir ( pukul 01.00 – Subuh )"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Abu Muslim bertanya kepada Abu Dzar : “ Diwaktu manakah yang lebih utama kita mengerjakan sholat malam?” Abu Dzar menjawab : “Aku telah bertanya kepada Rasulullah SAW sebagaimana engkau tanyakan kepadaku ini.” Rasulullah SAW bersabda :“Perut malam yang masih tinggal adalah 1/3 yang akhir. Sayangnya sedikit sekali orang yang melaksanakannya.” (HR Ahmad)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jadi waktu yang paling afdhal sehingga keinginan atau do’a kita ijabah (dikabulkan) adalah 1/3 malam yang terakhir."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jumlah Raka’at dalam Shalat Tahajud"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Raka’at dalam shalat malam (Tahajud) tidak dibatasi jumlahnya, tetapi paling sedikit dilaksanakan dalam 2 ( dua ) raka’at. Adapun jumlah yang paling utama adalah 11 ( sebelas ) raka’at atau 13 ( tiga belas ) raka’at, dengan 2 ( dua ) raka’at shalat Iftitah."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Tata cara (Kaifiat) mengerjakannya yang baik adalah setiap 2 ( dua ) rakaat diakhiri satu salam. Sebagaimana diterangkan oleh Rasulullah SAW :“ Shalat malam itu, dua-dua.” ( HR Ahmad, Bukhari dan Muslim )"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Menurut keterangan Said Ibnu Yazid, Nabi Muhammad SAW melaksanakan shalat malam 13 raka’at dengan tata cara sebagai berikut :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="7dp"
+            android:text="1. 2 raka’at shalat Iftitah."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="7dp"
+            android:text="2. 8 raka’at shalat Tahajud."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="7dp"
+            android:text="3. 3 raka’at shalat witir."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Adapun surat yang dibaca dalam shalat Tahajud adalah :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="7dp"
+            android:text="1. Pada raka’at pertama setelah surat Al-Fatihah, membaca Surat Al-Baqarah ayat 284-286."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="7dp"
+            android:text="2. Pada raka’at kedua setelah membaca surat Al-Fatihah, membaca surat Ali Imron 18-19 dan 26-27."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatTahajud"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat Tahajud"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

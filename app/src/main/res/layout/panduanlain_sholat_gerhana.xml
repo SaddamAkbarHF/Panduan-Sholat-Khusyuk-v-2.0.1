@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Sholat Gerhana"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="30dp"
+            android:text="(Kusuf dan Khusuf)"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Gerhana Matahari"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="dan"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:text="Gerhana Bulan"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Shalat gerhana dalam bahasa arab sering disebut dengan istilah khusuf dan juga kusuf sekaligus. Secara bahasa, kedua istilah itu sebenarnya punya makna yang sama. Shalat gerhana matahari dan gerhana bulan sama-sama disebut dengan kusuf dan juga khusuf sekaligus."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Namun masyhur juga di kalangan ulama penggunaan istilah khusuf untuk gerhana bulan dan kusuf untuk gerhana matahari. (Lihat Al Fiqhul Islami wa Adillatuhu oleh Dr. Wahbah Az-Zuhaili jilid 2 halaman 1421)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Kusuf adalah peristiwa dimana sinar matahari menghilang baik sebagian atau total pada siang hari karena terhalang oleh bulan yang melintas antara bumi dan matahari."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Khusuf adalah peristiwa dimana cahaya bulan menghilang baik sebagian atau total pada malam hari karena terhalang oleh bayangan bumi karena posisi bulan yang berada di balik bumi dan matahari."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="A. Pensyariatan Shalat Gerhana "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Shalat gerhana adalah shalat sunnah muakkadah yang ditetapkan dalam syariat Islam sebagaimana para ulama telah menyepakatinya."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Dalilnya adalah firman Allah Subhanahu wa Ta’ala:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Dan dari sebagian tanda-tanda-Nya adalah adanya malam dan siang serta adanya matahari dan bulan. Janganla kamu sujud kepada matahari atau bulan tetapi sujudlah kepada Allah Yang Menciptakan keduanya. (QS. Fushshilat: 37)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Maksud dari perintah Allah Subhanahu wa Ta’ala untuk bersujud kepada Yang Menciptakan matahari dan bulan adalah perintah untuk mengerjakan shalat gerhana matahari dan gerhana bulan."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Selain itu juga Rasulullah Shallallahu ‘Alaihi wa Sallam bersabda: “Sesungguhnya matahari dan bulan adalah sebuah tanda dari tanda-tanda Allah Subhanahu wa Ta’ala. Keduanya tidak menjadi gerhana disebabkan kematian seseorang atau kelahirannya. Bila kalian mendapati gerhana, maka lakukanlah shalat dan berdoalah hingga selesai fenomena itu.” (HR. Bukhari Muslim dan Ahmad)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Shalat gerhana disyariatkan kepada siapa saja, baik dalam keadaan muqim di negerinya atau dalam keadaan safar, baik untuk laki-laki atau untuk perempuan. Atau diperintahkan kepada orang-orang yang wajib melakukan shalat Jumat. Namun meski demikian, kedudukan shalat ini tidak sampai kepada derajat wajib, sebab dalam hadits lain disebutkan bahwa tidak ada kewajiban selain shalat 5 waktu semata."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="B. Pelaksanaan Shalat Gerhana "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="1. Shalat gerhana matahari dan bulan dikerjakan dengan cara berjamaah, sebab dahulu Rasulullah Shallallahu ‘Alaihi wa Sallam mengerjakannya dengan berjamaah di masjid. Shalat gerhana secara berjamaah dilandasi oleh hadits Aisyah Radhiyallahu ‘Anha."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="2. Shalat gerhana dilakukan tanpa didahului dengan azan atau iqamat. Yang disunnahkan hanyalah panggilan shalat dengan lafaz “Ash Shalatu Jamiah“. Dalilnya adalah hadits berikut: Dari Abdullah bin Umar Radhiyallahu ‘Anha berkata bahwa Rasulullah Shallallahu ‘Alaihi wa Sallam mengutus orang yang memanggil shalat dengan lafaz: Ash shalatu jamiah”. (HR. Muttafaqun alaihi)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="3. Namun shalat ini boleh juga dilakukan dengan sirr (merendahkan suara) maupun dengan jahr (mengeraskannya)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="4. Juga disunnahkan untuk mandi sunnah sebelum melakukan shalat gerhana, sebab shalat ini disunnahkan untuk dikerjakan dengan berjamaah"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="5. Shalat ini juga dilakukan dengan khutbah menurut pendapat Asy Syafi`i. Khutbahnya seperti layaknya khutbah Idul Fithri dan Idul Adha dan juga khutbah Jumat.  Dalilnya adalah hadits Aisyah Radhiyallahu ‘Anhu berikut ini:  Dari Aisyah Radhiyallahu ‘Anhu berkata,”Sesungguhnya ketika Nabi Shallallahu ‘Alaihi wa Sallam selesai dari shalatnya, beliau berdiri dan berkhutbah di hadapan manusia dengan memuji Allah, kemudian bersabda,”Sesungguhnya matahari dan bulan adalah sebuah tanda dari tanda-tanda Allah Subhanahu wa Ta’ala. Keduanya tidak menjadi gerhana disebabkan kematian seseorang atau kelahirannya. Bila kalian mendapati gerhana, maka lakukanlah shalat dan berdoalah hingga selesai fenomena itu.” (HR. Bukhari Muslim dan Ahmad) "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="6. Dalam khutbah itu Rasulullah Shallallahu ‘Alaihi wa Sallam menganjurkan untuk bertaubatdari dosa serta untuk mengerjakan kebajikan dengan bersedekah, doa dan istighfar (minta ampun)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="7. Sedangkan Al-Malikiyah mengatakan bahwa dalam shalat ini disunnahkan untuk diberikan peringatan (al-wa`zh) kepada para jamaah yang hadir setelah shalat, namun bukan berbentuk khutbah formal di mimbar. Al-Hanafiyah dan Al-Hanabilah juga tidak mengatakan bahwa dalam shalat gerhana ada khutbah, sebab pembicaraan nabi Shallallahu ‘Alaihi wa Sallam setelah shalat dianggap oleh mereka sekedar memberikan penjelasan tentang hal itu."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="C. Tata Cara Teknis Shalat Gerhana "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="1. Shalat gerhana dilakukan sebanyak 2 rakaat."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="2. Masing-masing rakaat dilakukan dengan 2 kali berdiri, 2 kali membaca qiraah surat Al-Quran, 2 ruku` dan 2 sujud. Dalil yang melandasi hal tersebut adalah: Dari Abdullah bin Amru berkata, “Tatkala terjadi gerhana matahari pada masa nabi Shallallahu ‘Alaihi wa Sallam, orang-orang diserukan untuk shalat “As-shalatu jamiah”. Nabi melakukan 2 ruku` dalam satu rakaat kemudian berdiri dan kembali melakukan 2 ruku` untuk rakaat yang kedua. Kemudian matahari kembali nampak. . Aisyah Radhiyallahu ‘Anhu berkata,”Belum pernah aku sujud dan ruku` yang lebih panjang dari ini.” (HR. Muttafaqun alaihi) "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="3. Lebih utama bila pada rakaat pertama pada berdiri yang pertama setelah Al-Fatihah dibaca surat seperti Al Baqarah dalam panjangnya. Sedangkan berdiri yang kedua masih pada rakaat pertamadibaca surat dengan kadar sekitar 200-an ayat, seperti Ali Imran. Sedangkan pada rakaat kedua pada berdiri yang pertama dibaca surat yang panjangnya sekitar 250-an ayat, seperti An-Nisa. Dan pada berdiri yang kedua dianjurkan membaca ayat yang panjangnya sekitar 150-an ayat seperti Al-Maidah."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="4. Disunnahkan untuk memanjangkan ruku` dan sujud dengan bertasbih kepada Allah Subhanahu wa Ta’ala, baik pada 2 rukuk dan sujud rakaat pertama maupun pada 2 ruku` dan sujud pada rakaat kedua."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Yang dimaksud dengan panjang disini memang sangat panjang, sebab bila dikadarkan dengan ukuran bacaan ayat Al-Quran, bisa dibandingkan dengan membaca 100, 80, 70 dan 50 ayat surat Al-Baqarah. Panjang rukuk dan sujud pertama pada rakaat pertama seputar 100 ayat surat Al-Baqarah, pada ruku` dan sujud kedua dari rakaat pertama seputar 80 ayat surat Al-Baqarah. Dan seputar 70 ayat untuk rukuk dan sujud pertama dari rakaat kedua. Dan sujud dan rukuk terakhir sekadar 50 ayat."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Dalilnya adalah hadits shahih yang keshahihannya telah disepakati oleh para ulama hadits."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingTop="15dp"
+            android:text="Dari Ibnu Abbas Radhiyallahu ‘Anhu berkata,”Terjadi gerhana matahari dan Rasulullah Shallallahu ‘Alaihi wa Sallam melakukan shalat gerhana. Beliau beridri sangat panjang sekira membaca surat Al-Baqarah. Kemudian beliau ruku` sangat panjang lalu berdiri lagi dengan sangat panjang namun sedikit lebih pendek dari yang pertama. Lalu ruku` lagi tapi sedikit lebih pendek dari ruku` yang pertama. Kemudian beliau sujud. Lalu beliau berdiri lagi dengan sangat panjang namun sidikit lebih pendek dari yang pertama, kemudian ruku` panjang namun sedikit lebih pendek dari sebelumnya…. (Muttafaqun Alaihi)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatGerhana"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat  Gerhana"
+            android:textColor="@color/colorAccent"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

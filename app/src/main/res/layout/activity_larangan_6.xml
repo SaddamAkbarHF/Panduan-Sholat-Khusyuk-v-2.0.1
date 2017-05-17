@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="18. Orang Yang Sakit Sujud Di Atas Sesuatu Yang Agak Tinggi\n\n
+Orang yang sakit jika mampu sujud di atas lantai, maka ia wajib melakukan-nya. Jika tidak sanggup maka cukuplah dengan isyarat kepalanya saja. Tidak perlu meletakkan bantal atau sejenisnya pada tempat sujudnya.
+\n\nHal ini berdasarkan hadits dari Ibnu Umar radhiyallahu ‘anhuma, ia berkata, “Rasulullah shallallahu ‘alaihi wa sallam pergi menjengauk salah seorang sahabatnya yang sedang sakit, dan aku ikut bersama beliau, lalu beliau menjenguknya saat sahabat tersebut sedang shalat pada sebilah kayu dan meletakkan dahinya pada sebilah kayu itu. Beliau memberi isyarat kepadanya agar membuang sebilah kayu itu. Ketika ia mengambil bantal, Rasulullah shallallahu ‘alaihi wa sallam bersabda, ‘Biarkan bantal itu. Jika engkau sanggup sujud di atas lantai (maka lakukanlah). Jika tidak mampu, maka lakukan dengan isyarat. Caranya, posisi sujudmu lebih rendah daripada posisi ruku’mu’.” [Hadits shahih, diriwayatkan oleh Ath_Thabrani dalam kitab Al_Kabir (XII/270). Hadits ini dikuatkan oleh hadits dari Jabir yang diriwayatkan oleh Al_Bazzar dan Al_Baihaqi. Syaikh Al_Albani menshahihkan hadits ini di dalam kitab Silsilah Al_Ahadits Ash_Shahihah, hal. 323]
+\n\n19. Membersihkan Krikil Dari Tempat Sujud Dan Melakukan Gerakan Yang Tidak Perlu Dalam Shalat
+\n\nBerdasarkan sabda Rasulullah shallallahu ‘alaihi wa sallam, “Janganlah mengusap tanah pada saat sedang shalat. Jika kamu harus melakukannya, maka cukup sekali saja untuk meratakan tanah.” [Hadits shahih, diriwayat-kan oleh Abu Dawud (I/946). Imam An_Nawawi mengatakan bahwa sanadnya sesuai dengan kriteria Al_Bukhari dan Muslim]
+\n\nPenjelasan:
+Apabila ada krikil atau tanah yang menempel di kening ketika sujud di tanah, maka makruh dibersihkan. Karena aktifitas ini dapat mengganggu shalat, apalagi jika dilakukan berkali-kali.
+I\n\nbnu Mas’ud berkata, “Ada empat macam tabi’at kasar… (beliau menyebut-kan di antaranya): seseorang yang membersihkan tanah yang melekat di dahinya pada saat sedang melaksanakan shalat.” [Hadits shahih, diriwayat-kan oleh Al_Baihaqi (II/285). Hadits ini dishahihkan oleh Syaikh Al_Albani dalam kitab Al_Irwa’ Al_Ghalil  (I/98)]
+Penulis berkata, “Apabila tanah yyang melekat tersebut dapat mengganggu shalat, maka harus dibersihkan.” Wallahu ‘alam
+\n\n20. Menurunkan Kedua Lutut Sebelum Kedua Tangan Ketika Sujud
+\n\nDiriwayatkan dari Abu Hurairah radhiyallahu ‘anhu, ia berkata, Rasulullah shallallahu ‘alaihi wa sallam bersabda:  “Jika salah seorang dari kalian hen-dak sujud, maka janganlah ia turun seperti menderumnya unta. Hendaklah ia meletakkan kedua tangannya terlebih dahulu sebelum meletakkan kedua lututnya.” [Hadits hasan, diriwayatkan oleh Abu Dawud, An_Nasa’i, dan Ahmad dengan sanad yang hasan]
+            "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:text="Halaman 6"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevLarangan6"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Prev"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp" />
+            <Button
+                android:id="@+id/bHome"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:textColor="@color/colorAccent"
+                android:layout_weight="1"
+                android:text="HOME"
+                android:textAllCaps="true"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:onClick="clickhome"/>
+
+            <Button
+                android:id="@+id/bNextLarangan6"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:textColor="@color/colorPrimaryDark"
+                android:text="Next"
+                android:textSize="16dp"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

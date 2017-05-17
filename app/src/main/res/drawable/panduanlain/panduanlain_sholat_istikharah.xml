@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_green_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="Sholat Istikharah"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Sholat istikharah merupakan shalat sunnah yang dikerjakan pada saat hendak menentukan pilihan terhadap 2 pilihan atau lebih untuk mendapatkan kemantapan hati dalam menentukan pilihan terbaik sehingga bisa memberikan kebaikan dalam hidup, karena itu jika dalam keraguan hati pada saat akan memilih sesuatu, sebaiknya sebelum memastikan salah satunya terlebih dahulu melaksanakan shalat untuk memohon kepada Allah agar jatuh pada pilihan yang tepat, baik soal jodoh pekerjaan atau hal lain yang sifatnya tidak bertentangan dengan syariat."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Pengertian Istikharah, asal kata bahasa arab yang berarti  Memilih meminta pilihan terhadap sesuatu, agar dapat memilih yang terbaik dari 2 hal yang masih ragu untuk memilihnya dengan cara berdoa dan melakukan sholat sunnah."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Manfaat Istikharah"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Manusia hanya makhluk yang tidak punya daya dan kekuatan dalam segala hal tanpa izin Allah SWT termasuk menentukan pilihan terbaik dalam hidup, maka dengan petunjuk-Nya semua hal yang akan membawa kebaikan dalam hidup bisa diperole,h termasuk untuk menentukan pilihan dari suatu yang masih ghaib dan rahasia, Allah maha mengetahui  segala hal baik setelah maupun yang akan terjadi"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Memohon pilihan terbaik kepada Nya merupakan cara sebagaimana telah diajarkan Rasulullah bagi ummatnya, sehingga dapat menemukan pilihan sesuai keinginan sehingga membawa dampak baik dalam kehidupan. Dalam Allah berfirman : ‘Wasta’inu bis shobri was sholah’ (minta tolonglah kepada allah dengan sabar dan sholat)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Berikut ini diantara manfaat istikharah :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="1. Menghilangkan keraguan dalam menentukan pilihan"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="2. Dapat menemukan pilihan terbaik sesuai keingnan atas petunjukNya"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="3. Terhindar dari kesalahan dalam menentukan pilihan"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="4. Memantapkan hati dalam mengambil keputusan"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="25dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="5. Dan lain-lain"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Waktu Sholat Istikharah"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Waktu melaksanakan Istikharah bisa dilakukan kapan pun siang hari atau malam asal tidak pada waktu yang dilarang melakukan sholat misalnya setelah subuh tidak boleh kecuali sudah masuk waktu dhuha (boleh), setelah ashar juga dilarang"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Sedangkan waktu yang paling utama adalah pada tengah malam sekitar 13 malam terakhir (Jam 02 malam) disaat semua orang sedang tidur lelap. Pada saat itulah waktu utama untuk mengajukan permohonan pada Allah agar diberi petunjuk menentukan pilihan yang tepat sehingga bisa membawa kemaslahatan dalam hidup, baik dunia maupun akhirat"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Adapun Keistimewaan waktu 1/3 malam terakhir sebagai waktu yang istijabah berdasarkan hadits bukhari dan muslim :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/istikharah1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Kesimpulan : ALLAH akan memenuhi doa, permintaan dan permohonan ampun yang dilakukan di malam sepertiga yang akhir."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Adapun hadits yang menerangkan pentingnya memohon pilihan kepada Allah berdasarkan hadits nabi muhammad SAW :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/istikharah2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Artinya : Ya ALLAH aku beristikharah (meminta pilihan) dengan ilmu-MU, aku memohon kekuatan dengan Kekuasaan-Mu dan aku memohon keutamaan-Mu."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Tata Cara Melaksanakan Sholat Istikharah"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Sebelumnya pernah dijelaskan cara sholat tahajud begitu halnya dengan istikharah ini tidak jauh berbeda cara pelaksanaannya, berbedaannya utamanya hanya pada niat, berikut ini cara yang bisa dilakukan :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Sebelumnya pastikan suci dari hadats kecil dan hadats besar, kemudian menghadap kiblat dengan dengan mengucapkan niat dalam hati ‘ Saya sholat istikharah sunnah karena Allah’ urutannya sebagai berikut :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="1. Mengucapkan niat dalam hati"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="2. Mengucap takbir (Allahu Akbar) dengan mengkat ke-2 tangan"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="3. Membaca Surat Al-Fatihah"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="4. Lanjutkan seperti melakasanakan sholat biasa baik sholat wajib atau sholat sunnah yang lain"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Setelah selesai shalat bisa membaca Istighfar, sholawat kemudian berdo’a dengan penuh kesungguhan untuk memohon pilihan atas 2 pilihan yang masih ragu untuk kita menentukan pilihan berikut doanya:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/istikharah3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Allahumma inniy astakhiiruka bi ‘ilmika wa astaqdiruka biqudratika wa as-aluka min fadhlikal ‘azhim, fainnaka taqdiru wa laa aqdiru wa ta’lamu wa laa ‘Abdullah’lamu wa anta ‘allaamul ghuyuub. Allahumma in kunta ta’lamu anna haadzal amru khairul liy fiy diiniy wa ma’aasyiy wa ‘aaqibati amriy” atau; ‘Aajili amriy wa aajilihi faqdurhu liy wa yassirhu liy tsumma baarik liy fiihi. Wa in kunta ta’lamu anna haadzal amru syarrul liy fiy diiniy wa ma’aasyiy wa ‘aaqibati amriy” aw qaola; fiy ‘aajili amriy wa aajilihi fashrifhu ‘anniy washrifniy ‘anhu waqdurliyl khaira haitsu kaana tsummar dhiniy.”"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="(Ya Allah aku memohon pilihan kepada-Mu dengan ilmuMu dan memohon kemampuan dengan kekuasaan-Mu dan aku memohon karunia-Mu yang Agung. Karena Engkau Maha Mampu sedang aku tidak mampu, Engkau Maha Mengetahui sedang aku tidak mengetahui, Engkaulah yang Maha Mengetahui perkara yang gaib. Ya Allah bila Engkau mengetahui bahwa urusan ini baik untukku, bagi agamaku, kehidupanku dan kesudahan urusanku ini -atau beliau bersabda: di waktu dekat atau di masa nanti- maka takdirkanlah buatku dan mudahkanlah kemudian berikanlah berkah padanya. Namun sebaliknya ya Allah, bila Engkau mengetahui bahwa urusan ini buruk untukku, bagi agamaku, kehidupanku dan kesudahan urusanku ini -atau beliau bersabda: di waktu dekat atau di masa nanti- maka jauhkanlah urusan dariku dan jauhkanlah aku darinya. Dan tetapkanlah buatku urusan yang baik saja dimanapun adanya kemudian jadikanlah aku ridha dengan ketetapan-Mu itu”. Beliau bersabda: “Dia sebutkan urusan yang sedang diminta pilihannya itu”. (HR. Al-Bukhari no. 1162)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Mendapat Petunjuk Melalui Mimpi"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Sudah menjadi kebiasaan bagi kebanyakan orang bahwa setelah istikharah biasanya akan mendapat petunjuk melalui mimpi, meskipun hal itu tidak salah namun tidak selamanya benar karena bisa jadi mimpi itu memang sebagai pentunjuk dan datang dari Allah SWT, tapi tidak menutup kemungkinan mimpi juga bisa datang dari syetan yang sengaja menggoda."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Karenanya, alangkah baiknya jika pasrahkan saja semuanya kepada Allah setelah shalat istikharah, karena hanya dia yang maha mengetahui yang baik bagi ummatnya, biasanya kita akan mendapat petunjuk dalam bentuk keteguhan dan kelapangan hati dalam menentukan pilihan"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Berikut beberapa permasalahan yang sering ditanyakan berkenaan dengan istikharah:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="1. Apakah boleh istikharah dengan doa selain doa di atas atau dengan bahasa Indonesia?"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jawab: Jabir bin Abdillah radhiallahu anhu berkata dalam hadits di atas, “Rasulullah shallallahu ‘alaihi wasallam mengajari kami istikharah dalam setiap urusan yang kami hadapi sebagaimana beliau mengajarkan kami suatu surah dari Al-Qur’an.”"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Ucapan ini menunjukkan bahwa dalam istikharah seseorang hanya boleh membaca doa di atas sesuai dengan konteks aslinya, tidak boleh ada penambahan dan tidak boleh juga ada pengurangan. Hal itu karena Nabi shallallahu alaihi wasallam menyerupakan pengajaran istikharah seperti pengajaran surah Al-Qur`an. Maka sebagaimana suatu ayat dalam Al-Qur`an tidak boleh ditambah atau dikurangi atau dirubah maka demikian halnya dengan doa istikharah. Karenanya tidak boleh berdoa dengan membaca terjemahannya semata, tapi dia harus membacanya sebagaimana Nabi mengajarkannya."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Barangsiapa yang berdoa dengan terjemahannya maka dia tidak teranggap melakukan istikharah, akan tetapi dia hanya dianggap sedang berdoa kepada Allah. Hal ini telah diisyaratkan oleh Muhammad bin Abdillah bin Al-Haaj Al-Maliki rahimahullah dalam Al-Madkhal (4/37-38)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="2. Apakah boleh langsung berdoa dengan doa di atas tanpa melakukan shalat sebelumnya?"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jawab: Wallahu a’lam, yang nampak bahwa 2 rakaat dengan doa ini merupakan satu kesatuan dalam istikharah. Karenanya barangsiapa yang hanya berdoa tanpa mengerjakan shalat maka dia tidak dianggap mengerjakan istikharah yang tersebut dalam hadits ini. Walaupun dia tetap dianggap sebagai orang yang berdoa kepada Allah."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Akan tetapi jika dia ada uzur dalam mengerjakan shalat -misalnya wanita yang tengah haid atau nifas-, maka dia boleh langsung berdoa dan itu sudah dianggap sebagai istikharah karenanya adanya uzur untuk tidak mengerjakan shalat. Ini merupakan mazhab Al-Hanafiah, Al-Malikiah, dan Asy-Syafi’iyah."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Imam An-Nawawi berkata dalam Al-Adzkar hal. 112, “Jika dia tidak bisa mengerjakan shalat karena ada uzur, maka hendaknya dia cukup beristikharah dengan doa.”"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="3. Apakah dua rakaat ini merupakan shalat khusus, ataukah berlaku untuk semua shalat sunnah dua rakaat?"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jawab: Lahiriah hadits menunjukkan ini merupakan shalat dua rakaat khusus dengan niat untuk istikharah. Hanya saja jika seseorang shalat sunnah rawatib dengan niat rawatib sekaligus niat istikharah (menggabungkan niat), maka itu sudah cukup baginya dan dia sudah boleh langsung berdoa setelahnya."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Al-Hafizh Ibnu Hajar berkata, “Jika dia meniatkan shalat itu dengan niatnya dan dengan niat shalat istikharah secara bersamaan (menggabungkan niatnya, pent.) maka shalatnya itu sudah syah dianggap sebagai istikharah, berbeda halnya jika dia tidak meniatkannya (sebagai shalat istikharah).” (Fath Al-Bari: 11/221)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text=" Sekedar menguatkan isi hadits, bahwa dua rakaat yang dimaksud haruslah merupakan shalat sunnah. Karenanya shalat subuh tidak bisa diniatkan sebagai shalat istikharah karena dia merupakan shalat wajib."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="4. Adakah surah khusus yang disunnahkan untuk dibaca dalam shalat istikharah?"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jawab: Al-Hafizh Al-Iraqi rahimahullah berkata, “Saya tidak menemukan sedikitpun dalam jalan-jalan hadits istikharah adanya penentuan surah tertentu yang dibaca di dalamnya.” (Umdah Al-Qari`: 7/235)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Inilah pendapat yang benar karena tidak ada satupun dalil yang menunjukkan adanya surah tertentu yang lebih utama dibaca dalam shalat istikharah. Sementara tidak boleh menentukan lebih utamanya suatu surah dibandingkan yang lainnya dari sisi bacaan kecuali dengan dalil yang shahih."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="5. Bagi yang tidak menghafal doanya, apakah dia bisa membacanya dari sebuah buku?"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jawab: Yang jelas, yang pertama kita katakan: Hendaknya dia berusaha semaksimal mungkin untuk menghafalnya."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jika dia tidak sanggup, maka Allah tidak membebani seseorang kecuali dengan kemampuannya. Dalam keadaan seperti ini dia diperbolehkan membaca doa ini dengan melihat kepada kitab atau catatannya. Al-Lajnah Ad-Da`imah menjawab ketika diajukan pertanyaan yang senada dengan di atas, “Jika engkau menghafal doa istikharah atau engkau membacanya dari kitab, maka tidak ada masalah. Hanya saja kamu wajib bersungguh-sungguh dalam berkonsentrasi dan khusyu’ kepada Allah serta jujur dalam berdoa.” (Fatawa Al-Lajnah Ad-Da`imah: 8/161)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="6. Bolehkah shalat istikharah pada waktu yang terlarang shalat?"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jawab: Jika shalat istikharahnya masih bisa ditunda hingga keluar dari waktu yang terlarang maka inilah yang lebih utama dia kerjakan. Akan tetapi shalat istikharah ini jika tidak bisa diundur atau dia butuhkan saat itu juga, maka dia boleh mengerjakannya saat itu juga walaupun pada waktu yang terlarang. Karena jika shalat istikharah itu dibutuhkan secepatnya, maka jadilah dia shalat sunnah yang disyariatkan karena adanya sebab, sementara sudah dimaklumi bahwa waktu-waktu terlarang shalat ini tidak berlaku pada shalat-shalat sunnah yang mempunyai sebab, seperti tahiyatul masjid, shalat sunnah wudhu, dan semacamnya."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Bolehnya shalat sunnah yang mempunyai sebab dikerjakan pada waktu-waktu terlarang merupakan mazhab Imam Asy-Syafi’i dan sebuah riwayat dari Imam Ahmad, serta pendapat yang dikuatkan oleh Syaikhul Islam Ibnu Taimiah. (Lihat Majmu’ Al-Fatawa: 23/210-215)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="7. Apa yang dia lakukan setelah istikharah?"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jawab: Sebelumnya butuh diingatkan bahwa sebelum melakukan istikharah hendaknya dia mengosongkan hatinya dari kecondongan kepada salah satu urusan dari dua urusan yang dia akan mintai pilihan (tidak berpihak kepada satu pilihan). Akan tetapi hendaknya dia melepaskan diri dari semua pilihan tersebut dan betul-betul pasrah menyerahkan nasibnya dan pilihannya kepada Allah Ta’ala."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Imam Al-Qurthuby berkata, “Para ulama menyatakan: Hendaknya dia mengosongkan hatinya dari semua pikiran (berkenaan dengan urusan yang akan dia hadapi) agar hatinya tidak condong kepada salah satu urusan (sebelum dia istikharah).” (Al-Jami’ li Ahkam Al-Qur`an: 13/206)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Kemudian, setelah dia melakukan istikharah, maka hendaknya dia memilih untuk mengerjakan apa yang hendak dia lakukan dari urusan yang tadinya dia minta pilihan padanya. Jika urusan itu merupakan kebaikan maka insya Allah Allah akan memudahkannya dan jika itu merupakan kejelekan maka insya Allah Allah akan memalingkannya dari urusan tersebut."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Muhammad bin Ali Az-Zamlakani rahimahullah berkata,"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="“Jika seseorang sudah shalat istikharah dua rakaat untuk suatu urusan, maka setelah itu hendaknya dia mengerjakan urusan yang dia ingin kerjakan, baik hatinya lapang/tenang dalam mengerjakan urusan itu ataukah tidak, karena pada urusan tersebut terdapat kebaikan walaupun mungkin hatinya tidak tenang dalam mengerjakannya.” Dan beliau juga berkata, “Karena dalam hadits (Jabir) tersebut tidak disebutkan adanya kelapangan/ketenangan jiwa.” (Thabaqat Asy-Syafi’iah Al-Kubra: 9/206) Maksudnya: Dalam hadits Jabir di atas tidak disebutkan bahwa hendaknya dia mengerjakan apa yang hatinya tenang dalam mengerjakannya, wallahu a’lam."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Karenanya, termasuk khurafat adalah apa yang diyakini oleh sebagian orang bahwa: Siapa yang sudah melakukan istikharah maka dia tidak melakukan apa-apa hingga mendapatkan mimpi yang baik atau mimpi yang akan mengarahkannya dan seterusnya. Ini sungguh merupakan perbuatan orang yang jahil tatkala dia menyandarkan urusannya pada sebuah mimpi, wallahul musta’an."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="8. Jika hatinya masih ragu-ragu atau hatinya belum mantap dalam mengerjakan urusan yang tadinya dia sudah beristikharah untuknya. Apakah dia boleh mengulangi shalat istikharahnya?"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jawab: Boleh berdasarkan beberapa dalil di antaranya:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="12dp"
+            android:paddingRight="7dp"
+            android:text="1. Istikharah merupakan doa, dan di antara kebiasaan Nabi shallallahu alaihi wasallam dalam berdoa adalah mengulanginya sebanyak tiga kali."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="12dp"
+            android:paddingRight="7dp"
+            android:text=" Hadits ini kami bawakan bukan untuk menunjukkan shalat istikharah diulang sebanyak tiga kali, akan tetapi hanya untuk menunjukkan bolehnya mengulangi doa."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="12dp"
+            android:paddingRight="7dp"
+            android:text="2. Shalat istikharah adalah shalat yang disyariatkan karena adanya sebab. Karenanya, selama sebab itu masih ada dan belum hilang maka tetap disyariatkan mengerjakan shalat ini."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="12dp"
+            android:paddingRight="7dp"
+            android:text="Inilah yang dipilih oleh sejumlah ulama di antanya: Imam Badruddin Al-Aini dalam Umdah Al-Qari` (7/235), Ali Al-Qari dalam Mirqah Al-Mafatih (3/406), dan Imam Asy-Syaukani dalam Nailul Authar (3/89)."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="9.    Haruskah shalat istikharah dikerjakan di malam hari?"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jawab: Dalam hadits di atas tidak ada keterangan waktu pengerjaannya. Karena shalat ini bisa dikerjakan kapan saja baik siang maupun malam hari. Barangsiapa yang meyakini shalat ini hanya bisa dikerjakan di malam hari maka keyakinannya ini keliru. Walaupun tentunya jika dia mengerjakannya pada waktu-waktu dimana doa mustajabah -seperti antara azan dan iqamah, sepertiga malam terakhir, dan seterusnya-, maka itu lebih utama."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatIstikharah"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:text="Sumber Artikel Sholat Istikharah 1"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatIstikharah2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat Istikharah 2"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

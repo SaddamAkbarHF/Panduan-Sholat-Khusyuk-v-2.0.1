@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="15dp"
+            android:text="RUKUK"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="20dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Tarik nafas perlahan lahan sambil rukuk dan membaca takbir. Selama ruku baca kalimat tasbih subhanarabbiyal adzim. Maha suci Allah yang maha besar . Selama ruku dan membaca tasbih nafas dihembuskan perlahan lahan . Punggung dan pinggang membentuk sudut 90 derajat, tangan bertumpu pada lutut. Rasakan suasana relaks dan nyaman selama rukuk. Hembusan nafas berakhir bersamaan dengan selesainya bacaan tasbih. Dan gerakan rukuk dianjurkan membentuk siku 90º seperti contoh gambar berikut ini:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukuk" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Halaman 4"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <Button
+                    android:id="@+id/bPrev4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="42dp"
+                    android:layout_weight="1"
+                    android:text="Prev"
+                    android:textSize="16dp"
+                    android:textColor="@color/colorPrimaryDark"
+                    style="@style/Widget.AppCompat.Button.Borderless.Colored"/>
+
+                <Button
+                    android:id="@+id/bHome"
+                    android:layout_width="wrap_content"
+                    android:layout_height="42dp"
+                    android:layout_weight="1"
+                    android:text="HOME"
+                    android:textAllCaps="true"
+                    android:textColor="@color/colorAccent"
+                    style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                    android:onClick="clickhome"/>
+
+                <Button
+                    android:id="@+id/bNext4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="42dp"
+                    android:layout_weight="1"
+                    android:text="Next"
+                    android:textSize="16dp"
+                    android:textColor="@color/colorPrimaryDark"
+                    style="@style/Widget.AppCompat.Button.Borderless.Colored"/>
+            </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

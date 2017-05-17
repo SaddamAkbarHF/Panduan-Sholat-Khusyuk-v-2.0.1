@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="15dp"
+            android:text="Cara Mandi Wajib"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="30dp"
+            android:text="(Bagi Pria dan Wanita)"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Niat mandi besar atau mandi jinabat itu seperti niat niat dalam ibadah yang lain, yaitu di dalam hati, adapun kalimat dan arti Doa Niat Mandi Wajib niatnya adalah sebagai berikut yang di kelompokan dalam tiga bagian"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="1. Jika mandi besar disebabkan junub Mimpi basah, keluar mani, senggama maka niat mandi besarnya adalah :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="NAWAITUL GHUSLA LIRAF’IL HADATSIL AKBAR MINAL JANABATI FARDLON LILLAHI TA’ALA"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Aku niat mandi untuk menghilangkan hadats besar dari jinabah, fardlu karena Allah Ta’ala."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="2. Jika mandi besarnya disebabkan karena haid maka niat mandi besarnya adalah :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="NAWAITUL GHUSLA LIRAF’IL HADATSIL AKBAR MINAL HAIDI FARDLON LILLAHI TA’ALA"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Aku niat mandi untuk menghilangkan hadats besar dari haidl, fardlu karena Allah Ta’ala."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="3. Jika mandi besarnya disebabab karena nifas, maka niyat mandi besarnya adalah :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="NAWAITU GHUSLA LIRAF’IL HADATSIL AKBAR MINAN NIFASI FARDLON LILLAHI TA’ALA"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Artinya Dengan menyebut nama Allah Aku niat mandi untuk menghilangkan hadats besar dari nifas, fardlu karena Allah Ta’ala."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Adapun Tata Cara Mandi Wajib Mandi Junub sebagai berikut:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="1. Mandi junub-besar harus diniatkan ikhlas semata karena Allah Ta’ala dalam rangka menta’atiNya dan beribadah kepadaNya semata."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="2. Dalam mandi junub-jinabat-besar, harus dipastikan bahwa air telah mengenai seluruh tubuh sampaipun kulit yang ada di balik rambut yang tumbuh di manapun di seluruh tubuh kita. Karena itu siraman air itu harus pula dibantu dingan jari jemari tangan yang mengantarkan air itu ke bagian tubuh yang paling tersembunyi sekalipun."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="3. Mandi junub-jinabat-besar dimulai dengan membasuh kedua telapak tangan sampai pergelangan tangan, masing-masing tiga kali dan cara membasuhnya dengan mengguyur kedua telapak tangan itu dengan air yang diambil dengan gayung. Dan bukannya dengan mencelupkan kedua telapak tangan itu ke bak air."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="4. Setelah itu mengambil air dengan telapak tangan untuk mencuci kemaluan dengan telapak tangan kiri sehingga bersih."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="5. Kemudian telapak tangan kiri itu digosokkan ke lantai atau ke tembok sebanyak tiga kali. Dan setelah itu dicuci dengan air."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="6. Setelah itu berwudlu ‘sebagaimana cara berwudlu’ untuk shalat."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="7. Kemudian mengguyurkan air di mulai dari pundak kanan terus ke kepala dan seluruh tubuh dan menyilang-nyilangkan air dengan jari tangan ke sela-sela rambut kepala dan rambut jenggot dan kumis serta rambut mana saja di tubuh kita sehingga air itu rata mengenai seluruh tubuh."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="8. Kemudian bila diyakini bahwa air telah mengenai seluruh tubuh, maka mandi itu diakhiri dengan membasuh kedua telapak kaki sampai mata kaki."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="9.Disunnahkan untuk tidak mengeringkan badan dengan kain handuk atau kain apa saja untuk mengeringkan badan itu."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="10. Disunnahkan untuk melaksanakan mandi besar junub jinabat itu dengan tertib seperti yang dicontohkan oleh Nabi Muhammad shallallahu alaihi wa aalihi wasallam."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Oleh Sheikh Abu Bakar Jabir Al-Jazairiy :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="- Mandi wajib dimulai dengan mengucapkan bismillah, dan berniat untuk menghilangkan hadast besar,"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="- Membersihkan kedua telapak tangannya tiga kali, kemudian berbilas."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="- Membersihkan kemaluannya, dan kotoran yang ada di sekitarnya."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="- Berwudhu seperti halnya orang yang berwudhu hendak shalat, kecuali kedua kakinya. Namun boleh membersikan kedua kakinya ketika berwudhu atau mengakhirkannya sampa selesai mandi."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="- Mencelupkan kedua telapak tangannya ke dalam air, lalu menyela-nyela pangkal rambut kepalanya dengan kedua telapak tangannya itu kemudian membersihkan kepalanya dan kedua telinganya tiga kali dengan tiga cidukan."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="HR At-TIrmidzi Menyela pangkal rambut hanya khusus bagi laki-laki. Bagi perempuan, cukup dengan mengguyurkan pada kepalanya tiga kali guyuran, dan menggosoknya, tapi jangan mengurai membuka rambutnya yang dikepang, karena ada hadist yand diriwayatkan oleh At-Tirmidzi dari Ummu Salamah yang bertanya kepada Rasulullah, Aku bertanya, wahai Rasulullah! Sesungguhnya aku ini perempuan yang sangat kuat jalinan rambut kepalanya, apakah aku boleh mengurainya ketika mandi junub (mandi besar)? Maka Rasulullah menjawab, Jangan, sebetulnya cukup bagimu mengguyurkan air pada kepalamu tiga kali guyuran."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Mengguyur tubuhnya yang sebelah kanan dengan air, membersihkannya dari atas sampai ke bawah, kemudian bagian yang kiri seperti itu juga berturut-turut sambil membersihkan bagian-bagian yang tersembunyi pusar, bawah ketiak, lutut, dan lainnya, dan diriwatkan Dari Ali bin Abi Thalib, bahwa Rasulullah shallallahu alaihi wa aalihi wasallam telah bersabda:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Barangsiapa yang meningggalkan bagian tubuh yang harus dialiri air dalam mandi janabat walaupun satu rambut untuk tidak dibasuh dengan air mandi itu, maka akan diperlakukan kepadanya demikian dan demikian dari api neraka “. HR. Abu Dawud"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSumberArtikelCaraMandiWajib"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Cara Mandi Wajib"
+            android:textColor="@color/colorAccent"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

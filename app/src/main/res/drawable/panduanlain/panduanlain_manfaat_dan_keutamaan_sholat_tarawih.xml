@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_green_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Manfaat Dan Keutamaan"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="30dp"
+            android:text="Sholat Tarawih"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Seperti yang disabdakan oleh Rasulullah SAW dan diriwayatkan oleh Ali bin Abi Thalib yang dikutip dari kitab Durratun Nasihin, berikut ini adalah keutamaan dan hikmah shalat Tarawih :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 01 : Siapa yang shalat Tarawih pada malam pertama dihapus dosa seorang Mukmin seperti ketika ia di lahirkan."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 02 : Shalat Tarawih pada malam kedua di ampuni dosa dirinya dan kedua orang tuanya, jika keduanya Mukmin."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 03 : Malaikat berseru dari Arsy  Telah diangkat amal dan dosanya yang telah lalu dan di ampuni oleh Allah SWT."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 04 : Baginya mendapat pahala, seperti pahala membaca Kitab Taurat, Zabur, Injil dan AlQur-an."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 05 : Allah SWT memberinya pahala seperti pahala Sholat di Masjidil Haram, Masjid Madinah dan Masjid Aqsho."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 06 : Allah SWT memberinya pahala Thawaf di Baitul Makmur dan di mintakan ampun baginya oleh setiap batu benda."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 07 : Seumpama pahala yang di peroleh nabi Musa A.S dan penolong dari kejahatan Fir&apos;aun dan Hamman."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 08 : Allah SWT memberikannya pahala seperti pahala apa yang diberikan kepada Nabi Ibrohim AS."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 09 : Seumpama pahala Ibadah nabi Muhammad SAW."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 10 : Allah SWT memberinya Rizki dan kebaikan di dunia dan akhirat."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 11 : Apabila Ia meninggal dunia, seperti dilahirkan dari Ibunya."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 12 : Ia datang pada hari kiamat kelak dengan wajah berseri-seri seperti bulan purnama."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 13 : Ia datang pada hari kiamat, selamat dari kejahatan (kejelekan)."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 14 : Malaikat pada menyaksikan bahwa sesungguhnya orang tersebut telah Sholat Tarawih maka pada hari kiamat kelak Allah SWT tidak akan menghisabnya."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 15 : Para malaikat bersholawat kepadanya dan menjaga di Arsy dan kursi."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 16 : Allah SWT mencatat baginya akan di bebaskan dari api neraka dan masuk surga."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 17 : Diberikannya pahala seperti pahala para nabi."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 18 : Satu Malaikat berseru : Hai Hamba Allah bahwasanya Allah SWT telah meridhoi kamu dan ke dua orang tuamu."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 19 : Allah SWT akan mengangkat ke surga firdaus."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 20 : Allah SWT memberikan pahala para Syuhada dan orang-orang Sholeh."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 21 : Allah SWT membuatkan baginya sebuah istana di surga dari cahaya."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 22 : Pada hari kiamat nanti, selamat dari kesulitan dan kesusahan."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 23 : Allah SWT membangunkan baginya sebuah kota di surga."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 24 : Permintaanya di kabulkan oleh Allah SWT."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 25 : Allah SWT mengangkatnya dari siksaan kubur."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 26 : Allah SWT mengangkatnya baginya pahala empat puluh tahun (40 thn)."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 27 : Ia akan melewati jembatan Shirotul Mustaqim pada hari kiamat kelak seperti kilat menyambar."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 28 : Allah SWT mengangkat baginya seribu (1000) derajat di surga."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 29 : Allah SWT memberikan pahala seribu (1000) haji yang makbul."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Malam ke 30 : Allah SWT berfirman : Hai Hambaku, makanlah buah-buahan di dalam surga dan mandilah engkau dengan air Salsabil dan minumlah dari telaga kautsar, Aku tuhanmu dan engkau hamba-Ku."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bSumberArtikelManfaatDanKeutamaanSholatTarawih"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Manfaat Dan Keutamaan Sholat Tarawih"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

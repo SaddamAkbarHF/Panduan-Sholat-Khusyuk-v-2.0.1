@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_red_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Definisi Khusyu’"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="1. Secara Bahasa"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Secara bahasa, kata khusyu’ memiliki beberapa arti yang sama:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="a) Tunduk, Pasrah. Merendah Atau Diam"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Artinya mirip dengan kata khudu’. Hanya saja kata khuduk’ lebih sering digunakan untuk anggota badan, sedangkan khusyu’ untuk kondisi dan gerak-gerik hati (Lihat Mu’jamu Maqasiyisi al-Lughah: II/152, Bashairu Dzawi At-Tamyiz: II/541-543, Tafsir Al-Baghwi: III/301, Tafsir Abi As-Su’ud: VI/123 dan Fathul Bari: II/225)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="b) Rendah Perlahan, Biasanva Digunakan Untuk Suara"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Allah Subhanahu wa Ta’ala berfirman:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="# “Dan (khusyu’) merendahlah semua suara kepada Rabb Yang Maha Pemurah, maka kamu tidak mendengar melainkan bisikan saja.” (QS. Ath-Thaha: 108)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="c) Diam, Tak Bergerak."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Allah Subhanahu wa Ta’ala berfirman:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="#“Di antara tanda-tanda kekuasaan-Nya, kamu lihat bumi itu diam tak bergerak, dan apabila Kami turunkan air di atasnya, niscaya ia bergerak dan subur.” (QS. Al-Fushilat: 39)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="2. Menurut Istilah"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Khusyu’ artinya: kelembutan hati, ketenangan sanubari yang berfungsi menghindari keinginan keji yang berpangkal dari memperturutkan hawa nafsu hewani, serta kepasrahan di hadapan ilahi yang dapat melenyapkan keangkuhan, kesombongan dan sikap tinggi hati."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Dengan itu, seorang hamba akan menghadap Allah dengan sepenuh hati. Ia hanya bergerak sesuai petunjuk-Nya, dan hanya diam juga sesuai dengan kehendak-Nya. (Lihat “Al-Khusyu’ fi Ash-Shalah” oleh Ibnu Rajab Al-Hambali)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Adapun pengertian khusyu’ di dalam shalat:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="# “Kondisi hati yang penuh dengan ketakutan, mawas diri dan tunduk pasrah di hadapan keagungan Allah. Kemudian semua, itu membekas dalam gerak-gerik anggota badan yang penuh khidmat dan konsentrasi dalam shalat, bila perlu menangis dan memelas kepada Allah; sehingga tak memperdulikan hal lain.” (‘Lihat Al-Khusyu’ karya Al-Hilali)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Pengertian khusyu’ tersebut diambil dari firman Allah:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="“..yaitu orang-orang yang khusyu’ dalam shalatnya..” (QS. Al-Mukminun: 1-2)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Mengenai makna kekhusyu’an itu, Ibnu Abbas menandaskan: “Artinya penuh takut dan khidmat.” Al-Mujahid menyatakan: “Tenang dan tunduk.” Sementara Ali bin Abi Thalib pernah menyatakan:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Yang dimaksud dengan kekhusyu’an di situ adalah kekhusyu’an hati."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Lain lagi dengan Hasan al-Bashri, beliau berkata:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="# “Kekhusyu’an mereka itu berawal dari dalam sanubari, lalu terkilas balik ke pandangan mata mereka sehingga mereka menundukkan pandangan mereka dalam shalat.”"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Imam Atha’ pernah berkata:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="# “Khusyu’ artinya, tak sedikitpun kita mempermainkan salah satu anggota tubuh kita.“"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingBottom="40dp"
+            android:text="Jadi artinya, kekhusyu’an dalam shalat bukanlah sekedar kemampuan memaksimalkan konsentrasi sehingga fikiran hanya terfokus dalam shalat. Namun kekhusyu’an lebih merupakan kondisi hati yang penuh rasa takut, pasrah, tunduk dan sejenisnya; yang membias dalam setiap gerakan shalat sehingga menjadi nampak anggun, khidmat dan tidak serampangan."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bSumberArtikelDefinisidanpengertianSholatKhusyu"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artike Definisi dan Pengertian Sholat Khusyu"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

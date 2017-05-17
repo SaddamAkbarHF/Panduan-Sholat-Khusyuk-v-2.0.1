@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="Sholat Hajat"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Shalat hajat merupakan ibadah sholat sunnah yang ditujukan untuk meminta dan memohon sebuah hajat kepada Allah SWT."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Hajat menurut arti katanya yaitu keperluan atau kebutuhan. Jadi shalat sunah hajat adalah sholat sunat yang dikerjakan karena mempunyai maksud atau keperluan dan berharap allah swt mengabulkannya. Hajat atau keperluan ini ada yang kepada allah swt dan ada juga yang mempunyai hajat kepada sesama manusia, atau disebut dengan urusan duniawi dan ukhrawi."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Sholat hajat dimaksudkan untuk menyempurnakan ikhtiar dan mencapai suatu keinginan, Insya Allah dengan melakukan sholat Hajat Allah akan mengabulkan doa dan keinginan tersebut. Doa, usaha, ikhtiar, dan tawakal adalah kewajiban umat muslim dalam menyikapi banyaknya tuntutan hidup di dunia. Dalam surat Al Baqarah:45 di atas, selain sholat kita diperintahkan juga untuk sabar. Oleh karena itu, sholat Hajat dan memohon kepada Allah dapat kita lakukan setiap hari dengan khusyuk serta tanpa rasa bosan bila keinginan itu belum dikabulkan. "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Rasulullah saw bersabda, “Siapa yang berwudhu dan sempurna wudhunya, kemudian sholat dua rakaat (Sholat Hajat) dan sempurna rakaatnya maka Allah berikan apa yang ia pinta cepat atau lambat.” (HR Ahmad)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Suatu hajat dapat tercapai diantaranya dengan berusaha dan berdoa yaitu dengan shalat. Sehingga berharap allah swt akan segera mengabulkan keinginan kita. Karena allah telah berfirman dalam Al-Quran:  (Al-Baqarah : 45)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/hajat1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="&apos;Dan Meminta Pertolongan (kepada Allah) dengan sabar dan shalat…&apos; (QS Al Baqarah : 45)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Waktu Pelaksanaan Shalat Hajat"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Waktu sholat Hajat tidak tertentu, namun tidak diperbolehkan mengerjakan sholat Hajat pada waktu yang dilarang seperti setelah sholat Ashar dan setelah sholat Subuh. Sholat Hajat dilakukan sendiri, tidak berjamaah. Banyaknya rakaat dalam sholat Hajat yaitu minimal dua rakaat dan maksimal sebanyak dua belas rakaat. Dalam pelaksanaanya, jika dikerjakan pada malam hari maka setiap dua rakaat sekali salam dan jika dilaksanakan pada siang hari maka boleh empat rakaat dengan sekali salam dan seterusnya."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Niat Sholat Hajat :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:src="@drawable/hajat2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Ushollii sunnatal haajati rok’ataini lillaahi ta’aala”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Artinya : Aku Niat Sholat Sunah Hajat Karena Allah"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Tata Cara Sholat Hajat :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="1. Niat sholat Hajat di dalam hati"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="2. Lalu Takbiratul Ihram. "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="3. Membaca do’a Iftitah, dilanjutkan dengan surat Al Fatihah kemudian membaca salah satu surat di dalam Al Quran."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="4. Ruku’ sambil membaca Tasbih tiga kali. "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="5. I’tidal sambil membaca bacaannya. "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="6. Sujud yang pertama sambil membaca Tasbih tiga kali Duduk antara dua sujud sambil membaca bacaannya. "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="7. Sujud yang kedua sambil membaca Tasbih tiga kali Setelah rakaat pertama selesai, lakukan rakaat kedua sebagaimana cara diatas, kemudian Tasyahhud akhir."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="8. Setelah selesai maka membaca salam dua kali. "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Bacaan Doa Sholat Hajat :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text=" Dalam kitab Tajul Jamil lil ushul, dianjurkan setelah shalat hajat membaca istigfar 100x, seperti kalimat istigfar yang biasa atau membaca istigfar berikut:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Astagfirullaha rabbi min kulli dzanbin wa atuubu ilaiih."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Artinya: “Aku memohon ampunan kepada Tuhanku, dari dosa-dosa, dan aku bertaubat kepada-Mu”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Selesai membaca istigfar lalu membaca shalawat nabi 100x, yakni:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Allahuma shalli ‘alaa sayyidinaa Muhammadin shalaatarridhaa wardha ‘an ashaabihir ridhar ridhaa."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Artinya: “Ya Allah, beri karunia kesejahteraan atas jungjunan kami Muhammad, kesejahteraan yang diridhai, dan diridailah daripada sahabat-sahabat sekalian.”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Apabila anda sudah membaca istigfar dan mambaca shalawat nabi maka anda memohon kepada Alloh SWT apa yang kita inginkan kemudian kita membaca doa sholat hajat"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Bacaan Doa Shalat Hajat Versi Arab :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/hajat3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Bacaan Doa Setelah Sholat Hajat Versi Latin :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Laa ilaha illallohul haliimul kariimu subhaanallohi robbul ‘arsyil ‘azhiim. Alhamdu lillaahi robbil ‘aalamiin. As `aluka muujibaati rohmatika wa ‘azaaima maghfirotika wal ghoniimata ming kulli birrin wassalaamata ming kulli itsmin. Laa tada’ lana dzanban illa ghofartahu walaa hamman illaa farojtahu walaa haajatan hiya laka ridhon illa qodhoitahaa yaa arhamar roohimiin."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Artinya: “Tidak ada Tuhan melainkan Allah Yang Maha Lembut dan Maha Penyantun. Maha Suci Allah, Tuhan pemelihara Arsy yang Maha Agung. Segala puji bagi Allah Tuhan seru sekalian alam. Kepada-Mu-lah aku memohon sesuatu yang mewajibkan rahmat-Mu, dan sesuatu yang mendatangkan ampunan-Mu dan memperoleh keuntungan pada tiap-tiap kebaikan. Janganlah Engkau biarkan dosa daripada diriku, melainkan Engkau ampuni dan tidak ada sesuatu kepentingan, melainkan Engkau beri jalan keluar, dan tidak pula sesuatu hajat yang mendapat kerelaan-Mu, melainkan Engkau kabulkan. Wahai Tuhan Yang Paling Pengasih dan Penyayang.”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatHajat"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat Hajat"
+            android:textColor="@color/colorAccent"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

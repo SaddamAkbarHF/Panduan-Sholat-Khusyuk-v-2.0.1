@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blur_1"
+    tools:context="com.sahftech.panduansholatkhusyuk.Credit">
+
+    <ImageView
+        android:id="@+id/imageView_psk"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/psk_icon" />
+
+    <TextView
+        android:id="@+id/textView_pskfont"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView_psk"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:fontFamily="cursive"
+        android:text="Panduan Sholat Khusyuk"
+        android:textStyle="bold"
+        android:textSize="32sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/imageView_psk_versi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView_pskfont"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="V 2.0.1"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="21. Memberi Isyarat Ke Kiri Dan Ke Kanan Dengan Kedua Tangan Pada Saat Mengucapkan Salam
+\n\nIsyarat seperti ini banyak dikerjakan oleh orang-orang awam, baik laki-laki maupun perempuan, padahal perbuatan ini terlarang dalam shalat.
+\n\nDiriwayatkan dari Jabir bin Samurah radhiyallahu ‘anhu bahwasannya ia berkata, “Jika kami shalat bersama Rasulullah shallallahu ‘alaihi wa sallam, kami mengucapkan: As_salamu ‘alaikum warahmatullah, as_salamu ‘alaikum warahmatullah sambil memberi isyarat dengan tangan ke kiri dan ke kanan. Melihat hal itu, Rasulullah shallallahu ‘alaihi wa sallam bersabda, Mengapa kalian memberi isyarat dengan tangan mirip seperti ekor-ekor kuda liar? Cukuplah salah seorang dari kalian meletakkan tangannya di atas pahanya, kemudian mengucapkan salam kepada saudaranya, yaitu orang yang berada di sebelah kanan dan kirinya.” [Hadits shahih, diriwayaytkan oleh Muslim, An_Nasa’i, dan Abu Dawud]
+\nMaksud ekor-ekor kuda di atas adalah kuda yang tidak dapat tenang bahkan selalu memberontak dan menggerakkan ekor dan kakinya (kuda liar). [Lihat Abu Malik Kamal bin As_Sayyid Salim, Shahih Fiqih Sunnah, hal. 559]
+\n\n22. Mendahului Imam Dalam Gerakan Shalat
+\n\nBerdasarkan sabda Rasulullah shallallahu ‘alaihi wa sallam, “Tidakkah salah seorang dari kalian takut, ketika mengangkat kepalanya mendahului imam, bila Allah akan merubah kepalanya menjadi kepala keledai atau Allah akan merubah rupanya menjadi keledai.” [Hadits shahih, diriwayatkan oleh Al_Bukhari dan Muslim]
+\n\n23. Shalat Ketika Makanan Sudah Terhidangkan, Atau Shalat Dengan Menahan Buang Air Kecil Dan Buang Air Besar
+\n\nDiriwayaytkan dari Aisyah radhiyallahu ‘anha, ia berkata, “Aku mendengar Rasulullah shallallahu ‘alaihi wa sallam bersabda: Tidak boleh mengerjakan shalat pada saat makanan telah dihidangkan, dan tidak boleh pula (shalat) pada saat menahan buang air besar dan kecil.” [Hadits shahih, diriwayat-kan oleh Muslim"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:text="Halaman 7"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bSumberArtikelLaranganDalamSholat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/colorAccent"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:text="Sumber Artikel Larangan Dalam Sholat"
+            android:textSize="14dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevLarangan7"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Prev"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp" />
+
+            <Button
+                android:id="@+id/bNextLarangan7"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_weight="1"
+                android:text="Back To Menu"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="4dp"
+        android:paddingTop="80dp"
+        android:text="TasDig (Tasbih Digital)"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:typeface="monospace" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="20dp"
+        android:text="Sarana Alternatif Bertasbih Dalam Smartphone Android"
+        android:textColor="#ffffff"
+        android:textSize="12dp"
+        android:typeface="monospace" />
+    <TextView
+        android:id="@+id/tvHasil"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="15dp"
+        android:text="0"
+        android:textColor="#ffffff"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+    <Button
+        android:id="@+id/bSubhanallah"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dip"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:background="@drawable/gb_selector_tasdig"
+        android:text="Sentuh dan Katakan \nسُبْحَانَ اللّهُ\n1.Subhanallah (33x)"
+        android:textColor="#ffffff"
+        android:textSize="20dip"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/bAlhamdulillah"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dip"
+        android:background="@drawable/gb_selector_tasdig_alhamdulillah"
+        android:text="Sentuh dan Katakan \nاَلْحَمْدُلِلّهِ\n2.Alhamdulillah (33x)"
+        android:textColor="#ffffff"
+        android:textSize="20dip"
+        android:textStyle="bold"
+        android:typeface="monospace"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/bAllahuakbar"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dip"
+        android:background="@drawable/gb_selector_tasdig_allahuakbar"
+        android:text="Sentuh dan Katakan \nاَللّهُ اَكْبَرُ\n3.Allahuakbar (33x)"
+        android:textColor="#ffffff"
+        android:textSize="20dip"
+        android:textStyle="bold"
+        android:typeface="monospace"
+        android:visibility="invisible" />
+
+</LinearLayout>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_red_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Cara Sholat Berjamaah"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="1. Luruskan Dan Rapatkan Barisan / Shaf :"
+            android:textColor="@android:color/white"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Nabi SAW bersabda : “Kalian mau meluruskan berisan-barisan kalian atau Allah akan membuat perselisihan diantara hati-hati kalian.: (HR.Bukhari &amp; Muslim). Adapun rapatnya barisan, sebagaimana yang dipraktekkan para sahabat adalah pundak dan kaki seseorang merapat dengan pundak dan kaki kawannya. Bila shaf di depan kita ada yang kosong/renggang, maka hendaknya kita mau untuk mengisinya. Dan jangan membuat kelompok shaf tersendiri yang tidak menyatu dengan shaf di depannya. "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="2. Tidak Mempersilahkan Menjadi Imam Kepada Orang Yang Tidak Pantas Menjadi Imam"
+            android:textColor="@android:color/white"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Imam adalah orang yang diikuti, karena itu ia harus faqih (faham dalam urusan agama) dan qori’ (pandai membaca Al-Qur’an). Para ulama menetapkan , tidak boleh dipersilahkan menjadi imam orang yang tidak baik bacaan al-qur’an nya atau yang dikenal dengan kemaksiataannya (fasiq), meskipun demikian, kalau itu terjadi maka sholat makmum tetap sah."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="3. Hendaknya Imam Tidak Tergesa-gesa Dalam Shalatnya Dan Thuma’ninah"
+            android:textColor="@android:color/white"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Sehingga menjadikan makmum juga tergesa-gesa, tidak thuma’ninah dan tidak sempat membaca Al-Fatihah. Setiap imam akan ditanya tentang sholatnya, dan thuma’ninah adalah rukun, karena itu ia wajib atas imam karena dia adalah yang diikuti. Thuma’ninah artinya tenang ketika sedang ruku’, i’tidal, sujud dan duduk diantara dua sujud. Tenang disini maksudnya, sampai tulang-tulang kembali pada posisi dan persendiannya, tidak tergesa-gesa dalam pergantian dari satu rukun ke rukun yang lainnya. Sehingga Nabi Muhammad SAW kepada orang yang tergesa-gesa dalam sholatnya dan tidak thuma’ninah bersabda : “Kembali dan sholatlah! Sesungguhnya engkau belum sholat.”"
+            android:textColor="@android:color/white"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="4. Bagi Yang Datang Terlambat, Agar Langsung Mengikuti Keadaan Imam Ketika Masuk Masjid (Setelah Takbiratul Ihram Terlebih Dahulu)"
+            android:textColor="#FF0000"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Orang yang masuk masjid hendaknya lansgung mengiktui imam, baik ketika itu ia sedang duduk, sujud atau lainnya. Rasullah saw bersabda : “Jika kalian datang untuk sholat dan kami sedang sujud, maka sujudlah! (HR.Abu Daud, Shahih)"
+            android:textColor="@android:color/white"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="5. Jangan Mendahului Atau Menyelisihi Imam. "
+            android:textColor="@android:color/white"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Ini bisa mengakibatkan batalnya sholat atau roka’at. Karena itu hendaknya makmum mengikuti imam, tidak mendahului atau terlambat daripadanya, baik satu rukun atau lebih. Rasulullah bersabda : “Sesungguhnya diadakannya imam itu untuk diikuti, karena itu jika ia bertakbir maka bertakbirlah, jangan kalian bertakbir sampai ia bertakbir, dan jika ruku’ maka ruku’lah dan jangan kalian ruku’ sampai ia ruku’”(HR.Bukhari dan Muslim)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="6. Bagi Makmum Yang Akan Menambah Rakaat Sholatnya Karena Terlambat Datang (Masbuk) Maka Jangan Bangun Dari Duduk Untuk Menyempurnakan Raka’at Sebelum Imam Selesai Dari Dalam Yang Kedua."
+            android:textColor="@android:color/white"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="7. Wanita Yang Keluar Untuk Sholat Berjamaah Di Masjid Hendaknya Tidak Berhias Dan Memakai Wewangian. "
+            android:textColor="@android:color/white"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Ini Adalah Kemungkaran Yang Tampak Nyata Baik Dibulan Ramadhan Atau Diwaktu Lainnya. Rasullah bersabda : “Jangan melarang wanita-wanita pergi ke masjid, hendaknya mereka keluar dalam keadaan tidak berhias dan memakai wewangian ,” (HR, Ahmad dan Abu Daud, Shahih)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="8. Tidak Mengenakan Pakaian Tipis Yang Tidak Menutupi Aurat. Hal Ini Membatalkan Sholat, Karena Menutup Aurat Merupakan Syarat Sahnya Sholat."
+            android:textColor="@android:color/white"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Sumber : Al-Minzhar fi bayani katsirin minal akhtha’ asy-sya’ilah, Shalih bin Abdul Aziz Alu Syaikh dan sedikit tambahan"
+            android:textColor="#F7F7F7"
+            android:textSize="12dp"
+            android:typeface="monospace" />
+
+
+    </LinearLayout>
+
+</ScrollView>

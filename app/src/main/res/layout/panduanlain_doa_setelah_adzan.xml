@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="15dp"
+            android:text="Doa Setelah Adzan"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Kata Adzan berasal dari bahasa Arab yang bermakna pemberitahuan, sedangkan menurut syariat, adzan adalah beribadah kepada Allah dengan pemberitahuan masuknya waktu shalat dengan dzikir tertentu. Tujuan adzan untuk memberitahukan masuknya waktu shalat agar bersiap-siap menunaikannya."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:text="Berdoa antara adzan dan iqomat adalah waktu dikabulkannya doa. Rasulullah shallallahu ‘alaihi wa sallam bersabda:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Tidak akan ditolak doa antara adzan dan iqamah.” (HR Abu Dawaud, At-Tirmidzi, ia berkata: Hasan)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="15dp"
+            android:text="Berikut Ini Adalah Doa Setelah Adzan:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:text="Putar Doa Setelah Adzan Untuk Membantu Belajar Menghafal Doa Setelah Adzan Dipandu Dengan Lafal:"
+            android:textColor="@color/colorAccent"
+            android:textSize="12dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp">
+
+            <Button
+                android:id="@+id/bDoaSetelahAdzanPlay"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/selector_play"
+                android:text="Play"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:textColor="@android:color/white"
+                android:textSize="14dp" />
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/bDoaSetelahAdzanStop"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/selector_stop"
+                android:text="STOP"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:textColor="#F7F7F7"
+                android:textSize="14dp" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/doasetelahadzan" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALLAHUMMA ROBBA HADZIHID DA’WAATIT TAAMMAH WAS SHALATIL QOO`IMAH ATI MUHAMMADANIL WASILATA WAL FADHIILAH WAB’ATSHU MAQOOMAM MAHMUDANIL LADZI WA’ADTAHU” "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“Ya Allah pemilik panggilan yang sempurna ini dan shalat yang didirikan berilah Muhammad wasilah dan keutamaan dan bangkitkanlah dia pada tempat yang terpuji yang telah Engkau janjikan padanya) melainkan dia akan mendapatkan syafaatku pada hari kiamat.” (HR. Al-Bukhari no. 94)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="40dp"
+            android:text="Dari adzan didapatkanlah pemberitahuan tentang masuk waktu shalat, ajakan berjamaah dan menampakkan syiar Islam."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+        <Button
+            android:id="@+id/bSumberArtikelDoaSetelahAdzan"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Doa Setelah Adzan"
+            android:textColor="@color/colorAccent"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

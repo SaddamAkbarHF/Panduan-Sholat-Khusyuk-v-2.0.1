@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="8. Duduk Tawarruk (Duduk Dengan Pantat Menyentuh Lantai Dan Meletakkan Kaki Kiri Di Bawah Kaki Kanan Yang Tegak) Pada Tasyahhud Akhir Dalam Shalat Tiga Atau Empat Raka’at"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Abu Humaid As-Sa’idiy berkata, “Jika beliau shallallahu ‘alaihi wa sallam duduk pada raka’at terakhir maka beliau memajukan kaki kirinya dan menegakkan yang lain (kanan) serta duduk dengan pantat menyentuh lantai.” (HR. Al-Bukhariy 2/828) "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Dan dalam hadits Rifa’ah bin Rafi’ dijelaskan, “Lalu jika kamu telah duduk di pertengahan (akan selesainya) shalat maka thuma’ninahlah, rapatkan ke lantai paha kirimu lalu bertasyahhud.” (HR. Abu Dawud no.860)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:text="Halaman 9"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevSunnah9"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:text="Prev"
+                android:textSize="16dp" />
+            <Button
+                android:id="@+id/bHome"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:textColor="@color/colorAccent"
+                android:layout_weight="1"
+                android:text="HOME"
+                android:textAllCaps="true"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:onClick="clickhome"/>
+
+            <Button
+                android:id="@+id/bNextSunnah9"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_weight="1"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:text="Next"
+                android:textSize="16dp"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

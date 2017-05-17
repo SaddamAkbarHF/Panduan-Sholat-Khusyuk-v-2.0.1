@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            android:text="3. Mengangkat Kedua Tangan Dengan Jari - Jarinya Yang Rapat Terbuka (Tidak Terkepal) Setinggi Bahu Atau Telinga Tatkala Takbir Pertama, Ruku’, Bangkit Dari Ruku’ Dan Ketika Berdiri Dari Tasyahhud Awal Menuju Raka’at Ketiga"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Berdasarkan hadits riwayat Abu Dawud yang menjelaskan bahwa Nabi shallallahu ‘alaihi wa sallam mengangkat kedua tangannya dengan jari-jari yang rapat terbuka /tidak terkepal (dan tentunya menghadap ke kiblat).
+Juga berdasarkan hadits Abu Humaid radhiyallahu ‘anhu, “Beliau shallallahu ‘alaihi wa sallam mengangkat kedua tangan setinggi kedua bahunya.” (HR. Abu Dawud)
+"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Dan hadits Malik bin Huwairits, “Beliau shallallahu ‘alaihi wa sallam mengangkat kedua tangannya hingga setinggi ujung kedua telinganya.” (Muttafaqun ‘alaih)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Mengangkat kedua tangan adalah isyarat membuka hijab antara seorang hamba dengan Rabbnya, sebagaimana telunjuk mengisyaratkan ke-Esaan Allah ‘azza wa jalla.
+Pada Hadits ‘Ali bin Abi Thalib radhiyallahu ‘anhu dari Rasulullah shallallahu ‘alaihi wa sallam, jika beliau berdiri untuk shalat wajib maka beliau bertakbir dan mengangkat kedua tangan beliau setinggi kedua bahunya. Beliau shallallahu ‘alaihi wa sallam melakukan seperti itu apabila telah selesai dari bacaannya dan hendak ruku’, demikian pula setelah mengangkat kepala dari ruku’. Beliau shallallahu ‘alaihi wa sallam tidak mengangkat tangannya sama sekali ketika duduk di dalam shalat. Apabila telah berdiri selesai melakukan dua sujud (maksudnya adalah dua raka’at), maka beliau shallallahu ‘alaihi wa sallam kembali mengangkat kedua tangannya sambil bertakbir. (HR. Ahmad, Abu Dawud dan At-Tirmidziy menshahihkannya)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="Halaman 4"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevSunnah4"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Prev"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="14dp" />
+
+            <Button
+                android:id="@+id/bHome"
+                android:textColor="@color/colorAccent"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="HOME"
+                android:textAllCaps="true"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:onClick="clickhome"/>
+
+            <Button
+                android:id="@+id/bNextSunnah4"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Next"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="14dp"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

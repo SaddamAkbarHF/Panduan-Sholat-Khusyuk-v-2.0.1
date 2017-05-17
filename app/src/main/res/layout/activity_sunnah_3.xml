@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="2. Meletakkan (Telapak) Tangan Kanan Di Atas (Punggung) Tangan Kiri Pada Dada Saat Berdiri Sebelum Ruku’"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Sebagaimana diterangkan dalam hadits Wa`il bin Hujr radhiyallahu ‘anhu, “Lalu Beliau shallallahu ‘alaihi wa sallam meletakkan tangan yang kanan di atas tangan yang kiri.” (HR. Al-Imam Ahmad dan Muslim)."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Rasulullah shallallahu ‘alaihi wa sallam juga bersabda, “Sesungguhnya kami, kalangan para Nabi, telah diperintahkan untuk menyegerakan buka puasa kami, mengakhirkan sahur kami, serta agar kami meletakkan tangan kanan kami di atas tangan kiri dalam shalat.” (HR. Abu Dawud dengan sanad yang hasan dari Thawus secara mursal)
+Dan masih ada lagi selain cara di atas sebagaimana di terangkan dalam berbagai riwayat. Namun dalam hal ini, pendapat yang terpilih dan rajih adalah meletakkan tangan di atas dada (yaitu tepat di dada, bukan di atas dada mendekati leher), atau yang mendekati dada yaitu di sekitar hati, wallaahu a’lam.
+Asy-Syaikh Al-Albaniy menjelaskan bahwa meletakkan kedua tangan di dada inilah yang shahih di dalam sunnah, adapun selain itu riwayatnya dha’if atau laa ashla lahu (tidak ada asalnya), lihat kitab beliau Shifatu Shalaatin Nabiy shallallahu ‘alaihi wa sallam. (bersambung insya Allah). Wallaahu A’lam."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="Pada edisi yang lalu telah dijelaskan do’a istiftaah dan meletakkan telapak tangan kanan di atas punggung tangan kiri pada dada saat berdiri sebelum ruku’, sekarang akan dilanjutkan dengan sunnah-sunnah yang lainnya, yaitu:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:text="Halaman 3"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevSunnah3"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:layout_width="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Prev"
+                android:textSize="16dp" />
+
+            <Button
+                android:id="@+id/bHome"
+                android:textColor="@color/colorAccent"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:onClick="clickhome"
+                android:text="HOME"
+                android:textAllCaps="true" />
+
+            <Button
+                android:id="@+id/bNextSunnah3"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Next"
+                android:textSize="16dp"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

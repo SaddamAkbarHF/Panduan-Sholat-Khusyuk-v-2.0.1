@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="8. Menguap Dalam Shalat
+\n\nMenguap dalam shalat tidak boleh dibiarkan, tetapi wajib dicegah dan meletakkan tangan pada mulut. Hal ini berdasarkan hadits dari Abu Hurairah radhiyallahu ‘anhu  bahwa Nabi shallallahu ‘alaihi wa sallam pernah bersabda, “Menguap (dalam shalat) berasal dari setan. Jika salah seorang di antara kalian menguap, maka hendaklah ia menahannya semampunya.” (Hadits shahih, diriwayatkan oleh Al Bukhari, Muslim, dan At Tirmidzi. Adapun tambahan lafaz di atas tertera di dalam riwayat oleh At_Tirmidzi)
+\n\n9. Meludah Ke Arah Kiblat Atau Ke Sebelah Kanan
+\n\nBerdasarkan hadits dari Jabir, ia berkata, “Apabila salah seorang dari kalian berdiri untuk mengerjakan shalat, maka sesungguhnya Allah berada di hadapannya. Oleh karena itu, janganlah meludah ke arah depan dan ke sebelah kanannya. Tetapi hendaklah meludah ke sebelah kiri atau ke bawah kaki sebelah kirinya. Jika ia terdesak (yakni terdesak membuang ludah atau dahak) secara spontan, maka hendaklah ia meludah ke pakaiannya seperti ini, seraya beliau melipat pakaiannya dan menggosok-gosoknya.” (Hadits shahih, diriwayatkan oleh Muslim)
+\n\n10. Memejamkan Mata Ketika Shalat
+\n\nApabila memejamkan mata dalam shalat dimaksudkan untuk mendekatkan diri ke pada Allah, maka hal ini diharamkan, karena termasuk dalam perkara bid’ah (mengada-ada dalam urusan agama). Apabila bukan itu maksudnya, maka hukumnyya makruh, karena menyelisihi sunnah Rasulullah shallallahu ‘alaihi wa sallam.
+Ibnu Qayyim Al Jauziyah berkata, “Tidak ada petunjuk Rasulullah shallallahu ‘alaihi wa sallam tentang memejamkan mata ketika shalat. Dan yang dapat dijadikan sebagai dalil adalah beliau mengulurkan tangannya dalam shalat Kusuf untuk mengambil setandan anggur tatkala melihat surga. Demikian juga ketika beliau melihat neraka, yang di dalamnya terdapat seorang wanita yang pernah memelihara seekor kucing, dan pemilik tongkat. Demikian juga ketika beliau mengusir hewan yaang hendak melintas di hadapan beliau….” [Lihat Ibnul Qayyim Al Jauziyah, Zadul Ma’ad  (I/294)]
+Semua hadits-hadits di atas dapat diambil suatu kesimpulan bahwa beliau tidak memejamkan kedua matanya pada saat mengerjakan shalat."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:text="Halaman 3"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevLarangan3"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Prev"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp" />
+
+            <Button
+                android:id="@+id/bHome"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="HOME"
+                android:textColor="@color/colorAccent"
+                android:textAllCaps="true"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:onClick="clickhome"/>
+
+            <Button
+                android:id="@+id/bNextLarangan3"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Next"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="15dp"
+            android:text="Kesehatan Gerakan Sholat"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="40dp"
+            android:paddingTop="15dp"
+            android:text="Sholat sebagai tiang agama adalah ibadah yang paling proporsional bagi anatomi tubuh manusia. Gerakan-gerakannya sudah sangat melekat dengan gestur ( gerakan khas tubuh ) seorang muslim. Namun, pernahkah terpikirkan manfaat masing-masing gerakan? Sudut pandang ilmiah menjadikan sholat gudang obat bagi berbagai jenis penyakit!"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Takbiratul Ihram"
+            android:textColor="#455A64"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Postur: berdiri tegak, mengangkat kedua tangan sejajar telinga, lalu melipatnya di depan perut atau dada bagian bawah."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Manfaat: Gerakan ini melancarkan aliran darah, getah bening ( limfe ) dan kekuatan otot lengan. Posisi jantung di bawah otak memungkinkan darah mengalir lancar ke seluruh tubuh. Saat mengangkat kedua tangan, otot bahu meregang sehingga aliran darah kaya oksigen menjadi lancar."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Kemudian kedua tangan didekapkan di depan perut atau dada bagian bawah. Sikap ini menghindarkan dari berbagai gangguan persendian, khususnya pada tubuh bagian atas."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Rukuk"
+            android:textColor="#455A64"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Postur: Rukuk yang sempurna ditandai tulang belakang yang lurus sehingga bila diletakkan segelas air di atas punggung tersebut tak akan tumpah. Posisi kepala lurus dengan tulang belakang."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Manfaat: Postur ini menjaga kesempurnaan posisi dan fungsi tulang belakang ( corpus vertebrae ) sebagai penyangga tubuh dan pusat syaraf. Posisi jantung sejajar dengan otak, maka aliran darah maksimal pada tubuh bagian tengah. Tangan yang bertumpu di lutut berfungsi relaksasi bagi otot-otot bahu hingga ke bawah. Selain itu, rukuk adalah latihan kemih untuk mencegah gangguan prostat."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="I’tidal"
+            android:textColor="#455A64"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Postur: Bangun dari rukuk, tubuh kembali tegak setelah, mengangkat kedua tangan setinggi telinga."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Manfaat: Itidal adalah variasi postur setelah rukuk dan sebelum sujud. Gerak berdiri bungkuk berdiri sujud merupakan latihan pencernaan yang baik. Organ organ pencernaan di dalam perut mengalami pemijatan dan pelonggaran secara bergantian. Efeknya, pencernaan menjadi lebih lancar."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Sujud"
+            android:textColor="#455A64"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Postur: Menungging dengan meletakkan kedua tangan, lutut, ujung kaki, dan dahi pada lantai."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Manfaat: Aliran getah bening dipompa ke bagian leher dan ketiak. Posisi jantung di atas otak menyebabkan darah kaya oksigen bisa mengalir maksimal ke otak. Aliran ini berpengaruh pada daya pikir seseorang. Karena itu, lakukan sujud dengan tumaâninah, jangan tergesa gesa agar darah mencukupi kapasitasnya di otak. Postur ini juga menghindarkan gangguan wasir. Khusus bagi wanita, baik rukuk maupun sujud memiliki manfaat luar biasa bagi kesuburan dan kesehatan organ kewanitaan."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Duduk Diantara Dua Sujud"
+            android:textColor="#455A64"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Postur: Duduk ada dua macam, yaitu iftirosy ( tahiyyat awal ) dan tawarruk ( tahiyyat akhir ). Perbedaan terletak pada posisi telapak kaki."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Manfaat: Saat iftirosy, kita bertumpu pada pangkal paha yang terhubung dengan syaraf nervus Ischiadius. Posisi ini menghindarkan nyeri pada pangkal paha yang sering menyebabkan penderitanya tak mampu berjalan. Duduk tawarruk sangat baik bagi pria sebab tumit menekan aliran kandung kemih ( urethra ), kelenjar kelamin pria ( prostata ) dan saluran vas deferens. Jika dilakukan. dengan benar, postur irfi mencegah impotensi. Variasi posisi telapak kaki pada iffirosy dan tawarruk menyebabkan seluruh otot tungkai turut meregang dan kemudian relaks kembali. Gerak dan tekanan harmonis inilah yang menjaga. Kelenturan dan kekuatan organ-organ gerak kita."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Salam"
+            android:textColor="#455A64"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Gerakan: Memutar kepala ke kanan dan ke kiri secara maksimal."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Manfaat: Relaksasi otot sekitar leher dan kepala menyempurnakan aliran darah di kepala. Gerakan ini mencegah sakit kepala dan menjaga kekencangan kulit wajah."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Beribadah secara, kontinyu bukan saja menyuburkan iman, tetapi mempercantik diri wanita luar dan dalam."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Kenapa sholat harus 5 kali dalam sehari? Menurut pendapat ilmuwan Cina :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="→ Ada energi api akan keluar pada waktu jam 12.00 siang sampai sore, untuk mengobati jantung dan ginjal itu."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="→ Dalam gerakan sholat ashar adalah siklus dari panas ke dingin mereka menyebutnya terapi kandung kemih. Secara alamiah gerakan ashar itu ternyata memisahkan zat-zat kimia dalam tubuh kita."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="→ Ada energi air yang keluar pada waktu jam 6 sore setelah terbenamnya matahari yang mereka menyebutnya bahwa maghrib itu menterapi ginjal."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="→ Gerakan isya yaitu setelah mega merah hilang, ini mereka menyebutnya sebagai terapi yang mengurangi kelebihan energi. Ada energi kayu yang keluar pada waktu jam 11 malam, dia yang menghancurkan racun-racun yang ada dibadan kita, dan menurut ilmuwan Cina racun itu bakar kayu untuk membuang racun di otak."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="→ Kemudian jam 2 pagi otak dibersihkan oleh energi kayu, dan selanjutnya Allah menyediakan dan mengisinya untuk sholat tahajud pada waktu sepertiga malam. Ilmuwan di Jerman melakukan penelitian Prof. Dr. Sholeh seorang guru besar Universitas Airlangga, telah membuktikan bahwa tahadjud yang teratur dan disiplin akan mencegah kanker, stres dan infeksi oleh sebab itu jika orang melakukan dengan teratur memiliki emosi yang positif. Energi udara keluar pada jam 02."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="→ Jam 3 pagi energi logam yang menterapi kita."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="→ Jam 6 pagi melakukan sholat dhuha untuk menterapi pencernaan."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="40dp"
+            android:paddingTop="15dp"
+            android:text="Shalat memang banyak manfaatnya buat kesehatan selain bikin hati tenang. Juga membuat tubuh serta batin kita tenang"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSumberArtikelKesehatanGerakanSholat"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Kesehatan Gerakan Sholat"
+            android:textColor="@color/colorAccent"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

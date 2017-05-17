@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="15. Menggulung Pakaian (Menggulung Agar Tidak Terjuntai Ke Tanah) Ketika Sujud
+\n\nDiriwayatkan dari Ibnu Abbas, ia berkata, “Rasulullah shallallahu ‘alaihi wa sallam memerintahkan kami untuk sujud di atas tujuh anggota badan, serta melarang kami menggulung rambut dan pakaian.” [Hadits shahih, diriwayatkan oleh Al_Bukhari dan Muslim]
+Penulis berkata, “Termasuk dalam kategori ini adalah menggulung ujung lengan baju.”
+\n\n16. Duduk Iq’a’
+Duduk Iq’a’ adalah menempelkan kedua pinggul di lantai, menegakkan kedua betis, dan meletakan kedua tangan di atas lantai.
+\n\nBerdasarkan hadits dari Aisyah radhiyallahu ‘anha tentang sifat shalat Nabi shallallahu ‘alaihi wa sallam, yang di dalamnya disebutkan, “Beliau melarang kami duduk seperti duduknya setan.” [Hadits shahih, diriwayatkan oleh Muslim]
+\n\nPenjelasan:
+Duduk Iq’a’  seperti yang telah dijelaskan di atas adalah duduk yang terlarang. Hanya saja ada jenis duduk iq’a’ yang dibolehkan, yaitu menegak-kan kedua telapak kaki lantas duduk di ats tumitnya pada saat duduk di antara dua sujud. Bahkan duduk seperti ini disunnahkan.
+\n\n17. Meletakkan Kedua Tangan Di Lantai Ketika Duduk Dalam Shalat, Kecuali Ada Udzur
+\n\nDiriwayatkan dari Ibnu Umar radhiyallahu ‘anhuma, ia berkata, “Nabi shallallahu ‘alaihi wa sallam melarang seseorang duduk dalam shalat dengan bersandar pada tangan kirinya.” [Hadits ini diriwayatkan oleh Abu Dawud, Ahmad, Al_Hakim, dan Al_Baihaqi (II/136)]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:text="Halaman 5"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevLarangan5"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:textColor="@color/colorPrimaryDark"
+                android:text="Prev"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp" />
+            <Button
+                android:id="@+id/bHome"
+                android:layout_width="wrap_content"
+                android:textColor="@color/colorAccent"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="HOME"
+                android:textAllCaps="true"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:onClick="clickhome"/>
+            <Button
+                android:id="@+id/bNextLarangan5"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:textColor="@color/colorPrimaryDark"
+                android:text="Next"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

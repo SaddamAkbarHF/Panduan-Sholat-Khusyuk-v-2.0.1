@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Sujud Sahwi"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Sujud Sahwi Sebelum ataukah Sesudah Salam?"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Shidiq Hasan Khon rahimahullah berkata, “Hadits-hadits tegas yang menjelaskan mengenai sujud sahwi kadang menyebutkan bahwa sujud sahwi terletak sebelum salam dan kadang pula sesudah salam. Hal ini menunjukkan bahwa boleh melakukan sujud sahwi sebelum ataukah sesudah salam. Akan tetapi lebih bagus jika sujud sahwi ini mengikuti cara yang telah dicontohkan oleh Nabi shallallahu ‘alaihi wa sallam.  Jika ada dalil yang menjelaskan bahwa sujud sahwi ketika itu sebelum salam, maka hendaklah dilakukan sebelum salam. Begitu pula jika ada dalil yang menjelaskan bahwa sujud sahwi ketika itu sesudah salam, maka hendaklah dilakukan sesudah salam. Selain hal ini, maka di situ ada pilihan. Akan tetapi, memilih sujud sahwi sebelum atau sesudah salam itu hanya sunnah (tidak sampai wajib, pen).”[1]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Intinya, jika shalatnya perlu ditambal karena ada kekurangan, maka hendaklah sujud sahwi dilakukan sebelum salam. Sedangkan jika shalatnya sudah pas atau berlebih, maka hendaklah sujud sahwi dilakukan sesudah salam dengan tujuan untuk menghinakan setan."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Adapun penjelasan mengenai letak sujud sahwi  sebelum ataukah sesudah salam dapat dilihat pada rincian berikut."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="1. Jika terdapat kekurangan pada shalat –seperti kekurangan tasyahud awwal-, ini berarti kekurangan tadi butuh ditambal, maka menutupinya tentu saja dengan sujud sahwi sebelum salam untuk menyempurnakan shalat. Karena jika seseorang sudah mengucapkan salam, berarti ia sudah selesai dari shalat."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="1. Jika terdapat kelebihan dalam shalat –seperti terdapat penambahan satu raka’aat-, maka hendaklah sujud sahwi dilakukan sesudah salam. Karena sujud sahwi ketika itu untuk menghinakan setan."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="3. Jika seseorang terlanjur salam, namun ternyata masih memiliki kekurangan raka’at, maka hendaklah ia menyempurnakan kekurangan raka’at tadi. Pada saat ini, sujud sahwinya adalah sesudah salam dengan tujuan untuk menghinakan setan."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="4. Jika terdapat keragu-raguan dalam shalat, lalu ia mengingatnya dan bisa memilih yang yakin, maka hendaklah ia sujud sahwi sesudah salam untuk menghinakan setan."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="5. Jika terdapat keragu-raguan dalam shalat, lalu tidak nampak baginya keadaan yang yakin. Semisal ia ragu apakah shalatnya empat atau lima raka’at. Jika ternyata shalatnya benar lima raka’at, maka tambahan sujud tadi untuk menggenapkan shalatnya tersebut. Jadi seakan-akan ia shalat enam raka’at, bukan lima raka’at. Pada saat ini sujud sahwinya adalah sebelum salam karena shalatnya ketika itu seakan-akan perlu ditambal disebabkan masih ada yang kurang yaitu yang belum ia yakini."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Tata Cara Sujud Sahwi"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Sebagaimana telah dijelaskan dalam beberapa hadits bahwa sujud sahwi dilakukan dengan dua kali sujud di akhir shalat –sebelum atau sesudah salam-. Ketika ingin sujud disyariatkan untuk mengucapkan takbir “Allahu akbar”, begitu pula ketika ingin bangkit dari sujud disyariatkan untuk bertakbir."
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Contoh cara melakukan sujud sahwi sebelum salam dijelaskan dalam hadits ‘Abdullah bin Buhainah,"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/sujudsahwi1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Lalu beliau shalat dua rakaat lagi (yang tertinggal), kemudia beliau salam. Sesudah itu beliau bertakbir, lalu bersujud. Kemudian bertakbir lagi, lalu beliau bangkit. Kemudian bertakbir kembali, lalu beliau sujud kedua kalinya. Sesudah itu bertakbir, lalu beliau bangkit.” (HR. Bukhari no. 1229 dan Muslim no. 573)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Sujud sahwi sesudah salam ini ditutup lagi dengan salam sebagaimana dijelaskan dalam hadits ‘Imron bin Hushain,"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/sujudsahwi2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Sujud sahwi sesudah salam ini ditutup lagi dengan salam sebagaimana dijelaskan dalam hadits ‘Imron bin Hushain,"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/sujudsahwi3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Kemudian beliau pun shalat satu rakaat (menambah raka’at yang kurang tadi). Lalu beliau salam. Setelah itu beliau melakukan sujud sahwi dengan dua kali sujud. Kemudian beliau salam lagi.” (HR. Muslim no. 574)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Apakah ada takbiratul ihrom sebelum sujud sahwi?"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Sujud sahwi sesudah salam tidak perlu diawali dengan takbiratul ihrom, cukup dengan takbir untuk sujud saja. Pendapat ini adalah pendapat mayoritas ulama. Landasan mengenai hal ini adalah hadits-hadits mengenai sujud sahwi yang telah lewat."
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Sujud sahwi sesudah salam tidak perlu diawali dengan takbiratul ihrom, cukup dengan takbir untuk sujud saja. Pendapat ini adalah pendapat mayoritas ulama. Landasan mengenai hal ini adalah hadits-hadits mengenai sujud sahwi yang telah lewat."
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Apakah perlu tasyahud setelah sujud kedua dari sujud sahwi?"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Pendapat yang terkuat di antara pendapat ulama yang ada, tidak perlu untuk tasyahud lagi setelah sujud kedua dari sujud sahwi karena tidak ada dalil dari Nabi shallallahu ‘alaihi wa sallam yang menerangkan hal ini. Adapun dalil yang biasa jadi pegangan bagi yang berpendapat adanya, dalilnya adalah dalil-dalil yang lemah."
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Jadi cukup ketika melakukan sujud sahwi, bertakbir untuk sujud pertama, lalu sujud. Kemudian bertakbir lagi untuk bangkit dari sujud pertama dan duduk sebagaimana duduk antara dua sujud (duduk iftirosy). Setelah itu bertakbir dan sujud kembali. Lalu bertakbir kembali, kemudian duduk tawaruk. Setelah itu salam, tanpa tasyahud lagi sebelumnya."
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Syaikhul Islam Ibnu Taimiyah rahimahullah mengatakan, “Tidak ada dalil sama sekali yang mendukung pendapat ulama yang memerintahkan untuk tasyahud setelah sujud kedua dari sujud sahwi. Tidak ada satu pun hadits shahih yang membicarakan hal ini. Jika memang hal ini disyariatkan, maka tentu saja hal ini akan dihafal dan dikuasai oleh para sahabat yang membicarakan tentang sujud sahwi. Karena kadar lamanya tasyahud itu hampir sama lamanya dua sujud bahkan bisa lebih. Jika memang Nabi shallallahu ‘alaihi wa sallam melakukan tasyahud ketika itu, maka tentu para sahabat akan lebih mengetahuinya daripada mengetahui perkara salam, takbir ketika akan sujud dan ketika akan bangkit dalam sujud sahwi. Semua-semua ini perkara ringan dibanding tasyahud.”[3]"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Do’a Ketika Sujud Sahwi"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Sebagian ulama menganjurkan do’a ini ketika sujud sahwi,"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/sujudsahwi4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Subhana man laa yanaamu wa laa yas-huw” (Maha Suci Dzat yang tidak mungkin tidur dan lupa).[4]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Namun dzikir sujud sahwi di atas cuma anjuran saja dari sebagian ulama dan tanpa didukung oleh dalil. Ibnu Hajar rahimahullah mengatakan,"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/sujudsahwi5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Perkataan beliau, “Aku telah mendengar sebagian ulama yang menceritakan tentang dianjurkannya bacaan: “Subhaana man laa yanaamu wa laa yas-huw” ketika sujud sahwi (pada kedua sujudnya), maka aku katakan, “Aku tidak mendapatkan asalnya sama sekali.”[5]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Sehingga yang tepat mengenai bacaan ketika sujud sahwi adalah seperti bacaan sujud biasa ketika shalat. Bacaannya yang bisa dipraktekkan seperti,"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/sujudsahwi6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="“Subhaana robbiyal a’laa” [Maha Suci Allah Yang Maha Tinggi][6]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/sujudsahwi7" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Subhaanakallahumma robbanaa wa bi hamdika, allahummagh firliy.” [Maha Suci Engkau Ya Allah, Rabb kami, dengan segala pujian kepada-Mu, ampunilah dosa-dosaku][7]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Dalam Mughnil Muhtaj –salah satu kitab fiqih Syafi’iyah- disebutkan, “Tata cara sujud sahwi sama seperti sujud ketika shalat dalam perbuatann wajib dan sunnahnya, seperti meletakkan dahi, thuma’ninah (bersikap tenang), menahan sujud, menundukkan kepala, melakukan duduk iftirosy[8] ketika duduk antara dua sujud sahwi, duduk tawarruk[9] ketika selesai dari melakukan sujud sahwi, dan dzikir yang dibaca pada kedua sujud tersebut adalah seperti dzikir sujud dalam shalat.”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Sebagaimana pula diterangkan dalam fatwa Al Lajnah Ad Daimah (komisi fatwa di Saudi Arabia) ketika ditanya, “Bagaimanakah kami melakukan sujud sahwi?”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Para ulama yang duduk di Al Lajnah Ad Daimah menjawab, “Sujud sahwi dilakukan dengan dua kali sujud setelah tasyahud akhir sebelum salam, dilakukan sebagaimana sujud dalam shalat. Dzikir dan do’a yang dibaca ketika itu adalah seperti ketika dalam shalat. Kecuali jika sujud sahwinya terdapat kekurangan satu raka’at atau lebih, maka ketika itu, sujud sahwinya sesudah salam. Demikian pula jika orang yang shalat memilih keraguan yang ia yakin lebih kuat,maka yang afdhol baginya adalah sujud sahwi sesudah salam. Hal ini berlandaskan berbagai hadits shahih yang membicarakan sujud sahwi. Wabillahit taufiq, wa shallallahu ‘ala nabiyyina Muhammad wa aalihi wa shohbihi wa sallam.”[10]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Penulis: Muhammad Abduh Tuasikal"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="40dp"
+            android:paddingTop="15dp"
+            android:text="Sebagaimana pula diterangkan dalam fatwa Al Lajnah Ad Daimah (komisi fatwa di Saudi Arabia) ketika ditanya, “Bagaimanakah kami melakukan sujud sahwi?”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSumberArtikelSujudSahwi"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sujud Sahwi"
+            android:textColor="@color/colorAccent"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

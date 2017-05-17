@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_green_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="Sholat Muthlaq"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Macam-macam Shalat Sunah :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Shalat sunah ada dua macam: Muthlaq dan Muqayad"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Shalat Sunah Muqayad adalah shalat sunah yang dianjurkan untuk dilakukan pada waktu tertentu atau pada keadaan tertentu. Seperti tahiyatul masjid, dua rakaat seusai wudhu, shalat sunah rawatib, dst."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Shalat Sunah Muthlaq : semua shalat sunah yang dilakukan tanpa terikat waktu, sebab tertentu, maupun jumlah rakaat tertentu. Sehingga boleh dilakukan kapanpun, di manapun, dengan jumlah rakaat berapapun, selama tidak dilakukan di waktu atau tempat yang terlarang untuk shalat. (Al-Mausu&apos;ah Al-Fiqhiyah Al-Kuwaitiyah, 27/154).  "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Hukum Shalat Sunah Mutlak :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Shalat sunah mutlak, dianjurkan untuk banyak dilakukan setiap waktu, siang maupun malam, selain waktu larangan untuk shalat. Waktu terlarang tersebut adalah :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="a. Setelah subuh sampai matahari terbit"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="b. Ketika matahari tepat berada di atas kepala, hingga condong sedikit kebarat"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="c. Ketika matahari sudah menguning setelah asar, hingga matahari terbenam. "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Allah berfirman :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/muthlaq1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Punggung-punggung mereka jauh dari tempat tidur, karena beribadah kepada Allah, dengan penuh rasa takut dan rasa harap. Mereka juga menginfakkan sebagian dari rizki yang Aku berikan kepada mereka. (QS. As-Sajdah: 16)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Keutamaan Shalat Sunah Mutlak :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Dari Rabi&apos;ah bin Ka&apos;b Al-Aslami radhiyallahu &apos;anhu, beliau menceritakan :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Aku pernah tidur bersama Nabi shallallahu &apos;alaihi wa sallam. Aku layani beliau dengan menyiapkan air wudhu beliau dan kebutuhan beliau. Setelah usai, beliau bersabda: Mintalah sesuatu. Aku menjawab: &apos;Aku ingin bisa bersama anda di surga.&apos; Beliau bersabda: Yang selain itu? &apos;Hanya itu.&apos; Kataku. Kemudian beliau bersabda :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/muthlaq2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Jika demikian, bantulah aku untuk mewujudkan harapanmu dengan memperbanyak sujud. (HR. Muslim). "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Rasulullah shallallahu &apos;alaihi wa sallam merupakan figur yang pandai berterima kasih kepada orang lain. Sehingga ketika ada orang yang melayani beliau, beliau tidak ingin itu menjadi utang budi bagi beliau. Sebagai wujud rasa terima kasih, beliau menawarkan kepada Rabi&apos;ah yang telah membantunya, agar meminta sesuatu sebagai upahnya. Namun sang sahabat menginginkan agar upahnya berupa surga, bersama Nabi shallallahu &apos;alaihi wa sallam. Untuk mewujudkan itu, Rasulullah shallallahu &apos;alaihi wa sallam meminta agar Rabi&apos;ah memperbanyak sujud, dalam arti memperbanyak shalat sunah. Karena seseorang bisa melakukan sujud sebanyak-banyaknya dengan rajin shalat sunah mutlak. "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Dalam hadis yang lain, dari Ma&apos;dan bin Abi Thalhah Al-Ya&apos;mari mengatakan :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Saya pernah bertemu Tsauban, budak yang dibebaskan Rasulullah shallallahu &apos;alaihi wa sallam. Akupun bertanya kepadanya, &apos;Tolong ceritakan kepadaku, amalan apa yang bisa menjadi sebab Allah memasukkanku ke dalam surga?&apos; Dalam riwayat yang lain: &apos;Sampaikan kepadaku amalan yang paling dicintai Allah?&apos; Tsauban-pun terdiam. Kemduian aku mengulangi pertanyaanku tiga kali. Setelah itu beliau menjawab, &apos;Aku pernah menanyakan hal itu kepada Rasulullah shallallahu &apos;alaihi wa sallam. Dan beliau menjawab: "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/muthlaq3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Perbanyaklah bersujud. Karena tidaklah kamu bersujud sekali, kecuali Allah akan mengangkat satu derajat untukmu dan menghapus satu kesalahan darimu. (HR. Muslim). "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Tingkat Keutamaan :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Pada penjelasan sebelumnya, telah disebutkan bahwa shalat sunah ada 2: shalat sunah mutlak dan shalat sunah muqayad. Semua shalat sunah ini, tingkatannya berbeda-beda. Berikut rinciannya, "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="1. Shalat sunah muqayad, lebih utama dibandingkan shalat sunah mutlak. Meskipun shalat sunah muqayad ini dilakukan di siang hari"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="2. Shalat sunah mutlak yang dilakukan di malam hari, lebih utama dibandingkan shalat sunah mutlak yang dilakukan di siang hari. "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Sebagai contoh, orang yang mengerjakan shalat sunah mutlak antara maghrib dan isya, lebih utama dibandingkan orang yang mengerjakan shalat sunah mutlak antara dzuhur dan asar. "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Dari Abu Hurairah radhiyallahu &apos;anhu, Nabi shallallahu &apos;alaihi wa sallam bersabda, "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/muthlaq4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Shalat yang paling utama setelah shalat wajib adalah shalat sunah yang dikerjakan di malam hari. (HR. Muslim)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="3. Shalat sunah mutlak yang dikerjakan di sepertiga malam terakhir, lebih utama dibandingkan shalat sunah mutlak di awal malam. Karena sepertiga malam terakhir adalah waktu mustajab untuk berdoa."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text=" Dari Abu Hurairah radhiyallahu &apos;anhu, Nabi shallallahu &apos;alaihi wa sallam bersabda :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/muthlaq5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Tuhan kita Yang Maha Mulia lagi Maha Tinggi, turun setiap malam ke langit dunia, ketika tersisa sepertiga malam yang terakhir. Kemudian Dia berfirman: &apos;Siapa yang berdoa kepada-Ku akan Aku kabulkan, siapa yang meminta kepada-Ku akan Aku beri, dan siapa yang memohon ampun kepada-Ku akan aku ampuni. (HR. Muslim)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Demikian yang dikabarkan Rasulullah shallallahu &apos;alaihi wa sallam yang wajib kita imani sebagaimana yang beliau sampaikan. Allah turun ke langit dunia, dengan cara yang sesuai kebesaran dan keagungannya, dan tidak boleh kita khayalkan. "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="4. Shalat sunah yang dilakukan di rumah, lebih utama dibandingkan shalat sunah yang dikerjakan di masjid.
+"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/muthlaq6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : Sesungguhnya shalat yang paling utama adalah shalat yang dilakukan seseorang di rumahnya, kecuali shalat wajib. (HR. Bukhari &amp; Muslim)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Tata Cara Shalat Sunah Mutlak"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Shalat sunah mutlak tata caranya sama dengan shalat biasa. Tidak ada bacaan khusus, maupun doa khusus. Sama persis seperti shalat pada umumnya. "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Untuk bilangan rakaatnya, bisa dikerjakan dua rakaat salam – dua rakaat salam. Bisa diulang-ulang dengan jumlah yang tidak terbatas. "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Dari Ibnu Umar radhiyallahu &apos;anhuma, bahwa ada seseorang yang mendatangi Nabi shallallahu &apos;alaihi wa sallam dan bertanya, &apos;Bagaimana cara shalat di malam hari?&apos; Beliau menjawab: "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/muthlaq7" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Dua rakaat-dua rakaat, dan jika kamu khawatir nabrak subuh, kerjakanlah witir satu rakaat, sebagai pengganjil untuk semua shalat yang telah anda kerjakan. (HR. Bukhari &amp; Muslim) "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Untuk shalat sunah mutlak yang dikerjakan siang hari, bisa juga dikerjakan empat rakaat dengan salam sekali, tanpa duduk tasyahud awal."
+            android:textColor="#F7F7F7"
+            android:paddingBottom="40dp"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatMuthlaq"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat  Muthlaq"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

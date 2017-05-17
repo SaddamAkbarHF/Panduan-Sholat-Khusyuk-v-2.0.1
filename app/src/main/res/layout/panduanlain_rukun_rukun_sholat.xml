@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="Rukun - Rukun Sholat"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Yang dimaksud dengan rukun shalat adalah setiap perkataan atau perbuatan yang akan membentuk hakikat shalat. Jika salah satu rukun ini tidak ada, maka shalat pun tidak teranggap secara syar’i dan juga tidak bisa diganti dengan sujud sahwi."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Meninggalkan rukun shalat ada dua bentuk :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Pertama: Meninggalkannya dengan sengaja. Dalam kondisi seperti ini shalatnya batal dan tidak sah dengan kesepakatan para ulama."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Kedua: Meninggalkannya karena lupa atau tidak tahu. Di sini ada tiga rincian : "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="1. Jika mampu untuk mendapati rukun tersebut lagi, maka wajib untuk melakukannya kembali. Hal ini berdasarkan kesepakatan para ulama."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="2. Jika tidak mampu mendapatinya lagi, maka shalatnya batal menurut ulama-ulama Hanafiyah. Sedangkan jumhur ulama (mayoritas ulama) berpendapat bahwa raka’at yang ketinggalan rukun tadi menjadi hilang."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="3. Jika yang ditinggalkan adalah takbiratul ihram, maka shalatnya harus diulangi dari awal lagi karena ia tidak memasuki shalat dengan benar."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Rukun ke - 1 : Berdiri bagi yang mampu"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Nabi shallallahu ‘alaihi wa sallam bersabda :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Shalatlah dalam keadaan berdiri. Jika tidak mampu, kerjakanlah dalam keadaan duduk. Jika tidak mampu lagi, maka kerjakanlah dengan tidur menyamping.”[1]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Rukun ke - 2 : Takbiratul ihram"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Nabi shallallahu ‘alaihi wa sallam bersabda :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Pembuka shalat adalah thoharoh (bersuci). Yang mengharamkan dari hal-hal di luar shalat adalah ucapan takbir. Sedangkan yang menghalalkannya kembali adalah ucapan salam. ”[2]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Yang dimaksud dengan rukun shalat adalah ucapan takbir “Allahu Akbar”. Ucapan takbir ini tidak bisa digantikan dengan ucapakan selainnya walaupun semakna."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Rukun ke - 3 : Membaca Al Fatihah di Setiap Raka’at"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Nabi shallallahu ‘alaihi wa sallam bersabda :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Tidak ada shalat (artinya tidak sah) orang yang tidak membaca Al Fatihah.”[3]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Rukun ke - 4 dan ke - 5 : Ruku’ dan thuma’ninah"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Nabi shallallahu ‘alaihi wa sallam pernah mengatakan pada orang yang jelek shalatnya (sampai ia disuruh mengulangi shalatnya beberapa kali karena tidak memenuhi rukun),"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Kemudian ruku’lah dan thuma’ninahlah ketika ruku’.”[4]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Keadaan minimal dalam ruku’ adalah membungkukkan badan dan tangan berada di lutut."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Sedangkan yang dimaksudkan thuma’ninah adalah keadaan tenang di mana  setiap persendian juga ikut tenang. Sebagaimana Nabi shallallahu ‘alaihi wa sallam pernah mengatakan pada orang yang jelek shalatnya sehingga ia pun disuruh untuk mengulangi shalatnya, beliau bersabda,"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Shalat tidaklah sempurna sampai salah seorang di antara kalian menyempurnakan wudhu, … kemudian bertakbir, lalu melakukan ruku’ dengan meletakkan telapak tangan di lutut sampai persendian yang ada dalam keadaan thuma’ninah dan tenang.”[5]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Ada pula ulama yang mengatakan bahwa thuma’ninah adalah sekadar membaca dzikir yang wajib dalam ruku’."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Rukun ke - 6 dan ke - 7 : I’tidal setelah ruku’ dan thuma’ninah"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Nabi shallallahu ‘alaihi wa sallam mengatakan pada orang yang jelek shalatnya,"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Kemudian tegakkanlah badan (i’tidal) dan thuma’ninalah.”[6]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Rukun ke - 8 dan ke - 9 : Sujud dan thuma’ninah"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Nabi shallallahu ‘alaihi wa sallam mengatakan pada orang yang jelek shalatnya,"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat7" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Kemudian sujudlah dan thuma’ninalah ketika sujud.”[7]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Hendaklah sujud dilakukan pada tujuh bagian anggota badan: [1,2] Telapak tangan kanan dan kiri, [3,4] Lutut kanan dan kiri, [5,6] Ujung kaki kanan dan kiri, dan [7] Dahi sekaligus dengan hidung."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Rasulullah shallallahu ‘alaihi wa sallam bersabda :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat8" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Aku diperintahkan bersujud dengan tujuh bagian anggota badan: [1] Dahi (termasuk juga hidung, beliau mengisyaratkan dengan tangannya), [2,3] telapak tangan kanan dan kiri, [4,5] lutut kanan dan kiri, dan [6,7] ujung kaki kanan dan kiri. ”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Rukun ke - 10 dan ke - 11 : Duduk di antara dua sujud dan thuma’ninah"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Rasulullah shallallahu ‘alaihi wa sallam bersabda :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat9" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Kemudian sujudlah dan thuma’ninalah ketika sujud. Lalu bangkitlah dari sujud dan thuma’ninalah ketika duduk. Kemudian sujudlah kembali dan thuma’ninalah ketika sujud.”[8]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Rukun ke - 12 dan ke - 13 : Tasyahud akhir dan duduk tasyahud"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Rasulullah shallallahu ‘alaihi wa sallam bersabda :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat10" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Jika salah seorang antara kalian duduk (tasyahud) dalam shalat, maka ucapkanlah “at tahiyatu lillah …”.”[9]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Bacaan tasyahud:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat11" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“At tahiyaatu lillah wash sholaatu wath thoyyibaat. Assalaamu ‘alaika ayyuhan nabiyyu wa rohmatullahi wa barokaatuh. Assalaamu ‘alaina wa ‘ala ‘ibadillahish sholihiin. Asy-hadu an laa ilaha illallah, wa asy-hadu anna muhammadan ‘abduhu wa rosuluh.” (Segala ucapan penghormatan hanyalah milik Allah, begitu juga segala shalat dan amal shalih. Semoga kesejahteraan tercurah kepadamu, wahai Nabi, begitu juga rahmat Allah dengan segenap karunia-Nya. Semoga kesejahteraan terlimpahkan kepada kami dan hamba-hamba Allah yang shalih. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah dengan benar selain Allah dan aku bersaksi bahwa Muhammad adalah hamba dan Rasul-Nya) [10]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Apakah bacaan tasyahud “assalamu ‘alaika ayyuhan nabi” perlu diganti dengan bacaan “assalaamu ‘alan nabi”?"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Al Lajnah Ad Da-imah (Komisi Fatwa di Saudi Arabia) pernah ditanya,"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Dalam tasyahud apakah seseorang membaca bacaan “assalamu ‘alaika ayyuhan nabi” atau  bacaan “assalamu ‘alan nabi”? ‘Abdullah bin Mas’ud pernah mengatakan bahwa para sahabat dulunya sebelum Nabi shallallahu ‘alaihi wa sallam wafat, mereka mengucapkan “assalamu ‘alaika ayyuhan nabi”. Namun setelah beliau wafat, para sahabat pun mengucapkan “assalamu ‘alan nabi”."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Jawab:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Yang lebih tepat, seseorang ketika tasyahud dalam shalat mengucapkan “assalamu ‘alaika ayyuhan nabi wa rohmatullahi wa barokatuh”. Alasannya, inilah yang lebih benar yang berasal dari berbagai hadits. Adapun riwayat Ibnu Mas’ud mengenai bacaan tasyahud yang mesti diganti setelah Nabi shallallahu ‘alaihi wa sallam wafat –jika memang itu benar  riwayat yang shahih-, maka itu hanyalah hasil ijtihad Ibnu Mas’ud dan tidak bertentangan dengan hadits-hadits shahih yang ada. Seandainya ada perbedaan hukum bacaan antara sebelum Nabi shallallahu ‘alaihi wa sallam wafat dan setelah beliau wafat, maka pasti Nabi shallallahu ‘alaihi wa sallam sendiri yang akan menjelaskannya pada para sahabat."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="(Yang menandatangani fatwa ini adalah Syaikh ‘Abdul ‘Aziz bin Baz sebagai Ketua, Syaikh ‘Abdur Rozaq ‘Afifi sebagai Wakil Ketua, Syaikh ‘Abdullah bin Qu’ud dan ‘Abdullah  bin Ghodyan sebagai anggota)[11]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Rukun ke - 14 : Shalawat kepada Nabi setelah mengucapkan tasyahud akhir[12]"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Dalilnya adalah hadits Fudholah bin ‘Ubaid Al Anshoriy. Rasulullah shallallahu ‘alaihi wa sallam pernah mendengar seseorang yang berdo’a dalam shalatnya tanpa menyanjung Allah dan bershalawat kepada Nabi shallallahu ‘alaihi wa sallam, lalu beliau mengatakan, “Begitu cepatnya ini.” Kemudian Nabi shallallahu ‘alaihi wa sallam mendo’akan orang tadi, lalu berkata padanya dan lainnya,"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat12" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Jika salah seorang di antara kalian hendak shalat, maka mulailah dengan menyanjung dan memuji Allah, lalu bershalawatlah kepada Nabi shallallahu ‘alaihi wa sallam, lalu berdo’a setelah itu semau kalian.”[13]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Bacaan shalawat yang paling bagus adalah sebagai berikut."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat13" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Allahumma sholli ‘ala Muhammad wa ‘ala aali Muhammad kamaa shollaita ‘ala Ibroohim wa ‘ala aali Ibrohim, innaka hamidun majiid. Allahumma baarik ‘ala Muhammad wa ‘ala aali Muhammad kamaa barrokta ‘ala Ibrohim wa ‘ala aali Ibrohimm innaka hamidun majiid.”[14]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Rukun ke - 15 : Salam"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Dalilnya hadits yang telah disebutkan di muka,"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/rukunsholat14" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="“Yang mengharamkan dari hal-hal di luar shalat adalah ucapan takbir. Sedangkan yang menghalalkannya kembali adalah ucapan salam. ”[15]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Yang termasuk dalam rukun di sini adalah salam yang pertama. Inilah pendapat ulama Syafi’iyah, Malikiyah dan mayoritas ‘ulama."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Tipe Salam Dibagi Empat:"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="1. Salam ke kanan “Assalamu ‘alaikum wa rohmatullah”, salam ke kiri “Assalamu ‘alaikum wa rahmatullah”."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="2. Salam ke kanan “Assalamu ‘alaikum wa rohmatullah wa barokatuh”, salam ke kiri “Assalamu ‘alaikum wa rahmatullah”."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="3. Salam ke kanan “Assalamu ‘alaikum wa rohmatullah”, salam ke kiri “Assalamu ‘alaikum”."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="4. Salam sekali ke kanan “Assalamu’laikum”.[16]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Rukun ke - 15 : Urut dalam rukun-rukun yang ada"
+            android:textColor="@color/colorAccent"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="Alasannya karena dalam hadits orang yang jelek shalatnya, digunakan kata “tsumma“ dalam setiap rukun. Dan “tsumma” bermakna urutan.[17]"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="40dp"
+            android:paddingTop="40dp"
+            android:text="Penulis: Muhammad Abduh Tuasikal"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSumberArtikelRukunRukunSholat"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Rukun Rukun Sholat"
+            android:textColor="@color/colorAccent"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

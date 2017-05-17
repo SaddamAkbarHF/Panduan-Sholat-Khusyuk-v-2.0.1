@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_green_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="Sholat Jumat"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Hari Jumat adalah hari yang mulia bagi umat islam, didalamnya kita disyariatkan untuk melaksanakan sholat yang kita sebut dengan sholat jumat yang disertai dengan khutbah."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Sebelum kita membahas tentang cara pelaksanaan khutbah jum&apos;at, alangkah lebih baiknya kita akan membahas ibadah Shalat jumat itu sendiri. sehingga kita mengetahui apa yang seharusnya kita kerjakan setelah sampai di masjid, dihari jumat siang. Dan tata cara pelaksanaan Shalat Jum’at, yaitu :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="1. Khatib naik ke atas mimbar setelah tergelincirnya matahari (waktu dzuhur), kemudian memberi salam dan duduk."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="2. Muadzin mengumandangkan adzan sebagaimana halnya adzan dzuhur."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="3. Khutbah pertama: Khatib berdiri untuk melaksanakan khutbah yang dimulai dengan hamdalah dan pujian kepada Allah SWT serta membaca shalawat kepada Rasulullah SAW. Kemudian memberikan nasehat kepada para jama’ah, mengingatkan mereka dengan suara yang lantang, menyampaikan perintah dan larangan Allah SWT dan RasulNya, mendorong mereka untuk berbuat kebajikan serta menakut-nakuti mereka dari berbuat keburukan, dan mengingatkan mereka dengan janji-janji kebaikan serta ancaman-ancaman Allah Subhannahu wa Ta’ala. Kemudian duduk sebentar."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="4. Khutbah kedua: Khatib memulai khutbahnya yang kedua dengan hamdalah dan pujian kepadaNya. Kemudian melanjutkan khutbahnya dengan pelaksanaan yang sama dengan khutbah pertama sampai selesai"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="5. Khatib kemudian turun dari mimbar. Selanjutnya muadzin melaksanakan iqamat untuk melaksanakan shalat. Kemudian memimpin shalat berjama’ah dua rakaat dengan mengeraskan bacaan."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Rukun Khutbah Jumat"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="1) Rukun Pertama: Hamdalah"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Khutbah jumat itu wajib dimulai dengan hamdalah. Yaitu lafaz yang memuji Allah SWT. Misalnya lafaz alhamdulillah, atau innalhamda lillah, atau ahmadullah. Pendeknya, minimal ada kata alhamd dan lafaz Allah, baik di khutbah pertama atau khutbah kedua."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Contoh bacaan:"
+            android:textColor="#FF00FF"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/jumat1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Innal hamdalillahi nahmaduhu wa nasta’iinuhu wa nastaghfiruhu wa na’uudzubillaahi min syuruuri anfusinaa wa min sayyiaati a’maalinaa mayyahdihillaahu falaa mudhillalahu wa mayyudhlilfalaa haadiyalahu"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="2) Rukun Kedua: Shalawat kepada Nabi SAW"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Shalawat kepada nabi Muhammad SAW harus dilafadzkan dengan jelas, paling tidak ada kata shalawat. Misalnya ushalli ‘ala Muhammad, atau as-shalatu ‘ala Muhammad, atau ana mushallai ala Muhammad."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Contoh bacaan:"
+            android:textColor="#FF00FF"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/jumat2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Allahumma sholli wa sallam ‘alaa muhammadin wa ‘alaa alihii wa ash haabihi wa man tabi’ahum bi ihsaani ilaa yaumiddiin."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic|bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="3)Rukun Ketiga: Washiyat untuk Taqwa"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Yang dimaksud dengan washiyat ini adalah perintah atau ajakan atau anjuran untuk bertakwa atau takut kepada Allah SWT. Misalnya dalam bentuk kalimat: “takutlah kalian kepada Allah”. Atau kalimat: “marilah kita bertaqwa dan menjadi hamba yang taat”."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="Contoh bacaan:"
+            android:textColor="#FF00FF"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/jumat3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="yaa ayyuhalladziina aamanuu ittaqullaaha haqqa tuqaatihi wa laa tamuutunna ilaa wa antum muslimuun"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Ketiga rukun di atas harus terdapat dalam kedua khutbah Jumat."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:text="4) Rukun Keempat: Membaca ayat Al-Quran pada salah satunya"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Minimal satu kalimat dari ayat Al-Quran yang mengandung makna lengkap. Bukan sekedar potongan yang belum lengkap pengertiannya. Maka tidak dikatakan sebagai pembacaan Al-Quran bila sekedar mengucapkan lafadz: “tsumma nazhar”."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Tentang tema ayatnya bebas saja, tidak ada ketentuan harus ayat tentang perintah atau larangan atau hukum. Boleh juga ayat Quran tentang kisah umat terdahulu dan lainnya."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="Contoh bacaan:"
+            android:textColor="#FF00FF"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/jumat4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text=" Fastabiqul khairooti ayna maa takuunuu ya’ tinikumullahu jamii’an innallaaha ‘alaa kulli syaiin qodiiru (QS. Al-Baqarah, 2 : 148)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingTop="15dp"
+            android:text=" Selanjutnya berwasiat untuk diri sendiri dan jamaah agar selalu dan meningkatkan taqwa kepada Allah SWT, lalu mulai berkhutbah sesuai topiknya. Memanggil jamaah bisa dengan panggilan ayyuhal muslimun, atau ma’asyiral muslimin rahimakumullah, atau “sidang jum’at yang dirahmati Allah”."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bSholatJumatSumberLain"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:text="Sumber Lain"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+
+        <Button
+            android:id="@+id/bPenggantiSholatJumat"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:text="Pengganti Sholat Jumat"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatJumat"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat Jumat"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

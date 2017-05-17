@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Sunnah - Sunnah Lain Dalam Shalat :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Termasuk sunnah, yaitu imam menjahrkan takbirnya dan pada saat mengucapkan tasmii’ (sami’allaahu liman hamidah), sesuai dengan sabda Rasulullah shallallahu ‘alaihi wa sallam, “Jika imam takbir maka bertakbirlah kalian.”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Juga sabda Rasulullah shallallahu ‘alaihi wa sallam, “Jika imam mengucapkan Sami’allaahu liman hamidah, maka ucapkanlah: Rabbanaa walakal hamdu.” (Muttafaqun ‘alaih)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Adapun makmum dan orang yang shalat sendiri, maka mereka mensirrkan kedua ucapan tersebut."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Disunnahkan mengucapkan ta’awwudz secara sirr, dengan mengucapkan A’uudzu billaahi minasy syaithaanir rajiim, atau A’uudzu billaahi minasy syaithaanir rajiim min hamzihi wanafkhihi wanaftsih (aku berlindung kepada Allah dari godaan syaithan yang terkutuk, dari semburannya, kesombongannya dan hembusannya). Lalu membaca basmalah dengan sirr (pelan), basmalah tidak termasuk Al-Fatihah, tidak pula surat-surat lainnya (kecuali pada surat An-Naml ayat 30, pent), namun basmalah merupakan satu ayat tersendiri yang berada di awal tiap surat kecuali At-Taubah."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Disunnahkan menulis basmalah di awal tiap kitab sebagaimana yang telah dilakukan oleh Nabi Sulaiman dan Rasulullah shallallahu ‘alaihi wa sallam, serta hendaklah diucapkan di tiap permulaan suatu pekerjaan, sebab ia dapat mengusir syaithan."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Ketika membaca Al-Fatihah disunnahkan untuk berhenti pada tiap ayat sebagaimana cara Nabi shallallahu ‘alaihi wa sallam membacanya, lalu mengucapkan aamiin (Ya Allah, kabulkanlah!) setelah diam sejenak agar diketahui bahwa kata aamiin bukan dari Al-Qur`an. Tidak boleh mengucapkan Rabighfirlii sebelum aamiin, karena tidak ada dalilnya. Imam dan makmum menjahrkan aamiin secara bersamaan pada shalat jahr, setelah itu disunnahkan bagi imam untuk diam sejenak pada shalat jahr berdasarkan hadits Samurah."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Disunnahkan membaca satu surat secara utuh setelah Al-Fatihah (dari awal sampai akhir ayat dalam satu surat) walaupun boleh hanya membaca satu ayat, yang menurut Al-Imam Ahmad mustahab (sunnah/disukai) satu ayat tersebut panjang. Adapun di luar shalat, maka membaca basmalah boleh dengan jahr atau sirr."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Hendaklah surat yang dibaca pada shalat Fajr (Shubuh), surat yang termasuk dalam Thiwaal Al-Mufashshal (surat-surat panjang dari mufashshal), berdasarkan ucapan Aus, “Saya telah menanyakan kepada para shahabat Muhammad shallallahu ‘alaihi wa sallam, bagaimana kalian membagi Al-Qur`an?” Maka masing-masing mereka berkata, “Tiga bagian, lima, tujuh, sembilan, sebelas dan tiga belas, ditambah satu bagian Al-Mufashshal (yang dimulai dari surat Qaaf hingga An-Naas).”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Kemudian pada shalat Maghrib membaca Qishaar Al-Mufashshal (surat-surat pendek dari mufashshal). Adapun pada shalat-shalat yang lain, maka membaca Ausath Al-Mufashshal (yang sedang dari mufashshal) jika tidak ada ‘udzur/halangan, namun jika ada halangan maka membaca yang pendek saja."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Tidak mengapa bagi wanita membaca dengan jahr pada shalat jahr, selama tidak ada laki-laki ajnabiy (yang bukan mahram) yang mendengarkannya."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Adapun orang yang melakukan shalat sunnah di malam hari, maka hendaklah ia memperhatikan maslahat, jika di dekatnya ada orang yang merasa terganggu hendaklah ia sirrkan, adapun jika orang di dekatnya justru memperhatikan bacaannya maka hendaklah ia jahrkan. Tidak terlalu keras dan tidak terlalu pelan sebagaimana Rasulullah shallallahu ‘alaihi wa sallam memerintahkan Abu Bakr radhiyallahu ‘anhu ketika shalat malam agar meninggikan sedikit suaranya dan memerintahkan ‘Umar radhiyallahu ‘anhu agar menurunkan sedikit suaranya."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Hendaklah menjahrkan bacaan pada tempat jahr dan mensirrkannya pada tempat sirr, walaupun tetap sah shalatnya kalau ia melakukan kebalikannya, akan tetapi sunnah lebih berhak untuk diikuti. Adapun tertib ayat, maka wajib diperhatikan karena tertib ayat harus berdasarkan nash."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Termasuk sunnah, berpaling ke kanan dan kiri saat salam, dan hendaklah berpaling ke kiri lebih dalam hingga pipi terlihat. Imam menjahrkan pada salam pertama saja, adapun selain imam maka hendaklah mensirrkan kedua salam itu. Disunnahkan untuk tidak memanjangkan suara saat memberi salam serta berniat dengannya untuk keluar dari (mengakhiri) shalat dan memberi salam kepada malaikat penjaga dan orang-orang yang hadir."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Termasuk sunnah, setelah shalat imam (berbalik) condong ke makmum baik pada sisi kanan atau kirinya, imam tidak lama duduk menghadap Kiblat setelah salam, dan makmum tidak pergi sebelum imam. Rasulullah shallallahu ‘alaihi wa sallam bersabda,“Sesungguhnya aku adalah imam kalian, maka janganlah mendahuluiku dalam ruku’, sujud dan pergi.”"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Jika ada jama’ah wanita yang ikut shalat, maka hendaklah jama’ah wanita itu keluar terlebih dahulu, sedangkan jama’ah laki-laki tetap pada tempatnya untuk berdzikir agar tidak berpapasan dengan wanita."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Wallaahu A’lam. Tambahan dari satu permohonan akan maghfirah di antara dua sujud"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Yang wajib adalah satu kali sesuai riwayat Hudzaifah bahwa Nabi shallallahu ‘alaihi wa sallam mengucapkan di antara dua sujud, Rabbighfirlii (Rabbku ampunkanlah aku!). (HR. An Nasa`iy dan Ibnu Majah)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Meratakan kepala dengan punggung dalam ruku’"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Berdasarkan hadits ‘A`isyah, “Jika ruku’, maka beliau shallallahu ‘alaihi wa sallam tidak meninggikan kepalanya dan tidak pula menurunkannya, akan tetapi di antara itu.” (HR. Muslim)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Berjauhan antara kedua lengan atas dengan kedua sisi, antara perut dengan kedua paha dan antara kedua paha dengan kedua betis pada waktu sujud"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Mengisyaratkan dengan telunjuk pada tasyahhud awal dan tasyahhud akhir sejak mulai duduk sampai selesai tasyahhud"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Mendo’akan shalawat dan berkah untuk Nabi Muhammad shallallahu ‘alaihi wa sallam dan keluarga beliau serta untuk Nabi Ibrahim ‘alaihis sallam dan keluarga beliau pada tasyahhud awal"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Menjahrkan (mengeraskan) bacaan pada shalat Fajr, Jum’at, Dua Hari Raya, Istisqaa` (minta hujan) dan pada dua raka’at pertama shalat Maghrib dan ‘Isya`"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:text="Disadur dari Syarh Ad-Duruus Al-Muhimmah li ‘Aammatil Ummah, karya Asy-Syaikh Ibnu Baaz dan Shifatu Shalaatin Nabiy shallallahu ‘alaihi wa sallam karya Asy-Syaikh Al-Abaniy."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bSumberArtikelSunnahSholat"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/colorPrimaryDark"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:text="Sumber Artikel Sunnah-Sunnah Sholat"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="3dp"
+            android:paddingTop="30dp"
+            android:text="Halaman 13"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevSunnah13"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Prev"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp" />
+            <Button
+                android:id="@+id/bHome"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="HOME"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:onClick="clickhome"/>
+
+            <Button
+                android:id="@+id/bNextSunnah13"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Back To Menu"
+                android:textSize="16dp"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

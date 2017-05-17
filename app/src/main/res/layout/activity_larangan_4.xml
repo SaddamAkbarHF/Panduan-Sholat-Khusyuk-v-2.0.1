@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="11. Menggeliat Ketika Shalat
+\n\nMenggeliat dalam shalat hukumnyya makruh, kecuali sekedarnya karena memang dibutuhkan. Alasannya karena menggeliat menunjukkan sikap yang tidak khusyu’ dalam shalat.
+\n\nBerdasarkan riwayat dari Sa’id bin Jubair, ia berkata, “Menggeliat mengu-rangi pahala shalat.” [Hadits ini diriwayatkan oleh Ibnu Abi Syaibah (I/349)]
+\n\n12. Tathbiq Ketika Ruku’
+\n\nTathbiq adalah menyatukan kedua telapak tangan lalu meletakkannya di antara kedua lutut dan paha ketika ruku.’
+Penulis berkata, “Pada awalnya cara seperti ini disyariatkan, tetapi kemu-dian dilarang.”
+Diriwayatkan dari Mush’ab bin Sa’ad, ia berkata, “Aku shalat di samping ayahku lalu aku letakkan kedua tanganku di antara kedua lututku, maka ayahku berkata kepadaku, ‘Letakkan kedua telapak tanganmu di atas kedua lututmu.’ Pada kali lain aku ulangi cara tersebut, dan ayahku langsung memukul tanganku seraya berkata, ‘Kami dilarang melakukan cara seperti ini, dan kami diperintahkan untuk meletakkan kedua telapak tangan di atas lutut’.” [Hadits shahih, diriwayatkan oleh Al_Bukhari dan Muslim]
+\n\n13. Membaca Alquran Ketika Ruku’ Dan Sujud
+\n\nHal ini berdasarkan sabda Rasulullah shallallahu ‘alaihi wa sallam, “Ketahui-lah bahwa aku dilarang membaca Alquran dalam keadaan ruku’ dan sujud.” [Hadits shahih, diriwayatkan oleh Muslim]
+\n\n14. Menghamparkan Kedua Hasta (Di Atas Lantai) Ketiika Sujud
+\n\nHal ini berdasarkan sabda Rasulullah shallallahu ‘alaihi wa sallam, “Luruslah dalam sujud dan jangan salah seorang di antara kalian menghamparkn kedua tangannya sebagaimana yang dilakukan anjing.” [Hadits shahih, diri-wayatkan oleh Al_Bukhari, Muslim, dan lain-lain"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:text="Halaman 4"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevLarangan4"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:text="Prev"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="16dp" />
+            <Button
+                android:id="@+id/bHome"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:textColor="@color/colorAccent"
+                android:layout_weight="1"
+                android:text="HOME"
+                android:textAllCaps="true"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:onClick="clickhome"/>
+
+            <Button
+                android:id="@+id/bNextLarangan4"
+                android:layout_width="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="Next"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

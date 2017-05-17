@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Hal-Hal yang Dilarang dalam Shalat :\n\nPerkara yang dilarang dalam shalat adalah perkara-perkara yang disebutkan dalam nash-nash syariat tentang keharamannya atau kemakruhannya dalam shalat. Tetapi larangan-larangan ini (bila dilanggar) tidak membatalkan shalat dan hanya mengurangi nilai pahalanya, yaitu sebagai berikut:
+\n\n1. Berkacak Pinggang Dalam Shalat.
+\n\nDiriwayatkan dari Ziyad bin Shubaih, ia berkata, “Aku pernah shalat di samping Ibnu Umar radhiyallahu ‘anhuma dan aku letakkan kedua tangan-ku di atas pinggang. Setelah shalat, ia berkata, ‘Ini salib dalam shalat, dan Rasulullah shallallahu ‘alaihi wa sallam melarangnya.’ ” (Hadits hasan, diriwayatkan oleh Abu Dawud, An Nasa’i, dan Ahmad dengan sanad hasan)
+Berdasarkan juga riwayat dari Aisyah bahwa ia membenci (memakruhkan) orang yang shalat dengan berkacak pinggang, seraya berkata, “Perbuatan ini dilakukan oleh kaum Yahudi.” (Hadits ini diriwayatkan oleh Al Bukhari)
+\n\n2. Memandang Ke Langit.
+\n\nBerdasarkan sabda Rasulullah shallallahu ‘alaihi wa sallam, “Hendaklah mereka berhenti mengangkat pandangan mereka ke langit ketika berdoa dalam shalat, pandangan mereka akan direnggut (dibutakan).” [Hadits shahih, diriwayatkan oleh Muslim dan An_Nasa’i (III/39)]
+\n\n3. Melihat Sesuatu Yang Dapat Melalaikan Shalat
+\n\nBerdasarkan hadits dari Aisyah bahwasannya Nabi shallallahu ‘alaihi wa sallam pernah shalat dengan mengenakan baju yang bercorak, maka beliau bersabda, “Corak pakaian ini telah mengggangu shalatku. Bawahlah jubah ini kepada Abu Jahm, lalu ambilkan untukku Anbajaniyah (baju kasar tanpa corak)nya.” (Hadits shahih, diriwayatkan oleh Al Bukhari dan Muslim)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:text="Halaman 1"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevLarangan1"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:textColor="@color/colorAccent"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:text="Back to Menu"
+                android:textSize="16dp" />
+
+            <Button
+                android:id="@+id/bNextLarangan1"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:text="Next"
+                android:textSize="16dp"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

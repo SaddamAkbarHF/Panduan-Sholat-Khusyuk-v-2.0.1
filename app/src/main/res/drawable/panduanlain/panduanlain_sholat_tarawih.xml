@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_green_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingTop="15dp"
+            android:text="Sholat Tarawih"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Shalat Tarawih adalah shalat malam yang dikerjakan pada bulan Ramadhan. Shalat Tarawih hukumnya sunah muakkad, boleh dikerjakan sendiri atau berjama&apos;ah."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Shalat Tarawih dilakukan sesudah shalat Isya sampai waktu fajar. Jumlah raka&apos;at yang pernah dilakukan oleh Rasulullah SAW ada delapan raka&apos;at."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Cara mengerjakan Shalat Tarawih :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Tiap-tiap dua rakaat diakhiri dengan salam, setelah selesai shalat tarawih hendaknya diteruskan dengan shalat witir, sekurang kurannya satu rakaat. Umumnya shalat witir dikerjakan tiga raka&apos;at dengan dua salam dan boleh juga dikerjakan tiga raka&apos;at satu salam."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Surat yang dibaca sesudah Al-Fatihah pada tiap-tiap raka&apos;at boleh mana saja yang kita kehendaki. Umpamanya mulai dari surat Al-Takasur sampai surat Lahab, sedangkan pada rakaat kedua setelah Fatihah yang dibaca boleh sembaran surat, tetapi diutamakan surat Al-Ikhlash."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="25dp"
+            android:text="Niat mengerjakan shalat Tarawih :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/tarawih1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:text="USHALLI SUNNATAT-TARAAWIIHI RAK&apos;ATAINI (MA&apos;MUUMAN / IMAAMAN) LILLAHI TA&apos;AALA"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya: Aku niat Salat Tarawih dua rakaat (menjadi makmum/ imam) karena Allah Ta&apos;ala"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingTop="20dp"
+            android:text="ATAU"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/tarawih2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="USHOLI SUNNATATTAROWIH ROK&apos;ATAINI LILLAHI TA&apos;ALA"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya:  Aku niat Salat Tarawih dua rakaat karena Allah Ta&apos;ala"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Dalam bulan Ramadhan kita disunahkan memperbanyak tadarrus (membaca Al-Qur&apos;an) memperbanyak membaca shalawat, dzikit dan berdoa. Untuk menambah syi&apos;ar bulan Ramadhan serta menggembirakan para jama&apos;ah, ada beberapa shalawat dan doa yang biasa dibaca dalam jama&apos;ah shalat tarawih, dengan cara cara sebagai berikut :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="1. Setelah shalat &apos;isya, maka bersama sama bilal dan makmum membaca :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="“SUBHAANAL MALIKIL MA’BUUDI, SUBHAANAL MALIKIL MAUJUUDI, SUBHAANAL MALIKIL HAYYIL LADZII LAA YANAAMU WALAA YAMUUTU WALAA YAFUUTU ABADAN SUBBUUHUN QUDDUUSUN RABBUNAA WARABBUL MALAAIKATI WARRUUHI, SUBHAANALLAAHI WAL HAMDU LILLAAHI WALAA ILAAHA ILLALLAAHU WALLAAHU AKBARU WALAA HAULA WALAA QUWWATA ILLAA BILLAAHIL ‘ALIYYIL ‘ADHIIMI”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="7dp"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Maha suci Allah yg memiliki alam dan yg di sembah Maha suci Allah yg memiliki lagi Maha Hidup dan tiada Mati dan tiada hilang selama-lamanya. Maha Suci Maha Quddus, Tuhan kami dan Tuhan semua malaikat dan ruh, Maha Suci Allah dan segala puji bagi Allah dan tiada Tuhan melainkan Allah, Allah Maha Besar, dan tiada daya upaya dan tiada kekuatan kecuali dengan Allah, Tuhan yang Maha Tinggi lagi Agung”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Kemudian bilal membaca shalawat :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALLAAHUMMA SHALLI ‘ALAA SAYYIDINAA MUHAMMAD”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Ya Allah karuniakanlah kesejahteraan kepada junjungan kita Nabi Muhammad”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Dijawab para jama’ah :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALLAAHUMMA SHALLI WASALLIM ‘ALAIH”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya :“Ya Allah, limpahkanlah kesejahteraan dan keselamatan atasnya (Muhammad)."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Setelah itu bilal membaca shalawat lagi :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALLAAHUMMA SHALLI ‘ALAA SAYYIDINAA WAMAULAANA MUHAMMADIN”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Ya Allah, limpahkanlah kesejahteraan kepada junjungan kita dan pemimpin kita Nabi Muhammad”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Dijawab para jama’ah :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALLAAHUMMA SHALLI WASALLIM ‘ALAIH”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Kemudian bilal membaca shalawat lagi :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALLAHUMMA SHALLI ‘ALAA SAYYIDINAA WANABIYYINAA WAHABIIBINA WASYAFII’INAA WADZUHRINAA WAMAULAANAA MUHAMMADIN”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Ya Allah, karuniailah kesejahteraan atas junjungan kita. Nabi kita, kekasih kita, dan yang mensyafaatkan kita (kelak) dan pertaruhkan kita dan pemimpin kita Nabi Muhammad”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Dijawab para jama’ah :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALLAAHUMMA SHALLI WASALLIM ‘ALAIH”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Lalu bilal mengucapkan :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ASHSHALAATUT TARAAWIIHI RAHIMA KUMULLAAHU”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Kerjakanlah shalat Tarawih semoga Allahmelimpahkan rahmat kepada kamu sekalian”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Kemudian imam serta para jama’ah berdiri untuk melakukan shalat Tarawih dua rakaat, sebagai shalat Tarawih dua rakaat yang pertama. Sesudah salam pada dua rakaat yang pertama, bilal bersama jama’ah mengucapkan :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“FADL-LAM MINALLAAHI WANI’MATAN WAMAGHFIRATAN WARAHMATAN LAA ILAAHA ILAAHA ILLALLAHU WAHDAHU LAA SYARIIKA LAHU, LAHUL MULKU WALAHUL HAMDU YUHYII WAYUMIITU WAHUWA ‘ALAA KULLI SYAI-IN QADIIR”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Kemurahan Allah dan Nikmat-Nya dan ampuanan serta rahmatNya semoga dilimpahkan kepada kita, tidak ada Tuhan melainkan Allah, Ia Maha Esa, tiada sekutu bagiNya, bagiNya segala kekuasaan dan bagiNya segala puji, dzat yang menghidupkan dan mematikan, dan Dia atas segala sesuatuNya Maha Kuasa”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Setelah itu bilal membaca shalawat seperti tersebut diatas, dan para jama’ah menjawabnya dengan “ALLAHUMMA SHALLI WASALLIM ‘ALAIH”. Lalu imam serta para jama’ah berdiri lagi untuk melakukan shalat Tarawih dua rakaat, sebagai shalat Tarawih dua rakaat yang kedua. Selesai salam pada rakaat yang keempat, bilal bersama-sama para jama’ah membaca : “SUBHAANAL MALIKIL MA ‘BUUDI……….. sampai selesai."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Sehabis itu bilal membaca shalawat seperti tersebut diatas dan para jama’ah menjawab dengan “ALLAHUMMA SHALLI WASALLIM ‘ALAIH”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Lalu bilal mengucapkan :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALBADRUL MUNIIRU SAYYIDUNAA MUHAMMADUN SHALLUU ‘ALAIHI”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Bulan purnama yang bersinar kemilauan, junjungan kita Nabi Muhammad, bershalawatlah kamu semua atasnya”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Setelah itu imam serta para jama’ah berdiri lagi untuk melakukan shalat Tarawih dua rakaat, sebagai shalat Tarawih dua rakaat yang ketiga. Selesai salam pada rakaat yang keenam maka bilal beserta para jama’ah mengucapkan “FADL-LAM MINALLAAHI WANI’MAH………….. sampai selesai seperti tersebut diatas. Lalu para jama’ah menjawab “ALLAAHUMMA SHALLI WASALLIM ‘ALAIH”. Lantas Imam beserta para jama’ah berdiri untuk melakukan shalat Tarawih dua rakaat yang keempat. Selesai salam pada rakaat kedelapan kemudian bilal dan para jama’ah membaca “SUBHAANAL MALIKIL MA’BUUDI……. Sampai selesai. Lalu para jama’ah menjawab dengan ucapan : “ALLAAHUMMA SHALLI WASALLIM ‘ALAIH”. Sehabis itu bilal megucapkan :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALKHALIIFATUL UULA AMIIRUL MU’MINIINA SAYYIDUNAA ABUU BAKRINISH SHIDDIIQ”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Khalifah yang pertama amiirul mu’miniin penghulu kami Abu Bakar Shiddiq”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Kemudian para jama’ah menjawab :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“RADLIYALLAAHU ‘ANHU”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Selanjutnya selesai salam pada rakaat yang kesepuluh, maka bilal serta para jama’ah membaca seperti yang dibaca selesai salam pada rakaat yang keenam. Selanjutnya selesai salam pada rakaat yang kedua belas, bilal serta para jama’ah membaca seperti yang dibaca selesai salam pada rakaat yang keempat."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Kemudian bilal membaca :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALKHALIIFATUTS TSAANIYYATU AMIIRULMU’MINIINA SAYYIDUNAA ‘UMARUBNUL KHATHTHAB”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Khalifah yang kedua Amiirul Mu’miniin penghulu kami ‘Umar bin Khathab”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Dan dijawab para jama’ah “"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“RADLIYALLAAHU ‘ANHU”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Selanjutnya selesai salam pada rakaat yang keempat belas, bilal beserta para jama’ah membaca seperti yang dibaca selesai salam pada rakaat keenam. Selesai salam yang keenam belas, bilal beserta para jama’ah membaca seperti yang dibaca selesai dalam pada rakaat yang keempat."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Kemudian bilal membaca :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALKHALIIFATUTS TSAALITSATU AMIIRUL MU’MINIINA SAYYIDUNAA ‘UTSMAANABNU ‘AFFAAN”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Khalifah yang ketiga amiirul mu’miniin penghulu kami Usman bin Affan”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Dan para jama’ah menjawab :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“RADLIYALLAAHU ‘ANHU”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Selesai salam pada rakaat yang kedelapan belas, bilal serta para jama’ah membaca seperti yang dibaca selesai salam pada rakaat yang keenam. Dan selesai salam yang kedua puluh, bilal serta para jama’ah membaca seperti yang dibaca selesai salam pada rakaat yang keempat."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Kemudian bilal mengucapkan :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALKHALIIFATUR RAABI’ATU AMIIRUL MU’MINIINA SAYYIDUNAA ‘ALIYYIBNI ABII THAALIB”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Khalifah yang keempat amiirul mu’miniin penghulu kami ‘Ali Ibnu Abi Thalib”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Dijawab para jama’ah :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“RADLIYALLAAHU ‘ANHU”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Do’a sesudah shalat Tarawih :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALLAAHUMMA INNAA NAS-ALUKA RIDLAAKA WALJANNATA WANA’UUDZU BIKA MIN SAKHATIKA WANNAARI ALLAAHUMMA INNAKA ‘AFUWWUN KARIIM TUHIBBUL ‘AFWA FA’FU’ ANNAA WAWAALIDAINAA WA’AN JAMII’IL MUSLIMIINA WALMUSLIMAATI BIRAHMATIKA YAA AR-HAMAR RAAHIMIIN”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Ya Allah, kami memohon kehadirat-Mu untuk mendapatkan keridhaanMu dan surge-Mu. Dan kami berlindung dari kemurkaan-Mu dan dari siksa neraka. Ya Allah sesungguhnya Engkau Maha Pengampun lagi Maha Mulia, Engkau suka mengampuni, sebab itu ampunilah kami dan ampunilah kedua orang tua kai serta seluruh kaum muslimin dan muslimat dengan kasih saying-Mu wahai Tuhan yang Maha Penyayang”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Kemudian membaca do’a :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALLAAHUMMAJ’ALNAA BIL IIMAANI KAAMILIINA. WALIFARAA-IDLIKA MU-ADDIINA WA-ALASH SHALAWAATI MUHAAFIDHIINA. WALIZZAKAATI FAA’ILIINA WALIMAA ‘INDAKA THAALIBIINA. WALI-AFWIKA RAAJINA, WABIL HUDAA MUTAMASSIKIINA. WA-ANIL LAGHWI MU’RIDLIINA WAFID DUNYAA ZAAHIDIINA, WAFIL AAKHIRATI RAAGHIBIINA, WABIL QADLAA-I RAADLIINA, WABIN NA’MAA-I SYAAKIRIINA. WA-ALAL BALAA-I SHAABIRIINA WATAHTA LIWAA-I SAYYIDINAA MUHAMMADIN SHALLALLAAHU ‘ALAIHI WASAI LAMA YAUMAL QIYAAMATI SAAIRIINA WA’ALAL HAUDLI WAARIDIINA, WAFIL JANNATI DAKHILIINA. WA-ALAA SARIIRATIL KARAAMATI QAA’IDIINA. WABIKHUURIN ‘IININ MUTAZAWWIJIINA WAMIN SUNDUSIN WAISTABRAQIN WADIIBAAJIN MUTA-LABBISIINA WATHA’AAMIL JANNATI AAKILIINA. WAMIN LABANIN WA’ASALIN MUSHAFFIINA SYAARIBIINA BIAKWAABIN WA-ABAARIIQA WAKA’SIN MIM MA’IININ MA’AL LADZIINA AN’AMTA ‘ALAIHIM MINAN NABIYYIINA WASH SHIDDIIQIINA WASY SYUHADAA-I WASH-SHAALIHIINA WAHASUNA ULAA-IKA RAFIIQAA, DZAALIKAL FADLLU MINALLAAHI WAKAFAA BILLAAHI ‘ALIIMA. WALHAMDU LILLAAHI RABBIL ‘AALAMIIN”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Ya Allah, jadikanlah kami (orang-orang) yang imannya sempurna, dapat menunaikan segala fardlu, menjaga shalat. Menunaikan zakat, menuntut/mencari segala kebaikan di sisiM, mengharap ampunan-Mu senantiasa memegang teguh petunjuk-petunjukMu, terlepas/terhindar dari segala penyelewengan dan zuhud di dunia dan di akherat dan tabah (sabar) menerima cobaan, mensukuri segala nikmat-Mu dan semoga nanti pada hari kiamat kami dalam satu barisan di bawahnaungan panji-panji junjungan kita Nabi Muhammad saw, dan melalui talaga yang sejuk, masuk didalam sorga, terhindar dari api neraka dan duduk di tahta kehormatan, didampingi oleh bidadari sorga, dan mengenakan baju-baju kebesaran dari sutra berwarna-warni, menikmati santapan sorga yang lezat, minum susu dan madu yang suci bersih dalam gelas-gelas dan orang-orang yang telah Engkau beri nikmat pada mereka dari golongan para Nabi, shiddiqin dan orang-orang yang syahid serta orang-orang shahih. Dan baik sekali mereka menjadi teman-teman kami. Demikianlah kemurahan dari Allah SWT, dan kecukupan dari Allah Yang Maha Mengetahui. Dan segala puji bagi Allah Tuhan seru sekalian alam”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Shalat Witir, Shalat yg bilangan rakaatnya ganjil, boleh dikerjakan satu rakaat salam, dua rakaat salam dan satu rakaat salam, atau bias juga tiga rakaat salam, 5, 7, 9, 11."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Lafadz niat shalat Witir dua rakaat salam :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“USHALLII SUNNATAL WITRI RAK’ATAINI LILLAAHI TA’AALAA”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya :“Aku niat shalat sunnat Witir dua rakaat karena Allah Ta’ala”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Lafadz niat shalat Witir yang terakhir satu rakaat :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“USHALLII SUNNATAL WITRI RAK’ATAN LILLAAHI TA’AALAA”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“Artinya :Aku niat shalat sunnat Witir satu rakaat karena Allah Ta’ala”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Lafadz niat shalat Witir tiga rakaat :"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“USHALLLII SUNNATAL WITRI TSALAATSA RAKA’AA-TIN LILLAAHI TA’AALAA”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya : “Aku niat shalat sunnat Witir tiga rakaat karena Allah Ta’ala”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Doa sesudah shalat Witir."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALLAAHUMMA INNAA NAS-ALUKA IIMAANAN DAA-IMAN, WANAS-ALUKA QALBAN KHAASYI’AN, WANAS-ALUKA ‘ILMAN NAAFI’AN, WANAS-ALUKA YAQIINAN SHAADIQAN, WANAS-ALUKA ‘AMALAN SHAALIHAN, WANAS-ALUKA DIINAN QAYYIMAN, WANAS-ALUKA KHAIRAN KATSIIRA, WANAS-ALUKAL ‘AFWA WAL’AAFIYATA, NAS-ALUKA TAMAAMAL ‘AAFIYATI, WANAS-ALUKASY SYUKRA ‘ALAL ‘AAFIYATI, WANAS-ALUKAL GHINAA-A ‘ANIN NAASI, ALLAAHUMMA RABBANAA TAQABBAL MINNAA SHALAATANAA WASHIYAAMANAA WAQIYAAMANAA WATAKHASYSYU ‘ANAA WATADLARRU ‘ANAA WATA ‘ABBUDANAA WATAMMIM TAQSHIIRANAA YAA ALLAHU YAA ALLAAHU YAA ALLAAHU YAA ARHAMAR RAAHIMIIN. WASHALLALLAAHU ‘ALAA KHAIRI KHALQIHII MUHAMMADIN WA’ALAA AALIHII WASHAHBIHII AJMA’IINA WALHAMDU LILLAAHI RABBIL ‘AALAMIIN”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya :“Ya Allah, ya Tuhan kami, kami memohon kepada-Mu (mohon diberi) iman yang lenggeng, dan kami mohon kepada-Mu hati kami yang khusyu’, dan kami mohon kepada-Mu diberi ilmu yang bermanfaat, dan kami mohon ditetapkannya keyakinan yang benar, dan kami mohon (dapat melaksanakan) amal yang shalih dan mohon tetap dalam agama islam, dan kami mohon diberinya kebaikan yang melimpah-limpah, dan kami mohon memperoleh ampunan dan kesehatan, dan kami mohon kesehatan yang sempurna, dan kami mohon mensyukuri atas kesehatan kami, dan kami mohon kecukupan. Ya Allah ya Tuhan kami, terimalah shalat kami, puasa kami, rukuk kami, dan khusyu’ kami, dan pengabdian kami, dan sempurnakanlah apa yang kami lakukan selama shalat, ya Allah, ya Allah, ya Allah Dzat yang Maha Pengasih dan Penyayang, semoga Allah member kesejahteraan atas sebaik-baik makhluk-Nya yaitu Nabi Muhammad, atas keluarga dan semua sahabatnya, dan segala puji bagi Allah Tuhan semesta alam”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Do’a yang biasa dibaca dalam shalat Tarawih “"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALLAAHUMMA INNAKA ‘AFUWWUN TUHIBBUL ‘AFWA FA’FU’ANNII 3X"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="“ALLAAHUMMA INNAA NAS-ALUKA RIDLAAKA WALJANNATA WANA’UUDZU BIKA MIN SAKHATIKA WANNAARI 3X"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Artinya :“Ya Allah, Engkaulah Tuhan yang member ampun, dan Engkaulah Tuhan yang suka member ampun, karena itu ampunilahhamba, ya Allah, hamba mohon keridlaan-Mu/sorga dan hindarkanlah hamba dari kemurkaan-Mu dan api neraka”."
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:paddingBottom="40dp"
+            android:typeface="monospace" />
+
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatTarawih"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat Tarawih"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

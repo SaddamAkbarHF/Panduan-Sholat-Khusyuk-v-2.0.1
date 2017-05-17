@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Panduan ini tidak bermaksud menggurui, namun sebagai catatan buat Kita bersama karena saya sendiri merasa bahwa sulit sekali untuk sholat dengan khusyu. Sholat masih terburu-buru dan sepertinya sekedar membatalkan kewajiban. Itupun kadang masih bolong-bolong. Astaghfirullah, mohon ampunan-Mu Ya Rabbi."
+            android:textColor="#546E7A"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Berikut ini adalah panduan dari Sholat Khusyu :"
+            android:textColor="#546E7A"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Banyak orang yang melakukan gerakan shalat dengan asal - asalan. Berdiri,  rukuk, sujud semua dilakukan dengan tergesa - gesa karena ingin cepat selesai dari sholatnya. Rukuk asal rukuk,  sujud demikian pula. Bacaan sholat dibaca dengan cepat, fikiran melayang tak tentu arah tidak mengikuti apa yang dibaca. Gerakan shalat jika dilakukan dengan benar dan tuma’ninah sangat bermanfaat bagi metabolisme tubuh. Memperbaiki persendian dan melancarkan aliran darah diseluruh tubuh. Penelitian menunjukan bahwa gerakan shalat yang tepat dan benar, mirip dengan senam yoga. Pada saat rukuk dengan posisi 90 derajat ruas - ruas tulang punggung akan tertarik dan lebih panjang daripada ketika posisi berdiri. Sambungan tulang punggung jadi fleksibel mudah mudahan terpelihara dari penyakit pengapuran tulang punggung. Ketika sujud juga konon ada bagian penting diotak yang hanya bisa dialiri darah ketika dalam posisi sujud. Ini bisa meningkatkan kecerdasan dan kinerja otak. Gerakan shalat yang dilakukan dengan perlahan dan tu maninah akan menimbulkan perasaan relaks,  nyaman dan tentram pada hati dan pikiran."
+            android:textColor="#546E7A"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="♦ Gerakan shalat : "
+            android:textColor="#546E7A"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="♦ Pengaturan nafas dalam shalat :"
+            android:textColor="#546E7A"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Umumnya manusia dalam keadaan sehari hari hanya menggunakan kurang dari 20 % kapasitas paru parunya untuk bernafas. Nafasnya pendek, tidak dalam dan panjang, sehingga sebagian besar kapasitas paru parunya tidak terpakai. Didalam paru paru yang tidak terpakai terdapat udara basi. Dimana satu ketika ia pernah menarik nafas panjang kemudian pengeluaran udara tidak dilakukan sampai tuntas udara yang tersisa merupakan udara basi didalam paru paru. Dalam jangka panjang bagian paru paru yang tidak terpakai itu akan mengalami kerusakan. Orang yang selalu berolah raga, terutama olah raga pernafasan seperti Taichi, Waitankung, Yoga, Satria Nusantara , Mahatma, Silat tenaga dalam, dan lain lain Insya Allah paru parunya tetap sehat."
+            android:textColor="#546E7A"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:text="Halaman 1"
+            android:textColor="#546E7A"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/bPrev1"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="Back to Menu"
+                android:textColor="@color/colorAccent"
+                android:textSize="16dp" />
+
+            <Button
+                android:id="@+id/bNext1"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="Next"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="16dp"
+                android:typeface="monospace" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

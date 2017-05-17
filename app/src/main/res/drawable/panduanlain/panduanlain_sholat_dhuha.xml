@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_green_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="30dp"
+            android:paddingTop="15dp"
+            android:text="Sholat Dhuha"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Sholat dhuha atau sholat sunah dhuha merupakan sholat sunah yang dikerjakan pada waktu dhuha. Waktu dhuha merupakan waktu dimana matahari telah terbit atau naik kurang lebih 7 hasta hingga terasa panas menjelang shalat dzhur. atau sekitar jam 7 sampai jam 11, tentunya setiap daerah berbeda, tergantung posisi matahari pada daerah masing-masing. Sholat dhuha sebaiknya dikerjakan pada seperempat kedua dalam sehari, atau sekitar pukul sembilan pagi. Sholat dhuha dilakukan secara sendiri atau tidak berjamaah (Munfarid)."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Keutamaan dan Keistimewaan shalat Dhuha"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Hadits Rasulullah saw yang menceritakan tentang keutamaan shalat Dhuha, di antaranya:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="1. Sedekah Bagi Seluruh Persendian Tubuh Manusia"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Dari Abu Dzar al-Ghifari ra, ia berkata bahwa Nabi Muahammad saw bersabda:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="-Di setiap sendiri seorang dari kamu terdapat sedekah, setiap tasbih (ucapan subhanallah) adalah sedekah, setiap tahmid (ucapan alhamdulillah) adalah sedekah, setiap tahlil (ucapan lailahaillallah) adalah sedekah, setiap takbir adalah sedekah, menyuruh kepada kebaikan adalah sedekah, mencegah dari kemungkaran adalah sedekah. Dan dua rakaat Dhuha diberi pahala- (HR Muslim)."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="2. Ghanimah (Keuntungan) Yang Besar"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Dari Abdullah bin `Amr bin `Ash radhiyallahu `anhuma, ia berkata:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="-Rasulullah saw mengirim sebuah pasukan perang. Nabi saw berkata: &apos;Perolehlah keuntungan (ghanimah) dan cepatlah kembali!. Mereka akhirnya saling berbicara tentang dekatnya tujuan (tempat) perang dan banyaknya ghanimah (keuntungan) yang akan diperoleh dan cepat kembali (karena dekat jaraknya). Lalu Rasulullah saw berkata; &apos;Maukah kalian aku tunjukkan kepada tujuan paling dekat dari mereka (musuh yang akan diperangi), paling banyak ghanimah (keuntungan) nya dan cepat kembalinya? Mereka menjawab; &apos;Ya! Rasul berkata lagi: &apos;Barangsiapa yang berwudhu&apos;, kemudian masuk ke dalam masjid untuk melakukan shalat Dhuha, dia lah yang paling dekat tujuanannya (tempat perangnya), lebih banyak ghanimahnya dan lebih cepat kembalinya.- (Shahih al-Targhib: 666)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="3. Sebuah Rumah Di Surga"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Bagi yang rajin mengerjakan shalat Dhuha, maka ia akan dibangunkan sebuah rumah di dalam surga. Hal ini dijelaskan dalam sebuah hadits Nabi Muahammad saw:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="-Barangsiapa yang shalat Dhuha sebanyak empat rakaat dan empat rakaat sebelumnya, maka ia akan dibangunkan sebuah rumah di surge.- (Shahih al-Jami`: 634)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="4. Memeroleh Ganjaran Di Sore Hari"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Dari Abu Darda&apos; ra, ia berkata bahwa Rasulullah saw berkata:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="-Allah ta`ala berkata: &apos;Wahai anak Adam, shalatlah untuk-Ku empat rakaat dari awal hari, maka Aku akan mencukupi kebutuhanmu (ganjaran) pada sore harinya- (Shahih al-Jami: 4339)."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Dalam sebuah riwayat juga disebutkan: &apos;Innallaa `azza wa jalla yaqulu: Yabna adama akfnini awwala al-nahar bi&apos;arba`i raka`at ukfika bihinna akhira yaumika&apos; (Sesungguhnya Allah `Azza Wa Jalla berkata: &apos;Wahai anak Adam, cukuplah bagi-Ku empat rakaat di awal hari, maka aku akan mencukupimu di sore harimu&apos;)."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="5. Pahala Umrah"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Dari Abu Umamah ra bahwa Rasulullah saw bersabda:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="&apos;Barangsiapa yang keluar dari rumahnya dalam keadaan bersuci untuk melaksanakan shalat wajib, maka pahalanya seperti seorang yang melaksanakan haji. Barangsiapa yang keluar untuk melaksanakan shalat Dhuha, maka pahalanya seperti orang yang melaksanakan `umrah....(Shahih al-Targhib: 673). Dalam sebuah hadits yang lain disebutkan bahwa Nabi saw bersabda: &apos;Barangsiapa yang mengerjakan shalat fajar (shubuh) berjamaah, kemudian ia (setelah usai) duduk mengingat Allah hingga terbit matahari, lalu ia shalat dua rakaat (Dhuha), ia mendapatkan pahala seperti pahala haji dan umrah; sempurna, sempurna, sempurna&apos; (Shahih al-Jami`: 6346)."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="6. Ampunan Dosa"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="&apos;Siapa pun yang melaksanakan shalat dhuha dengan langgeng, akan diampuni dosanya oleh Allah, sekalipun dosa itu sebanyak buih di lautan.&apos; (HR Tirmidzi)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Waktu Mengerjakan Shalat Dhuha"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text=" Waktu duha adalah waktu ketika matahari mulai naik kurang lebih 7 hasta sejak terbitnya (kira-kira pukul tujuh pagi) hingga waktu zuhur."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Tapi ada pendapat lain juga yang menyebutkan waktu sholat duha yang baik adalah mulai pukul 09.00 - 11.00. Ini berdasarkan beberapa tanda masuknya waktu shalat Dhuha, sebagaimana dijelaskan oleh hadits-hadits di atas."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Pertama"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Ketinggian matahari pagi di sebelah timur diperkirakan sama dengan ketinggian matahari sore di sebelah barat saat masuknya waktu Ashar. "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Kedua"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Matahari mulai berangsur panas. Jika permulaan waktu ashar dalam ukuran waktu modern berkisar di antara jam 15.00 sampai 15.30 WIB. sore hari, ketinggian matahari di sore hari pada jam-jam tersebut kira-kira sama dengan ketinggian matahari di pagi hari pada jam 9.00 WIB. Dengan demikian, kita dapat memperkirakan menurut ukuran waktu modern-waktu pelaksanaan shalat Dhuha Rasulullah Saw. sebagaimana yang diungkapkan dalam hadits-hadits di atas."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Sebagai info tambahan ada juga waktu-waktu haram yang mengapit shalat Dhuha :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="1. Waktu haram #1 = sesudah Shalat Subuh hingga matahari bersinar, atau kurang lebih sejak jam 06:00 AM hingga 07:45 AM"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="2. Waktu haram #2 = ketika hampir masuk waktu Zuhur hingga tergelincir matahari, atau kurang lebih jam 11:30 AM hingga 12:00 PM"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text=" Jumlah Rakaat Shalat Dhuha"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Jumlah minimal rakaat Shalat Dhuha adalah dua rakaat, sebagaimana hadits Abu Hurairah di depan. Bisa juga mengerjakan empat rakaat, enam rakaat, delapan rakaat, atau duabelas rakaat, atau tanpa batasan, karena semuanya memiliki pijakan dari sunnah Rasulullah . (Shalatul Mukmin: 1/449, Syarh Riyadhus Shalihin, Al-Utsaimin:"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Dalil Shalat Dhuha empat rakaat hingga tanpa batasan  adalah hadits Aisyah S :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/dhuha1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Dari Aisyah S beliau berkata, “Rasulullah n shalat Dhuha empat rakaat dan menambahnya sesuai dengan kehendak Allah.” (HR. Muslim)"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Niat shalat dhuha :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/dhuha2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Ushallii sunnatadh-dhuhaa rak’ataini lillaahi ta’aalaa."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Artinya: ” Aku niat shalat sunat dhuha dua rakaat, karena Allah.”"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Tata cara sholat dhuha :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Tata cara sholat dhuha hampir sama dengan sholat sunah pada umumnya, berikut cara shalat duha yang benar :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="1. Setelah membaca niat seperti yang telah tertulis diatas kemudian membaca takbir,"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="2. Membaca doa Iftitah"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="3. Membaca surat al Fatihah"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="4. Membaca satu surat didalam Alquran. Afdholnya rakaat pertama membaca surat Asy-Syam  dan rakaat kedua surat Al Lail  "
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="5. Ruku’ dan membaca tasbih tiga kali"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="6. I’tidal dan membaca bacaannya"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="7. Sujud pertama dan membaca tasbih tiga kali"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="8. Duduk diantara dua sujud dan membaca bacaanya"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="9. Sujud kedua dan membaca tasbih tiga kali"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="10. Setelah rakaat pertama selesai, lakukan rakaat kedua sebagaimana cara diatas, kemudian Tasyahhud akhir setelah selesai maka membaca salam dua kali. Rakaat-rakaat selanjutnya dilakukan sama seperti contoh diatas."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Dzikir sesudah sholat Dhuha :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Diriwayatkan setelah shalat dhuha Nabi S.A.W membaca :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/dhuha3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Robbigh firly watub ‘alayya innaka antat-tawwaabul Ghofur ( dibaca 100 x )"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Artinya : Ya Robbi, Ampunilah aku dan terimalah taubatku, Sesungguhnya Engkau Maha Penerima taubat dan ampunan"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="italic"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Bacaan Doa sesudah Shalat Dhuha | Arab :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/dhuha4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Bacaan Do&apos;a Shalat Dhuha bahasa indonesia / Latin :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="ALLAHUMMA INNADH DHUHA-A DHUHA-UKA, WAL BAHAA-A BAHAA-UKA, WAL JAMAALA JAMAALUKA, WAL QUWWATA QUWWATUKA, WAL QUDRATA QUDRATUKA, WAL ISHMATA ISHMATUKA. ALLAHUMA INKAANA RIZQI FIS SAMMA-I FA ANZILHU, WA INKAANA FIL ARDHI FA-AKHRIJHU, WA INKAANA MU’ASARAN FAYASSIRHU, WAINKAANA HARAAMAN FATHAHHIRHU, WA INKAANA BA’IDAN FA QARIBHU, BIHAQQIDUHAA-IKA WA BAHAAIKA, WA JAMAALIKA WA QUWWATIKA WA QUDRATIKA, AATINI MAA ATAITA ‘IBADIKASH SHALIHIN."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Arti bacaan doa sholat dhuha :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="“Ya Allah, sesungguhnya waktu dhuha adalah waktu dhuha-Mu, keagungan adalah keagunan-Mu, keindahan adalah keindahan-Mu, kekuatan adalah kekuatan-Mu, penjagaan adalah penjagaan-Mu, Ya Allah, apabila rezekiku berada di atas langit maka turunkanlah, apabila berada di dalam bumi maka keluarkanlah, apabila sukar mudahkanlah, apabila haram sucikanlah, apabila jauh dekatkanlah dengan kebenaran dhuha-Mu, kekuasaan-Mu (Wahai Tuhanku), datangkanlah padaku apa yang Engkau datangkan kepada hamba-hambaMu yang soleh”."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bSumberArtikelSholatDhuha"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Sholat Dhuha"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

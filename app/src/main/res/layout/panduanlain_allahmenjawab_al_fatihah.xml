@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="ALLAH Menjawab"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Al-Fatihah Kita"
+            android:textColor="#455A64"
+            android:textSize="18dp"
+            android:paddingBottom="30dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Pada saat kita membaca surah AL-FATIHAH banyak sekali orang yang cara membacanya tegesa-gesa tanpa spasi dan seakan-akan ingin cepat menyelesaikan Shalatnya.."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Padahal di saat kita selesai membaca satu ayat dari surah Al-Fatihah tersebut, ALLAH menjawab setiap ucapan kita."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="Dalam Sebuah Hadits Qudsi ALLAH Subhanahu Wata&apos;ala ber-Firman :“Aku membagi Shalat menjadi dua bagian,untuk Aku dan untuk Hamba-KU“. Artinya,tiga ayat diatas Iyyaka Na&apos;budu Wa iyyaka nasta&apos;in adalah Hak ALLAH dan tiga ayat kebawahnya adalah urusan Hamba-Nya.."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="- Ketika Kita mengucapkan “Alhamdulillahi Rabbil &apos;alamin“.ALLAH menjawab :“Hamba-KU telah memuji-KU“."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="- Ketika kita mengucapkan “Ar-Rahmanir-Raahiim“,ALLAH menjawab : “Hamba-Ku telah mengaagungkan-Ku“."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- Ketika kita mengucapkan “Maliki yaumiddin“,ALLAH menjawab : “Hamba-Ku memuja-Ku“"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- Ketika kita mengucapkan “Iyyaka na’ budu wa iyyaka nasta’in”,ALLAH menjawab : “Inilah perjanjian antara Aku dan hamba-KU”."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- Ketika kita mengucapkan “Ihdinash shiratal mustaqiim,Shiratalladzina an’amta alaihim ghairil maghdhubi alaihim waladdhooliin. ”ALLAH menjawab : “Inilah perjanjian antara Aku dan hamba-Ku,akan Ku penuhi yang ia minta.” (H.R.Muslim dan At-Turmudzi)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- Berhentilah sejenak setelah membaca setiap satu ayat.Rasakanlah jawaban indah dari ALLAH karena ALLAH sedang menjawab ucapan kita.."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="- Selanjutnya kita ucapkan ”Aamiin” dengan ucapan yang lembut,sebab Malaikatpun sedang mengucapkan hal yang sama dengan kita.."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:paddingBottom="40dp"
+            android:text="- Barang siapa yang ucapan “Aamiin-nya” bersamaan dengan para Malaikat,maka ALLAH akan memberikan ampunan kepada-Nya.” (HR Bukhari,muslim,Abu Dawud)"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSumberArtikelALLAHMenjawabAlFatihah"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel ALLAH Menjawab Al-Fatihah"
+            android:textColor="@color/colorAccent"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>

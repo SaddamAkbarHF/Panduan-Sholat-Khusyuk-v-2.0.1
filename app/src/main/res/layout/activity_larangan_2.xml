@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="4. Menoleh Tanpa Ada Keperluan \n\n
+Berdasarkan riwayat dari Aisyah, ia berkata, “Aku pernah bertanya kepada Rasulullah shallallahu ‘alaihi wa sallam tentang menoleh dalam shalat, maka beliau menjawab: Itulah ikhtilas (pencurian) yang dilakukan setan dari shalat seseorang hamba.” [Hadits shahih, diriwayatkan oleh Al_Bukhari, Abu Dawud, dan An_Nasa’i (III/8)]
+Makna kata ikhtilas dalam hadits di atas adalah mengambil dengan cepat dan tersembunyi saat si pemilik barang lengah. [Lihat Abu Malik Kamal bin As_Sayyid Salim, Shahih Fiqih Sunnah, hal. 552]
+\n\n5. Menjalin Jari - Jemari
+\n\nBerdasarkan hadits dari Abu Hurairah radhiyallahu ‘anhu, ia berkata, “Rasulullah shallallahu ‘alaihi wa sallam bersabda: Apabila salah seorang dari kalian berada di rumahnya lalu ia pergi ke masjid, maka ia masih dikate-gorikan sebagai orang yang shalat hingga ia kembali (ke rumahnya), dan janganlah melakukan seperti ini, seraya beliau menjalinkan di antara jari-jari tangannya.” [Hadits ini diriwayatkan oleh Al_Hakim dalam kitab Shahih Al_Jami’ . Hadits ini ada penguatnya yang tertera dalam kitab Musnad Ahmad (III/42) dari Abu Sa’id]
+\n\n6. Membunyi Bunyikan Jari-Jemari
+\n\nBerdasarkan riwayat dari Syu’bah maula (pembantu) Ibnu Abbas, ia berkata, “Aku pernah shalat di samping Ibnu Abbas, lalu aku membunyikan jari-jariku. Seusai shalat ia berkata, ‘Semoga ibumu hilang.’ Apakah kamu membunyikan jari-jemarimu sementara kamu sedang shalat?” [Hadits hasan, diriwayatkan oleh Ibnu Abi Syaibah (II/334). Syaikh Muhammad Nashiruddin Al Albani menghasankannya dalam kitab Al Irwa’ Al Ghalil (II/99)]
+\n\n7. Berselimut Dengan Kain Dan Meletakkan Tangan Di Dalamnya
+\n\nBerselimut dengan kain dan meletakkan tangan di dalamnya, lalu ruku’ dan sujud dalam keadaan seperti ini – hal ini disebut dengan sadl. Berdasarkan hadits dari Abu Hurairah radhiyallahu ‘anhu bahwasannya Rasulullah shallallahu ‘alaihi wa sallam melarang sadl  tersebut. [Hadits hasan, diriwa-yatkan oleh Abu Dawud dan At Tirmidzi dengan sanad yang hasan]
+Penulis berkata, “Sadl adalah melilitkan kain ke badan dan kedua tangan juga termasuk dalam lilitan kain tersebut, lalu ruku’ dan sujud dalam keadaan seperti itu.”
+           "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:text="Halaman 2"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevLarangan2"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="2"
+                android:text="Prev"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp" />
+            <Button
+                android:id="@+id/bHome"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="HOME"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:onClick="clickhome"/>
+
+            <Button
+                android:id="@+id/bNextLarangan2"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:text="Next"
+                android:textSize="16dp"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

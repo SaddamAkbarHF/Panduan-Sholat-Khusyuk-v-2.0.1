@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="15dp"
+            android:text="BACAAN AL-FATIHAH"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="1. Selanjutnya tarik nafas perlahan lahan hingga memenuhi ruang paru paru, hembuskan perlahan lahan sambil membaca surat Al Fatihah. Konsentrasikan fikiran dan perasaan pada bacaan Al Fatihah tersebut. Ucapkan dengan lisan, terjemahkan dengan fikiran, pahami dengan hati. Rasakan setiap ayat yang dibaca, ikuti dengan visualisasi. Baca surat Al Fatihah tersebut dengan tartil dan perlahan - lahan :"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="● Ketika membaca Bismillahirrohmanirahiim bayangkan dan rasakan betapa rasa kasih sayang Allah pada kita semua."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="● Ketika membaca Alhamdulillahir robbil alamiin. bayangkan betapa maha terpujinya Allah penguasa alam semesta."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="● Ketika membaca Arohmaanirrohiim bayangkan sifat kasih sayang Allah yang meliputi alam semesta."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="● Ketika membaca Maalikiyau middin .bayangkan keadaan dihari berbangkit kelak , ketika kita dikumpulkan dipadang mahsyar yang kering dan tandus. Dihari yang tiada tempat bernaung selain naunganNya, dihari yang tidak ada tempat berlindung selain lindunganNya . Dialah penguasa tunggal dihari itu."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="● Ketika membaca Iyya kanabudu wa iyyaka nastain tanamkan dalam hati bahwa hanya Dialah yang disembah, dan hanya kepadaNya tempat mohon pertolongan."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="● Ketika membaca Ihdinas shiroothol mustaqiim bayangkan jalan yang lurus, jalan yang penuh rahmat dan berkahNya. "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="● Ketika membaca Shirothol ladziina an amta alaihim, ghoiril maghdu bi alaihim , waldhoolliin .bayangkan yang dimaksud jalan yang lurus adalah jalan yang ditempuh oleh orang yang telah mendapat rahmat dan nikmat dariNya , bukan jalan orang yang dimurkai dan bukan pula jalan orang yang sesat."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="● Usahakan hembusan nafas berakhir bersamaan dengan selesainya bacaan Alfatihah. "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="20dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="2.	Bacaan surat dan ayat pilihan setelah Alfatihah"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Setelah selesai membaca Alfatihah tarik nafas hingga memenuhi ruang paru paru. Hembuskan nafas perlahan lahan sambil membaca ayat atau surat pilihan. Untuk menambah kekhusuan ayat pilihan bisa disesuaikan dengan kondisi dan keadaan yang sedang mempengaruhi kita. Misalnya menghadapi musibah dan cobaan baca surat al Ankabut 1 s/d 5, nAtau Al baqarah 153-157. Untuk membangkitkan semangat perjuangan dan mendapatkan karir yang lebih baik, baca surat Ali Imran 26-27, An Nur 55-56 atau Al Fath 1-4. Mengenang kehidupan akhirat baca surat al Waqiah, surat Al Zalzalah dan Al Qoriah, Tentu saja ayat atau surat yang dibaca sudah dihafal berikut terjemahannya, demikian seterusnya. Usahakan hembusan nafas berakhir bersamaan dengan selesainya bacaan ayat pilihan tersebut."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="7dp"
+            android:text="Halaman 3"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrev3"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="3"
+                android:text="Prev"
+                android:textSize="16dp"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"/>
+
+            <Button
+                android:id="@+id/bHome"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:text="HOME"
+                android:textAllCaps="true"
+                android:textColor="@color/colorAccent"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:onClick="clickhome"/>
+
+            <Button
+                android:id="@+id/bNext3"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="3"
+                android:text="Next"
+                android:textSize="16dp"
+                android:textColor="@color/colorPrimaryDark"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

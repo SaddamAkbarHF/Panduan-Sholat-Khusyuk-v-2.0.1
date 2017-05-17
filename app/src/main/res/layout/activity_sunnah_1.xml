@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:paddingTop="15dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="Beberapa diantara sunnah - sunnah Shalat Fardhu adalah : "
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="1. Do’a Iftitah"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="2. Meletakkan (telapak) tangan kanan di atas (punggung) tangan kiri pada dada tatkala berdiri sebelum ruku’"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="3. Mengangkat kedua tangan dengan jari-jari rapat yang tebuka (tidak terkepal) setinggi bahu atau telinga tatkala takbir pertama, ruku’, bangkit dari ruku’, dan ketika berdiri dari tasyahhud awal menuju raka’at ketiga"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="4. Tambahan dari sekali tasbih dalam tasbih ruku’ dan sujud"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="5. Tambahan dari ucapan Rabbanaa walakal hamdu setelah bangkit dari ruku’"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="6. Tambahan dari satu permohonan akan maghfirah (yaitu bacaan Rabbighfirlii) Diantara dua sujud"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="7. Meratakan kepala dengan punggung dalam ruku’"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="8. Berjauhan antara kedua lengan atas dengan kedua sisi, antara perut dengan kedua paha dan antara kedua paha dengan kedua betis pada waktu sujud"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="9. Mengangkat kedua siku dari lantai ketika sujud"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="10. Duduk iftiraasy (duduk di atas kaki kiri sebagai alas dan menegakkan kaki kanan) pada tasyahhud awal dan Diantara dua sujud."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="11. Duduk tawarruk (duduk pada lantai dan meletakkan kaki kiri di bawah kaki kanan yang tegak) pada tasyahhud akhir dalam shalat tiga atau empat raka’at"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="12. Mengisyaratkan dengan telunjuk pada tasyahhud awal dan tasyahhud akhir sejak mulai duduk sampai selesai tasyahhud"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="13. Mendo’akan shalawat dan berkah untuk Nabi Muhammad shallallahu ‘alaihi wa sallam dan keluarga beliau serta untuk Nabi Ibrahim ‘alaihis salam dan keluarga beliau pada tasyahhud awal"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="14. Berdo’a pada tasyahhud akhir"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="15. Mengeraskan (jahr) bacaan pada shalat Fajar (Shubuh), Jum’at, Dua Hari Raya, Istisqaa` (minta hujan), dan pada dua raka’at pertama shalat Maghrib dan ‘Isya`"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="16. Merendahkan (sirr) bacaan pada shalat Zhuhur, ‘Ashar, pada raka’at ketiga shalat Maghrib dan dua rakaat terakhir shalat ‘Isya`"
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="17. Membaca lebih dari surat Al-Fatihah."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:text="Demikian juga kita harus memperhatikan apa-apa yang tersebut dalam riwayat tentang sunnah-sunnah selain yang telah kami sebutkan. Misalnya, tambahan dari ucapan Rabbanaa walakal hamdu setelah bangkit dari ruku’ untuk imam, makmum, dan yang shalat sendiri, karena hal itu termasuk sunnah. Meletakkan kedua tangan dengan jari-jari terbuka (tidak rapat) pada dua lulut ketika ruku’ juga termasuk sunnah."
+            android:textColor="#455A64"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="1dp"
+            android:text="Halaman 1"
+            android:textColor="#455A64"
+            android:textSize="14dp"
+            android:typeface="monospace" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/ViewColorPickerHelper"
+                android:layout_width="wrap_content"
+                android:layout_height="1dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="?android:attr/dividerVertical"
+                android:layout_centerHorizontal="true"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/bPrevSunnah1"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:textColor="@color/colorAccent"
+                android:text="Back To Menu"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp" />
+
+            <Button
+                android:id="@+id/bNextSunnah1"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_weight="1"
+                android:text="Next"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textSize="16dp"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

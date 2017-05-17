@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_green_light">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingTop="20dp"
+            android:text="Syarat Wajib Sholat"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:text="Yang dimaksud dengan syarat wajib Shalat adalah suatu prosedur atau ketentuan yang diwajibkan nya seseorang mengerjakan Shalat. Jika syarat-syarat ini belum terpenuhi maka seseorang tidak diwajibkan untuk mengerjakan Shalat, berikut adalah syarat wajib Shalat untuk kita umat Muslim."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:text="1. ISLAM"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Syarat ini sudah pasti harus dipenuhi, karena orang yang tidak islam tidak wajib mengerjakan Shalat, tetapi Ia pasti akan mendapatkan siksa di Akhirat."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:text="2. BERAKAL"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Karena sholat merupakan jalinan hubungan antara manusia dengan ALLAH maka manusia yang bisa berfikir secara logislah yang diwajibkan menjalankan Shalat, orang-orang yang tidak berakal atau orang yang tidak sehat akalnya seperti orang gila, orang yang baru mabuk ( walaupun orang itu normal tapi saat itu sedang dalam keadaan diluar akalnya atau diluar kesadarannya maka ia tidak bisa berpikir, sehingga orang yang mabuk juga termasuk orang yang tidak berakal ), dan juga orang yang pingsan tidak diwajibkan Shalat karena dalam kondisi yang tidak sadar."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:text="3. BALIGH ( DEWASA )"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Orang yang belum baigh tidak diwajibkan mengerjakan shalat, berikut adalah beberapa ciri atau tanda-tanda orang yang sudah baligh :"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="7dp"
+            android:text="a. Sudah menginjak umur kurang lebih 13-15 tahun. ( berarti lebih )"
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="7dp"
+            android:text="b. Mimpi bersetubuh ( mimpi basah )."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="7dp"
+            android:text="c. Mulai keluar darah haidl atau sering disebut datang bulan ( untuk anak perempuan )."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Berikut adalah salah satu cara/metode untuk melatih anak menjadi terbiasa untuk melaksanakan Shalat. Bagi orang tua yang memiliki anak sudah berumur sekitar 7 tahun orang tua harus sudah menyuruh untuk melaksanakan Shalat , apabila anaknya sudah berumur 10 tahun dan belum mengerjakan Shalat maka orang tua itu wajib untuk menyuruh dengan lebih keras ( maksudnya lebih disiplin ) bahkan orang tua diwajibkan memukulnya, semua itu dilakukan agar tertanam dalam diri anak itu agar tidak meninggal kan shalat."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:text="4. TELAH SAMPAINYA DAKWAH KEPADANYA"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Orang yang belum pernah mendapatkan dakwah/seruan agama, tidak wajib mengerjakan Shalat, dan dia tidak mendapat siksa diakhirat, belum mendapat seruan disini dimaksudkan seperti seorang anak kecil/bayi yang meninggal, bukan orang yang tidak mau mendapatkan seruan agama, karena belajar Ilmu agama itu wajib."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:text="5. DAPAT MELIHAT DAN MENDENGAR"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Orang yang memiliki kekurangan tidak dapat mendengar ( tuli ) dan tidak dapat melihat ( buta) sejak dia dilahirkan mereka tidak diwajibkan untuk melaksanakan Shalat karena tidak ada jalan baginya untuk mempelajari bagaimana cara mengerjakan Shalat."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:text="6. SUCI DARI HAIDL DAN NIFAS"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Seorang wanita yang sedang datang bulan atau habis melahirkan tidak diwajibkan melaksanakan Shalat karena dalam kondisi yang tidak Suci."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingLeft="25dp"
+            android:text="7. JAGA"
+            android:textColor="#F7F7F7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="7dp"
+            android:text="Maksudnya orang yang sedang tidur tidak diwajibkan untuk melaksanakan Shalat. ( tanpa disengaja )."
+            android:textColor="#F7F7F7"
+            android:textSize="17dp"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/bSumberArtikelSyaratWajibSholat"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumber Artikel Syarat Wajib Sholat"
+            android:textColor="#000000"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+</ScrollView>
